@@ -1,0 +1,2182 @@
+[
+  {
+    "points": 995,
+    "place": 1,
+    "team": {
+      "name": "Spirit",
+      "id": 7020
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 656,
+    "place": 2,
+    "team": {
+      "name": "Vitality",
+      "id": 9565
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 575,
+    "place": 3,
+    "team": {
+      "name": "Natus Vincere",
+      "id": 4608
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 516,
+    "place": 4,
+    "team": {
+      "name": "Eternal Fire",
+      "id": 11251
+    },
+    "change": 1,
+    "isNew": false
+  },
+  {
+    "points": 482,
+    "place": 5,
+    "team": {
+      "name": "G2",
+      "id": 5995
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 392,
+    "place": 6,
+    "team": {
+      "name": "FaZe",
+      "id": 6667
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 383,
+    "place": 7,
+    "team": {
+      "name": "The MongolZ",
+      "id": 6248
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 257,
+    "place": 8,
+    "team": {
+      "name": "Virtus.pro",
+      "id": 5378
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 229,
+    "place": 9,
+    "team": {
+      "name": "MOUZ",
+      "id": 4494
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 207,
+    "place": 10,
+    "team": {
+      "name": "Astralis",
+      "id": 6665
+    },
+    "change": 1,
+    "isNew": false
+  },
+  {
+    "points": 204,
+    "place": 11,
+    "team": {
+      "name": "Liquid",
+      "id": 5973
+    },
+    "change": -2,
+    "isNew": false
+  },
+  {
+    "points": 173,
+    "place": 12,
+    "team": {
+      "name": "Falcons",
+      "id": 11283
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 170,
+    "place": 13,
+    "team": {
+      "name": "paiN",
+      "id": 4773
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 162,
+    "place": 14,
+    "team": {
+      "name": "GamerLegion",
+      "id": 9928
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 157,
+    "place": 15,
+    "team": {
+      "name": "FURIA",
+      "id": 8297
+    },
+    "change": -3,
+    "isNew": false
+  },
+  {
+    "points": 141,
+    "place": 16,
+    "team": {
+      "name": "3DMAX",
+      "id": 4914
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 107,
+    "place": 17,
+    "team": {
+      "name": "HEROIC",
+      "id": 7175
+    },
+    "change": 3,
+    "isNew": false
+  },
+  {
+    "points": 105,
+    "place": 18,
+    "team": {
+      "name": "BIG",
+      "id": 7532
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 93,
+    "place": 19,
+    "team": {
+      "name": "MIBR",
+      "id": 9215
+    },
+    "change": -2,
+    "isNew": false
+  },
+  {
+    "points": 87,
+    "place": 20,
+    "team": {
+      "name": "BetBoom",
+      "id": 12394
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 75,
+    "place": 21,
+    "team": {
+      "name": "Wildcard",
+      "id": 12257
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 58,
+    "place": 22,
+    "team": {
+      "name": "SAW",
+      "id": 10567
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 52,
+    "place": 23,
+    "team": {
+      "name": "FlyQuest",
+      "id": 12774
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 46,
+    "place": 24,
+    "team": {
+      "name": "Complexity",
+      "id": 5005
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 43,
+    "place": 25,
+    "team": {
+      "name": "B8",
+      "id": 11241
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 42,
+    "place": 26,
+    "team": {
+      "name": "M80",
+      "id": 12376
+    },
+    "change": 3,
+    "isNew": false
+  },
+  {
+    "points": 38,
+    "place": 27,
+    "team": {
+      "name": "500",
+      "id": 12000
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 37,
+    "place": 28,
+    "team": {
+      "name": "Imperial",
+      "id": 9455
+    },
+    "change": -2,
+    "isNew": false
+  },
+  {
+    "points": 35,
+    "place": 29,
+    "team": {
+      "name": "PARIVISION",
+      "id": 12467
+    },
+    "change": 3,
+    "isNew": false
+  },
+  {
+    "points": 31,
+    "place": 30,
+    "team": {
+      "name": "BC.Game",
+      "id": 12878
+    },
+    "change": 7,
+    "isNew": false
+  },
+  {
+    "points": 30,
+    "place": 31,
+    "team": {
+      "name": "ATOX",
+      "id": 12312
+    },
+    "change": 12,
+    "isNew": false
+  },
+  {
+    "points": 28,
+    "place": 32,
+    "team": {
+      "name": "Rare Atom",
+      "id": 11514
+    },
+    "change": -4,
+    "isNew": false
+  },
+  {
+    "points": 25,
+    "place": 33,
+    "team": {
+      "name": "Spirit Academy",
+      "id": 7900
+    },
+    "change": 1,
+    "isNew": false
+  },
+  {
+    "points": 24,
+    "place": 34,
+    "team": {
+      "name": "ENCE",
+      "id": 4869
+    },
+    "change": -4,
+    "isNew": false
+  },
+  {
+    "points": 24,
+    "place": 35,
+    "team": {
+      "name": "fnatic",
+      "id": 4991
+    },
+    "change": -4,
+    "isNew": false
+  },
+  {
+    "points": 24,
+    "place": 36,
+    "team": {
+      "name": "Passion UA",
+      "id": 12426
+    },
+    "change": -11,
+    "isNew": false
+  },
+  {
+    "points": 23,
+    "place": 37,
+    "team": {
+      "name": "Lynn Vision",
+      "id": 8840
+    },
+    "change": 13,
+    "isNew": false
+  },
+  {
+    "points": 23,
+    "place": 38,
+    "team": {
+      "name": "Legacy",
+      "id": 12468
+    },
+    "change": 21,
+    "isNew": false
+  },
+  {
+    "points": 21,
+    "place": 39,
+    "team": {
+      "name": "Zero Tenacity",
+      "id": 11523
+    },
+    "change": 25,
+    "isNew": false
+  },
+  {
+    "points": 21,
+    "place": 40,
+    "team": {
+      "name": "Nemiga",
+      "id": 7969
+    },
+    "change": -5,
+    "isNew": false
+  },
+  {
+    "points": 20,
+    "place": 41,
+    "team": {
+      "name": "SINNERS",
+      "id": 10577
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 20,
+    "place": 42,
+    "team": {
+      "name": "Monte",
+      "id": 11811
+    },
+    "change": -4,
+    "isNew": false
+  },
+  {
+    "points": 20,
+    "place": 43,
+    "team": {
+      "name": "NRG",
+      "id": 6673
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 20,
+    "place": 44,
+    "team": {
+      "name": "BESTIA",
+      "id": 12144
+    },
+    "change": 5,
+    "isNew": false
+  },
+  {
+    "points": 19,
+    "place": 45,
+    "team": {
+      "name": "OG",
+      "id": 10503
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 19,
+    "place": 46,
+    "team": {
+      "name": "Partizan",
+      "id": 11838
+    },
+    "change": 49,
+    "isNew": false
+  },
+  {
+    "points": 19,
+    "place": 47,
+    "team": {
+      "name": "The Huns",
+      "id": 12510
+    },
+    "change": 31,
+    "isNew": false
+  },
+  {
+    "points": 19,
+    "place": 48,
+    "team": {
+      "name": "Imperial Valkyries",
+      "id": 12828
+    },
+    "change": 22,
+    "isNew": false
+  },
+  {
+    "points": 19,
+    "place": 49,
+    "team": {
+      "name": "Rebels",
+      "id": 12642
+    },
+    "change": 26,
+    "isNew": false
+  },
+  {
+    "points": 19,
+    "place": 50,
+    "team": {
+      "name": "CPH Wolves",
+      "id": 4548
+    },
+    "change": 7,
+    "isNew": false
+  },
+  {
+    "points": 18,
+    "place": 51,
+    "team": {
+      "name": "Solid",
+      "id": 12233
+    },
+    "change": 7,
+    "isNew": false
+  },
+  {
+    "points": 18,
+    "place": 52,
+    "team": {
+      "name": "BOSS",
+      "id": 12534
+    },
+    "change": 3,
+    "isNew": false
+  },
+  {
+    "points": 18,
+    "place": 53,
+    "team": {
+      "name": "Aurora",
+      "id": 11861
+    },
+    "change": -9,
+    "isNew": false
+  },
+  {
+    "points": 18,
+    "place": 54,
+    "team": {
+      "name": "TYLOO",
+      "id": 4863
+    },
+    "change": -2,
+    "isNew": false
+  },
+  {
+    "points": 17,
+    "place": 55,
+    "team": {
+      "name": "Hesta",
+      "id": 13153
+    },
+    "change": 14,
+    "isNew": false
+  },
+  {
+    "points": 17,
+    "place": 56,
+    "team": {
+      "name": "Fire Flux",
+      "id": 12960
+    },
+    "change": -8,
+    "isNew": false
+  },
+  {
+    "points": 16,
+    "place": 57,
+    "team": {
+      "name": "Fluxo",
+      "id": 11837
+    },
+    "change": -3,
+    "isNew": false
+  },
+  {
+    "points": 16,
+    "place": 58,
+    "team": {
+      "name": "Marsborne",
+      "id": 13124
+    },
+    "change": 13,
+    "isNew": false
+  },
+  {
+    "points": 16,
+    "place": 59,
+    "team": {
+      "name": "Sharks",
+      "id": 8113
+    },
+    "change": -8,
+    "isNew": false
+  },
+  {
+    "points": 16,
+    "place": 60,
+    "team": {
+      "name": "Sashi",
+      "id": 11712
+    },
+    "change": -20,
+    "isNew": false
+  },
+  {
+    "points": 16,
+    "place": 61,
+    "team": {
+      "name": "Ninjas in Pyjamas",
+      "id": 4411
+    },
+    "change": 40,
+    "isNew": false
+  },
+  {
+    "points": 16,
+    "place": 62,
+    "team": {
+      "name": "UR",
+      "id": 13116
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 16,
+    "place": 63,
+    "team": {
+      "name": "9z",
+      "id": 9996
+    },
+    "change": -22,
+    "isNew": false
+  },
+  {
+    "points": 15,
+    "place": 64,
+    "team": {
+      "name": "RED Canids",
+      "id": 7176
+    },
+    "change": 3,
+    "isNew": false
+  },
+  {
+    "points": 15,
+    "place": 65,
+    "team": {
+      "name": "ECSTATIC",
+      "id": 11419
+    },
+    "change": -9,
+    "isNew": false
+  },
+  {
+    "points": 15,
+    "place": 66,
+    "team": {
+      "name": "AMKAL",
+      "id": 12586
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 15,
+    "place": 67,
+    "team": {
+      "name": "FAVBET",
+      "id": 12818
+    },
+    "change": -6,
+    "isNew": false
+  },
+  {
+    "points": 15,
+    "place": 68,
+    "team": {
+      "name": "SemperFi",
+      "id": 12901
+    },
+    "change": 18,
+    "isNew": false
+  },
+  {
+    "points": 15,
+    "place": 69,
+    "team": {
+      "name": "Betera",
+      "id": 12431
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 15,
+    "place": 70,
+    "team": {
+      "name": "-72c",
+      "id": 12546
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 14,
+    "place": 71,
+    "team": {
+      "name": "9 Pandas",
+      "id": 11883
+    },
+    "change": -32,
+    "isNew": false
+  },
+  {
+    "points": 14,
+    "place": 72,
+    "team": {
+      "name": "ECLOT",
+      "id": 7441
+    },
+    "change": -36,
+    "isNew": false
+  },
+  {
+    "points": 14,
+    "place": 73,
+    "team": {
+      "name": "Eruption",
+      "id": 12097
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 14,
+    "place": 74,
+    "team": {
+      "name": "9INE",
+      "id": 10278
+    },
+    "change": -21,
+    "isNew": false
+  },
+  {
+    "points": 14,
+    "place": 75,
+    "team": {
+      "name": "CYBERSHOKE",
+      "id": 12380
+    },
+    "change": 1,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 76,
+    "team": {
+      "name": "NEVERMORE",
+      "id": 13157
+    },
+    "change": -4,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 77,
+    "team": {
+      "name": "Getting Info",
+      "id": 13106
+    },
+    "change": 17,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 78,
+    "team": {
+      "name": "kONO",
+      "id": 12858
+    },
+    "change": 26,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 79,
+    "team": {
+      "name": "NAVI Junior",
+      "id": 10371
+    },
+    "change": -33,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 80,
+    "team": {
+      "name": "Apogee",
+      "id": 12916
+    },
+    "change": -20,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 81,
+    "team": {
+      "name": "RUSH B",
+      "id": 12559
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 82,
+    "team": {
+      "name": "Metizport",
+      "id": 11641
+    },
+    "change": -3,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 83,
+    "team": {
+      "name": "K27",
+      "id": 12895
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 13,
+    "place": 84,
+    "team": {
+      "name": "Immigrants peek",
+      "id": 13067
+    },
+    "change": 0,
+    "isNew": true
+  },
+  {
+    "points": 13,
+    "place": 85,
+    "team": {
+      "name": "Nouns",
+      "id": 11948
+    },
+    "change": -19,
+    "isNew": false
+  },
+  {
+    "points": 12,
+    "place": 86,
+    "team": {
+      "name": "Elevate",
+      "id": 5775
+    },
+    "change": 3,
+    "isNew": false
+  },
+  {
+    "points": 12,
+    "place": 87,
+    "team": {
+      "name": "Chill Guys",
+      "id": 13110
+    },
+    "change": -3,
+    "isNew": false
+  },
+  {
+    "points": 12,
+    "place": 88,
+    "team": {
+      "name": "Rooster",
+      "id": 9881
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 12,
+    "place": 89,
+    "team": {
+      "name": "Chinggis Warriors",
+      "id": 12646
+    },
+    "change": 11,
+    "isNew": false
+  },
+  {
+    "points": 11,
+    "place": 90,
+    "team": {
+      "name": "TNL",
+      "id": 12833
+    },
+    "change": 16,
+    "isNew": false
+  },
+  {
+    "points": 11,
+    "place": 91,
+    "team": {
+      "name": "Exceritus",
+      "id": 13082
+    },
+    "change": 97,
+    "isNew": false
+  },
+  {
+    "points": 11,
+    "place": 92,
+    "team": {
+      "name": "Insilio",
+      "id": 12124
+    },
+    "change": 10,
+    "isNew": false
+  },
+  {
+    "points": 11,
+    "place": 93,
+    "team": {
+      "name": "adalYamigos",
+      "id": 12544
+    },
+    "change": 3,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 94,
+    "team": {
+      "name": "ODDIK",
+      "id": 11768
+    },
+    "change": 11,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 95,
+    "team": {
+      "name": "ARCRED",
+      "id": 10459
+    },
+    "change": 8,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 96,
+    "team": {
+      "name": "JiJieHao",
+      "id": 10245
+    },
+    "change": -14,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 97,
+    "team": {
+      "name": "Alliance",
+      "id": 12474
+    },
+    "change": -4,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 98,
+    "team": {
+      "name": "Bounty Hunters",
+      "id": 12776
+    },
+    "change": 16,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 99,
+    "team": {
+      "name": "GenOne",
+      "id": 11609
+    },
+    "change": -14,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 100,
+    "team": {
+      "name": "Real Original",
+      "id": 13095
+    },
+    "change": 9,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 101,
+    "team": {
+      "name": "Swingers",
+      "id": 13109
+    },
+    "change": 27,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 102,
+    "team": {
+      "name": "FORZE Reload",
+      "id": 12857
+    },
+    "change": 61,
+    "isNew": false
+  },
+  {
+    "points": 10,
+    "place": 103,
+    "team": {
+      "name": "GUN5",
+      "id": 12471
+    },
+    "change": -40,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 104,
+    "team": {
+      "name": "Gods Reign",
+      "id": 12415
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 105,
+    "team": {
+      "name": "MIGHT",
+      "id": 12483
+    },
+    "change": -14,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 106,
+    "team": {
+      "name": "Iberian Soul",
+      "id": 13104
+    },
+    "change": -26,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 107,
+    "team": {
+      "name": "Just Swing",
+      "id": 13053
+    },
+    "change": 13,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 108,
+    "team": {
+      "name": "NomadS",
+      "id": 12900
+    },
+    "change": 25,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 109,
+    "team": {
+      "name": "EYEBALLERS",
+      "id": 11737
+    },
+    "change": -2,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 110,
+    "team": {
+      "name": "ALASKA",
+      "id": 13105
+    },
+    "change": -18,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 111,
+    "team": {
+      "name": "KRÜ",
+      "id": 10900
+    },
+    "change": -14,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 112,
+    "team": {
+      "name": "Aetheris",
+      "id": 13111
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 9,
+    "place": 113,
+    "team": {
+      "name": "BAKS",
+      "id": 11699
+    },
+    "change": 0,
+    "isNew": true
+  },
+  {
+    "points": 8,
+    "place": 114,
+    "team": {
+      "name": "GTZ",
+      "id": 9466
+    },
+    "change": -16,
+    "isNew": false
+  },
+  {
+    "points": 8,
+    "place": 115,
+    "team": {
+      "name": "Tropa do VSM",
+      "id": 13138
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 8,
+    "place": 116,
+    "team": {
+      "name": "ALGO",
+      "id": 13163
+    },
+    "change": 0,
+    "isNew": true
+  },
+  {
+    "points": 8,
+    "place": 117,
+    "team": {
+      "name": "LFO 3",
+      "id": 13154
+    },
+    "change": 0,
+    "isNew": true
+  },
+  {
+    "points": 8,
+    "place": 118,
+    "team": {
+      "name": "UNO MILLE",
+      "id": 11555
+    },
+    "change": 20,
+    "isNew": false
+  },
+  {
+    "points": 8,
+    "place": 119,
+    "team": {
+      "name": "FengDa",
+      "id": 12899
+    },
+    "change": 7,
+    "isNew": false
+  },
+  {
+    "points": 8,
+    "place": 120,
+    "team": {
+      "name": "vagrants",
+      "id": 12611
+    },
+    "change": 5,
+    "isNew": false
+  },
+  {
+    "points": 8,
+    "place": 121,
+    "team": {
+      "name": "Viperio",
+      "id": 9506
+    },
+    "change": 40,
+    "isNew": false
+  },
+  {
+    "points": 8,
+    "place": 122,
+    "team": {
+      "name": "Fated Rise",
+      "id": 13097
+    },
+    "change": 5,
+    "isNew": false
+  },
+  {
+    "points": 8,
+    "place": 123,
+    "team": {
+      "name": "ENCE Academy",
+      "id": 11790
+    },
+    "change": -6,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 124,
+    "team": {
+      "name": "Akimbo",
+      "id": 12567
+    },
+    "change": 0,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 125,
+    "team": {
+      "name": "UNiTY",
+      "id": 12267
+    },
+    "change": -6,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 126,
+    "team": {
+      "name": "Bad News Eagles",
+      "id": 11518
+    },
+    "change": 0,
+    "isNew": true
+  },
+  {
+    "points": 7,
+    "place": 127,
+    "team": {
+      "name": "Nexus",
+      "id": 7187
+    },
+    "change": -39,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 128,
+    "team": {
+      "name": "Yawara",
+      "id": 11933
+    },
+    "change": 12,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 129,
+    "team": {
+      "name": "Shika",
+      "id": 13147
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 130,
+    "team": {
+      "name": "AK BARS",
+      "id": 12997
+    },
+    "change": 102,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 131,
+    "team": {
+      "name": "Bad News Capybaras",
+      "id": 13112
+    },
+    "change": -16,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 132,
+    "team": {
+      "name": "Galorys",
+      "id": 12677
+    },
+    "change": 5,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 133,
+    "team": {
+      "name": "Housebets",
+      "id": 12921
+    },
+    "change": -1,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 134,
+    "team": {
+      "name": "Preasy",
+      "id": 12334
+    },
+    "change": 24,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 135,
+    "team": {
+      "name": "Rhyno",
+      "id": 10947
+    },
+    "change": -27,
+    "isNew": false
+  },
+  {
+    "points": 7,
+    "place": 136,
+    "team": {
+      "name": "MCS",
+      "id": 13005
+    },
+    "change": 17,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 137,
+    "team": {
+      "name": "Prasso",
+      "id": 13166
+    },
+    "change": 47,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 138,
+    "team": {
+      "name": "1WIN",
+      "id": 10621
+    },
+    "change": 7,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 139,
+    "team": {
+      "name": "Blaze Warriors",
+      "id": 12964
+    },
+    "change": 3,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 140,
+    "team": {
+      "name": "ESC",
+      "id": 4532
+    },
+    "change": 1,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 141,
+    "team": {
+      "name": "Adventurers",
+      "id": 13118
+    },
+    "change": -5,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 142,
+    "team": {
+      "name": "Chimera",
+      "id": 13098
+    },
+    "change": -61,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 143,
+    "team": {
+      "name": "Floripa Stars",
+      "id": 12867
+    },
+    "change": 13,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 144,
+    "team": {
+      "name": "Johnny Speeds",
+      "id": 12604
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 6,
+    "place": 145,
+    "team": {
+      "name": "Vantage",
+      "id": 12455
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 146,
+    "team": {
+      "name": "GameAgents",
+      "id": 6652
+    },
+    "change": -2,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 147,
+    "team": {
+      "name": "IHC",
+      "id": 11585
+    },
+    "change": 12,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 148,
+    "team": {
+      "name": "Mindfreak",
+      "id": 11668
+    },
+    "change": -17,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 149,
+    "team": {
+      "name": "Dusty Roots",
+      "id": 12548
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 150,
+    "team": {
+      "name": "Tsunami",
+      "id": 12180
+    },
+    "change": 10,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 151,
+    "team": {
+      "name": "Leo",
+      "id": 11446
+    },
+    "change": -22,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 152,
+    "team": {
+      "name": "WOPA",
+      "id": 12787
+    },
+    "change": -41,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 153,
+    "team": {
+      "name": "harizma",
+      "id": 13115
+    },
+    "change": -3,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 154,
+    "team": {
+      "name": "Astralis Talent",
+      "id": 10954
+    },
+    "change": -11,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 155,
+    "team": {
+      "name": "GameHunters",
+      "id": 12988
+    },
+    "change": 7,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 156,
+    "team": {
+      "name": "THE",
+      "id": 12955
+    },
+    "change": 9,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 157,
+    "team": {
+      "name": "JANO",
+      "id": 11827
+    },
+    "change": -39,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 158,
+    "team": {
+      "name": "Justice For Tomorrow",
+      "id": 13113
+    },
+    "change": 14,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 159,
+    "team": {
+      "name": "Chicken Coop",
+      "id": 13107
+    },
+    "change": 10,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 160,
+    "team": {
+      "name": "Familia Maquininha",
+      "id": 13137
+    },
+    "change": -6,
+    "isNew": false
+  },
+  {
+    "points": 5,
+    "place": 161,
+    "team": {
+      "name": "ShindeN",
+      "id": 12959
+    },
+    "change": 7,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 162,
+    "team": {
+      "name": "FLuffy Gangsters",
+      "id": 6668
+    },
+    "change": -40,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 163,
+    "team": {
+      "name": "Steel Helmet",
+      "id": 11273
+    },
+    "change": 7,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 164,
+    "team": {
+      "name": "2070",
+      "id": 13052
+    },
+    "change": 18,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 165,
+    "team": {
+      "name": "NITRO",
+      "id": 12915
+    },
+    "change": -16,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 166,
+    "team": {
+      "name": "Permitta",
+      "id": 12009
+    },
+    "change": -32,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 167,
+    "team": {
+      "name": "MIBR Academy",
+      "id": 3044
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 168,
+    "team": {
+      "name": "Alter Iron",
+      "id": 12968
+    },
+    "change": -38,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 169,
+    "team": {
+      "name": "LFO 2",
+      "id": 13114
+    },
+    "change": 20,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 170,
+    "team": {
+      "name": "Mythic",
+      "id": 5479
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 171,
+    "team": {
+      "name": "ONi",
+      "id": 12952
+    },
+    "change": 5,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 172,
+    "team": {
+      "name": "Players",
+      "id": 11711
+    },
+    "change": -26,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 173,
+    "team": {
+      "name": "MANTRA",
+      "id": 12472
+    },
+    "change": 5,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 174,
+    "team": {
+      "name": "The QUBE",
+      "id": 12825
+    },
+    "change": 5,
+    "isNew": false
+  },
+  {
+    "points": 4,
+    "place": 175,
+    "team": {
+      "name": "InControl",
+      "id": 7720
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 3,
+    "place": 176,
+    "team": {
+      "name": "Heimo",
+      "id": 12522
+    },
+    "change": -9,
+    "isNew": false
+  },
+  {
+    "points": 3,
+    "place": 177,
+    "team": {
+      "name": "Eco Warriors",
+      "id": 13121
+    },
+    "change": 6,
+    "isNew": false
+  },
+  {
+    "points": 3,
+    "place": 178,
+    "team": {
+      "name": "BRUTE",
+      "id": 9139
+    },
+    "change": -7,
+    "isNew": false
+  },
+  {
+    "points": 3,
+    "place": 179,
+    "team": {
+      "name": "LAG",
+      "id": 11955
+    },
+    "change": 16,
+    "isNew": false
+  },
+  {
+    "points": 3,
+    "place": 180,
+    "team": {
+      "name": "Dark Cloud",
+      "id": 13158
+    },
+    "change": 0,
+    "isNew": true
+  },
+  {
+    "points": 3,
+    "place": 181,
+    "team": {
+      "name": "KZG",
+      "id": 12152
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 3,
+    "place": 182,
+    "team": {
+      "name": "RED Canids Academy",
+      "id": 13029
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 3,
+    "place": 183,
+    "team": {
+      "name": "Underground",
+      "id": 12707
+    },
+    "change": 11,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 184,
+    "team": {
+      "name": "Nuclear TigeRES",
+      "id": 13027
+    },
+    "change": -61,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 185,
+    "team": {
+      "name": "regain",
+      "id": 12554
+    },
+    "change": 12,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 186,
+    "team": {
+      "name": "Supernova Comets",
+      "id": 13146
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 187,
+    "team": {
+      "name": "AKA HERO KAJO",
+      "id": 13142
+    },
+    "change": 12,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 188,
+    "team": {
+      "name": "Black Mold",
+      "id": 13143
+    },
+    "change": 12,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 189,
+    "team": {
+      "name": "Ghost",
+      "id": 7801
+    },
+    "change": 14,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 190,
+    "team": {
+      "name": "Nouns fe",
+      "id": 12556
+    },
+    "change": 14,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 191,
+    "team": {
+      "name": "Revel",
+      "id": 11194
+    },
+    "change": 15,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 192,
+    "team": {
+      "name": "Mission Possible",
+      "id": 13001
+    },
+    "change": 0,
+    "isNew": true
+  },
+  {
+    "points": 2,
+    "place": 193,
+    "team": {
+      "name": "Aether",
+      "id": 12908
+    },
+    "change": 15,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 194,
+    "team": {
+      "name": "Lilmix",
+      "id": 9735
+    },
+    "change": 19,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 195,
+    "team": {
+      "name": "TALON",
+      "id": 8210
+    },
+    "change": 1,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 196,
+    "team": {
+      "name": "CS2News Ladies",
+      "id": 13168
+    },
+    "change": 19,
+    "isNew": false
+  },
+  {
+    "points": 2,
+    "place": 197,
+    "team": {
+      "name": "FlyQuest RED",
+      "id": 12301
+    },
+    "change": 19,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 198,
+    "team": {
+      "name": "benched",
+      "id": 11138
+    },
+    "change": 0,
+    "isNew": true
+  },
+  {
+    "points": 1,
+    "place": 199,
+    "team": {
+      "name": "nomercy fe",
+      "id": 13122
+    },
+    "change": 29,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 200,
+    "team": {
+      "name": "MEGA JUNERS",
+      "id": 13135
+    },
+    "change": 21,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 201,
+    "team": {
+      "name": "Prototype Blaze",
+      "id": 13133
+    },
+    "change": 21,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 202,
+    "team": {
+      "name": "DXA",
+      "id": 12276
+    },
+    "change": 22,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 203,
+    "team": {
+      "name": "paiN Academy",
+      "id": 11905
+    },
+    "change": -10,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 204,
+    "team": {
+      "name": "Vamos fe",
+      "id": 13120
+    },
+    "change": 21,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 205,
+    "team": {
+      "name": "The Art of War",
+      "id": 12884
+    },
+    "change": 2,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 206,
+    "team": {
+      "name": "Akuma",
+      "id": 13134
+    },
+    "change": 20,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 207,
+    "team": {
+      "name": "Unjustified fe",
+      "id": 12945
+    },
+    "change": 20,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 208,
+    "team": {
+      "name": "HAVU",
+      "id": 7865
+    },
+    "change": 22,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 209,
+    "team": {
+      "name": "Victores Sumus",
+      "id": 12929
+    },
+    "change": 26,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 210,
+    "team": {
+      "name": "Atrix",
+      "id": 12533
+    },
+    "change": 27,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 211,
+    "team": {
+      "name": "BIG EQUIPA",
+      "id": 11718
+    },
+    "change": -20,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 212,
+    "team": {
+      "name": "Lotus fe",
+      "id": 12702
+    },
+    "change": 24,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 213,
+    "team": {
+      "name": "MIBR fe",
+      "id": 10975
+    },
+    "change": 4,
+    "isNew": false
+  },
+  {
+    "points": 1,
+    "place": 214,
+    "team": {
+      "name": "9z Academy",
+      "id": 11006
+    },
+    "change": -22,
+    "isNew": false
+  },
+  {
+    "points": 0,
+    "place": 215,
+    "team": {
+      "name": "FURIA fe",
+      "id": 10976
+    },
+    "change": -51,
+    "isNew": false
+  },
+  {
+    "points": 0,
+    "place": 216,
+    "team": {
+      "name": "NIP Impact",
+      "id": 11917
+    },
+    "change": -6,
+    "isNew": false
+  },
+  {
+    "points": 0,
+    "place": 217,
+    "team": {
+      "name": "SAW Myst",
+      "id": 13140
+    },
+    "change": 21,
+    "isNew": false
+  },
+  {
+    "points": 0,
+    "place": 218,
+    "team": {
+      "name": "Tricked",
+      "id": 4602
+    },
+    "change": 0,
+    "isNew": true
+  }
+]
