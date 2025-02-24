@@ -1,12 +1,8 @@
 <template>
   <div class="team-ranking">
     <h1>Team Rankings</h1>
-    <ul v-if="teams.length">
-      <li
-        v-for="item in teams"
-        :key="item.team.id"
-        class="ranking-item"
-      >
+    <ul v-if="mergedTeams.length">
+      <li v-for="item in mergedTeams" :key="item.team.id" class="ranking-item">
         <!-- Left: Placement -->
         <div class="position">{{ item.place }}</div>
         
@@ -15,7 +11,7 @@
           <img
             v-if="item.team.logo"
             :src="item.team.logo"
-            alt="Logo"
+            :alt="`Logo of ${item.team.name}`"
             class="logo"
           />
           <span class="name">{{ item.team.name }}</span>
@@ -30,19 +26,35 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, computed } from 'vue'
 
-const teams = ref([])
+const ranking = ref([]);
+const teamsDetails = ref([]);
+
+const mergedTeams = computed(() => {
+  return ranking.value.map(item => {
+    const detailed = teamsDetails.value.find(t => t.id === item.team.id);
+    return {
+      ...item,
+      team: {
+        ...item.team,
+        logo: detailed && detailed.logo ? detailed.logo : item.team.logo || ''
+      }
+    }
+  });
+});
 
 onMounted(async () => {
   try {
-    const response = await fetch('/data/teamRanking.json')
-    const data = await response.json()
-    teams.value = data
+    const rankingResponse = await fetch('/data/teamRanking.json');
+    ranking.value = await rankingResponse.json();
+
+    const teamsResponse = await fetch('/data/teams.json');
+    teamsDetails.value = await teamsResponse.json();
   } catch (error) {
-    console.error('Error loading teams data:', error)
+    console.error('Error loading teams data:', error);
   }
-})
+});
 </script>
 
 <style scoped>
