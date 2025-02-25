@@ -1,0 +1,3034 @@
+{
+  "id": 12960,
+  "name": "Fire Flux",
+  "overview": {
+    "mapsPlayed": 134,
+    "totalKills": 10427,
+    "totalDeaths": 10141,
+    "roundsPlayed": 3023,
+    "kdRatio": 1.03,
+    "wins": 75,
+    "draws": 0,
+    "losses": 59
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8397,
+        "name": "CCT Season 2 Europe Series 20 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13184,
+        "name": "WildLotus"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193510,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8397,
+        "name": "CCT Season 2 Europe Series 20 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13184,
+        "name": "WildLotus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193500,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8397,
+        "name": "CCT Season 2 Europe Series 20 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193433,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8397,
+        "name": "CCT Season 2 Europe Series 20 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193424,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193416,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_train",
+      "mapStatsId": 193407,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193257,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193251,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_train",
+      "mapStatsId": 193195,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193191,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192972,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192965,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192605,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192603,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192598,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192193,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192188,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191935,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191931,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191925,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191839,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191835,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191833,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191672,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191670,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191557,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_train",
+      "mapStatsId": 191552,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191548,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191369,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191366,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191358,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191328,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191322,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191318,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191260,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191257,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191197,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191190,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191180,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 191075,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191071,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191016,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191009,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190994,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190985,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190981,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190912,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190901,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190806,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190804,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190617,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190610,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190345,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_train",
+      "mapStatsId": 190337,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190335,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190249,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190245,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189745,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189741,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189736,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189647,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189642,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189639,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189598,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189594,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189588,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189540,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189536,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189529,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189507,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189502,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189487,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189486,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189484,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189464,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189460,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189425,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189423,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189422,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189277,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189272,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189233,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189232,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189227,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189167,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189164,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189153,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189151,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189109,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189107,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189102,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189097,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189094,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189068,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189067,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189063,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188888,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188881,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12847,
+        "name": "Kubix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188777,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12847,
+        "name": "Kubix"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188770,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12847,
+        "name": "Kubix"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188768,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732489200000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188667,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732489200000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188664,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732489200000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188660,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8192,
+        "name": "Intel Monsters Reloaded 2024"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188628,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8192,
+        "name": "Intel Monsters Reloaded 2024"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188627,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8192,
+        "name": "Intel Monsters Reloaded 2024"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188625,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8192,
+        "name": "Intel Monsters Reloaded 2024"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188623,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8192,
+        "name": "Intel Monsters Reloaded 2024"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188620,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8192,
+        "name": "Intel Monsters Reloaded 2024"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188563,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8192,
+        "name": "Intel Monsters Reloaded 2024"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188560,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188214,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188211,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188122,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188117,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188113,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188047,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188042,
+      "result": {
+        "team1": 23,
+        "team2": 25
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188041,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187682,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187675,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13018,
+        "name": "SovvyKiNG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187454,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 13018,
+        "name": "SovvyKiNG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187452,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187230,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187227,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186887,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186884,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186482,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186478,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186210,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186206,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186202,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185007,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184996,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 8212,
+      "name": "ScrunK"
+    },
+    {
+      "id": 9353,
+      "name": "paz"
+    },
+    {
+      "id": 19107,
+      "name": "S3NSEY"
+    },
+    {
+      "id": 20625,
+      "name": "Banjo"
+    },
+    {
+      "id": 20968,
+      "name": "soulfly"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8397,
+        "name": "CCT Season 2 Europe Series 20 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8192,
+        "name": "Intel Monsters Reloaded 2024"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 20,
+      "draws": 0,
+      "losses": 11,
+      "winRate": 64.5,
+      "totalRounds": 752,
+      "roundWinPAfterFirstKill": 74,
+      "roundWinPAfterFirstDeath": 30.1
+    },
+    "de_ancient": {
+      "wins": 11,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 40.7,
+      "totalRounds": 613,
+      "roundWinPAfterFirstKill": 66.2,
+      "roundWinPAfterFirstDeath": 30.5
+    },
+    "de_dust2": {
+      "wins": 15,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 71.4,
+      "totalRounds": 480,
+      "roundWinPAfterFirstKill": 77.2,
+      "roundWinPAfterFirstDeath": 28.1
+    },
+    "de_mirage": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 10,
+      "winRate": 47.4,
+      "totalRounds": 416,
+      "roundWinPAfterFirstKill": 71.7,
+      "roundWinPAfterFirstDeath": 24.2
+    },
+    "de_inferno": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 47.1,
+      "totalRounds": 369,
+      "roundWinPAfterFirstKill": 72.8,
+      "roundWinPAfterFirstDeath": 29.9
+    },
+    "de_vertigo": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 64.3,
+      "totalRounds": 288,
+      "roundWinPAfterFirstKill": 77.1,
+      "roundWinPAfterFirstDeath": 28.9
+    },
+    "de_train": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 60,
+      "totalRounds": 105,
+      "roundWinPAfterFirstKill": 78.3,
+      "roundWinPAfterFirstDeath": 22
+    }
+  }
+}

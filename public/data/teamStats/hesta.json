@@ -1,0 +1,408 @@
+{
+  "id": 13153,
+  "name": "Hesta",
+  "overview": {
+    "mapsPlayed": 16,
+    "totalKills": 1198,
+    "totalDeaths": 1205,
+    "roundsPlayed": 355,
+    "kdRatio": 0.99,
+    "wins": 9,
+    "draws": 0,
+    "losses": 7
+  },
+  "matches": [
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192912,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_train",
+      "mapStatsId": 192908,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192889,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192883,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 13173,
+        "name": "Phantom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192867,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 11699,
+        "name": "BAKS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192743,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192424,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192418,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192414,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192349,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192337,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192304,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192303,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192292,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 13154,
+        "name": "LFO 3"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192059,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192043,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 21445,
+      "name": "abiraju"
+    },
+    {
+      "id": 21686,
+      "name": "anttzz"
+    },
+    {
+      "id": 23687,
+      "name": "Muk0s"
+    },
+    {
+      "id": 24806,
+      "name": "frontales"
+    },
+    {
+      "id": 24807,
+      "name": "slaxejezzz"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {}
+}

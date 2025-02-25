@@ -1,0 +1,738 @@
+{
+  "id": 13109,
+  "name": "Swingers",
+  "overview": {
+    "mapsPlayed": 29,
+    "totalKills": 2277,
+    "totalDeaths": 2092,
+    "roundsPlayed": 663,
+    "kdRatio": 1.09,
+    "wins": 17,
+    "draws": 0,
+    "losses": 12
+  },
+  "matches": [
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193189,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193181,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193103,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193100,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12867,
+        "name": "Floripa Stars"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193063,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12867,
+        "name": "Floripa Stars"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193059,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 11933,
+        "name": "Yawara"
+      },
+      "map": "de_train",
+      "mapStatsId": 192835,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 11933,
+        "name": "Yawara"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192834,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 3044,
+        "name": "MIBR Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192632,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 3044,
+        "name": "MIBR Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192628,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12548,
+        "name": "Dusty Roots"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192544,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12548,
+        "name": "Dusty Roots"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192539,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12915,
+        "name": "NITRO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192358,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12915,
+        "name": "NITRO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192357,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191855,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191848,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_train",
+      "mapStatsId": 191764,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191757,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191745,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191211,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191203,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 10900,
+        "name": "KRÜ"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191035,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 10900,
+        "name": "KRÜ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191025,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190928,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190917,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 13025,
+        "name": "Tropa do Taco"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190840,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 13025,
+        "name": "Tropa do Taco"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190835,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190754,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190749,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 11329,
+      "name": "leo_drk"
+    },
+    {
+      "id": 16835,
+      "name": "ponter"
+    },
+    {
+      "id": 17133,
+      "name": "desh"
+    },
+    {
+      "id": 20083,
+      "name": "ninjaZ"
+    },
+    {
+      "id": 22109,
+      "name": "vinaabEAST"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 21099,
+      "name": "bsd"
+    },
+    {
+      "id": 17216,
+      "name": "MaLLby"
+    }
+  ],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 81.8,
+      "totalRounds": 261,
+      "roundWinPAfterFirstKill": 76.6,
+      "roundWinPAfterFirstDeath": 34.7
+    },
+    "de_dust2": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 60,
+      "totalRounds": 114,
+      "roundWinPAfterFirstKill": 81.2,
+      "roundWinPAfterFirstDeath": 22
+    },
+    "de_nuke": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 20,
+      "totalRounds": 109,
+      "roundWinPAfterFirstKill": 60,
+      "roundWinPAfterFirstDeath": 22.4
+    },
+    "de_mirage": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 75,
+      "totalRounds": 90,
+      "roundWinPAfterFirstKill": 80.9,
+      "roundWinPAfterFirstDeath": 32.6
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 42,
+      "roundWinPAfterFirstKill": 69.2,
+      "roundWinPAfterFirstDeath": 37.5
+    },
+    "de_anubis": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 0,
+      "totalRounds": 47,
+      "roundWinPAfterFirstKill": 69.6,
+      "roundWinPAfterFirstDeath": 20.8
+    }
+  }
+}

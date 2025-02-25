@@ -1,0 +1,5121 @@
+{
+  "id": 11838,
+  "name": "Partizan",
+  "overview": {
+    "mapsPlayed": 227,
+    "totalKills": 20067,
+    "totalDeaths": 19119,
+    "roundsPlayed": 5937,
+    "kdRatio": 1.05,
+    "wins": 129,
+    "draws": 0,
+    "losses": 98
+  },
+  "matches": [
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193227,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193221,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193196,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193192,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193186,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192782,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192774,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192769,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192758,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192747,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192736,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192642,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192639,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192518,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192514,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192042,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190706,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190703,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190697,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1736722800000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190233,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1736722800000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190232,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1736722800000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190229,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189061,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189059,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12764,
+        "name": "Arrow"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189015,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12764,
+        "name": "Arrow"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189011,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12764,
+        "name": "Arrow"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189007,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188886,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188883,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188877,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188826,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188818,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188814,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188740,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188737,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185646,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185643,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185637,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185634,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185629,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185536,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185530,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185447,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185441,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185430,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184521,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184513,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184503,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184119,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184109,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184094,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183452,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183439,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182965,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182959,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1681855200000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 155597,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1681855200000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 155594,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1681682400000,
+      "event": {
+        "id": 7158,
+        "name": "ESL Challenger League Season 45 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 155499,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1681682400000,
+      "event": {
+        "id": 7158,
+        "name": "ESL Challenger League Season 45 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 155495,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680645600000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 154797,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1680645600000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 154795,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1680127200000,
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 154568,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680127200000,
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 154561,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680040800000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11464,
+        "name": "PALOMA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 154488,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680040800000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11464,
+        "name": "PALOMA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 154483,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1680040800000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11464,
+        "name": "PALOMA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 154480,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680040800000,
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 154468,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1680040800000,
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 154463,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1679785200000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 154309,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1679785200000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 154304,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679785200000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 154297,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1679698800000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11278,
+        "name": "Coalesce"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 154251,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679698800000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11278,
+        "name": "Coalesce"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 154244,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679698800000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11278,
+        "name": "Coalesce"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 154236,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1679612400000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 154162,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1679612400000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 154150,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679612400000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 154142,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1679526000000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 154077,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679526000000,
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 154063,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679526000000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12204,
+        "name": "359"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 154008,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1679526000000,
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12204,
+        "name": "359"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 154003,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1679353200000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 153867,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1679353200000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 153853,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1679353200000,
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 153837,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1679353200000,
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 153832,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1679180400000,
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 153721,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1679180400000,
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 153717,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1678748400000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 153274,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678748400000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 153271,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678575600000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 153145,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678575600000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 153131,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1678489200000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12028,
+        "name": "The Prodigies"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 153060,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1678489200000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12028,
+        "name": "The Prodigies"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 153053,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1678402800000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152998,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678402800000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152987,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678402800000,
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 152971,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1678316400000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 152892,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678316400000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152887,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678230000000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152817,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1678230000000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152809,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678230000000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152797,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1677625200000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11425,
+        "name": "PROSPECTS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152380,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677625200000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11425,
+        "name": "PROSPECTS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 152373,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677625200000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11425,
+        "name": "PROSPECTS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 152367,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1677625200000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152349,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1677625200000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 152343,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677625200000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152341,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1677538800000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152304,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677452400000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 152233,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677452400000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152219,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677452400000,
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 152262,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677452400000,
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152253,
+      "result": {
+        "team1": 23,
+        "team2": 25
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11026,
+        "name": "VOYVODA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 152195,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11026,
+        "name": "VOYVODA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152185,
+      "result": {
+        "team1": 1,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677279600000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 152096,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1677279600000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152092,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1677279600000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152074,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677279600000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 152068,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677193200000,
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 152009,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1677193200000,
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152003,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1677193200000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 151952,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677193200000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 151949,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677106800000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 151917,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1677106800000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 151912,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1677106800000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 151905,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677020400000,
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12068,
+        "name": "Katuna"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 151855,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1677020400000,
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12068,
+        "name": "Katuna"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 151851,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1676934000000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 151788,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1676934000000,
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 151778,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1676934000000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 151755,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1676934000000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 151751,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1676761200000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 151660,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1676761200000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 151652,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1676761200000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 151647,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1676761200000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11026,
+        "name": "VOYVODA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 151636,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1676415600000,
+      "event": {
+        "id": 7032,
+        "name": "BLAST.tv Paris Major 2023 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 151164,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1676415600000,
+      "event": {
+        "id": 7032,
+        "name": "BLAST.tv Paris Major 2023 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 151149,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1675724400000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 150722,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1675724400000,
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 150719,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1675206000000,
+      "event": {
+        "id": 7000,
+        "name": "Elisa Invitational Winter 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 150343,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1675206000000,
+      "event": {
+        "id": 7000,
+        "name": "Elisa Invitational Winter 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 150338,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1674601200000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149877,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674601200000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149871,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674514800000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 149838,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1674514800000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149835,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1674514800000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149828,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1674514800000,
+      "event": {
+        "id": 7000,
+        "name": "Elisa Invitational Winter 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149822,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1674514800000,
+      "event": {
+        "id": 7000,
+        "name": "Elisa Invitational Winter 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149813,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674514800000,
+      "event": {
+        "id": 7000,
+        "name": "Elisa Invitational Winter 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 149810,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1674169200000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11425,
+        "name": "PROSPECTS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149564,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1674169200000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11425,
+        "name": "PROSPECTS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149561,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1674082800000,
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149531,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1674082800000,
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 149527,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674082800000,
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149522,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1674082800000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4602,
+        "name": "Tricked"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 149480,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1674082800000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4602,
+        "name": "Tricked"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149470,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1673996400000,
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149459,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1673996400000,
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 149454,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1673996400000,
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149449,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1673910000000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149404,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1673910000000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 149398,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1673910000000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149391,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1673910000000,
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 149381,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1673910000000,
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149377,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1673910000000,
+      "event": {
+        "id": 7000,
+        "name": "Elisa Invitational Winter 2023 Contenders"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149362,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1673737200000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10867,
+        "name": "MASONIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149291,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1673737200000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10867,
+        "name": "MASONIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149287,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1673737200000,
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10867,
+        "name": "MASONIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149281,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1671318000000,
+      "event": {
+        "id": 6944,
+        "name": "CCT South Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10817,
+        "name": "Invictus International"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149078,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1671318000000,
+      "event": {
+        "id": 6944,
+        "name": "CCT South Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10817,
+        "name": "Invictus International"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149071,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1671145200000,
+      "event": {
+        "id": 6944,
+        "name": "CCT South Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11301,
+        "name": "Genk"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 148891,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1671145200000,
+      "event": {
+        "id": 6944,
+        "name": "CCT South Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11301,
+        "name": "Genk"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 148887,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1671145200000,
+      "event": {
+        "id": 6944,
+        "name": "CCT South Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12068,
+        "name": "Katuna"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 148867,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1671145200000,
+      "event": {
+        "id": 6944,
+        "name": "CCT South Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 12068,
+        "name": "Katuna"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148863,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1670626800000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10854,
+        "name": "los kogutos"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148496,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670626800000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10854,
+        "name": "los kogutos"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148475,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1670626800000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10854,
+        "name": "los kogutos"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 148472,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670454000000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 148313,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1670454000000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148301,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670454000000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148297,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1670367600000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10905,
+        "name": "PGE Turow"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 148207,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1670367600000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10905,
+        "name": "PGE Turow"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148199,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1670281200000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10867,
+        "name": "MASONIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 148136,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670281200000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10867,
+        "name": "MASONIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 148117,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1669503600000,
+      "event": {
+        "id": 6898,
+        "name": "RES Adriatic League 2022"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 147391,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1669503600000,
+      "event": {
+        "id": 6898,
+        "name": "RES Adriatic League 2022"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 147385,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1669417200000,
+      "event": {
+        "id": 6898,
+        "name": "RES Adriatic League 2022"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 5273,
+        "name": "GamePub"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 147279,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1669417200000,
+      "event": {
+        "id": 6898,
+        "name": "RES Adriatic League 2022"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 5273,
+        "name": "GamePub"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 147274,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1669330800000,
+      "event": {
+        "id": 6898,
+        "name": "RES Adriatic League 2022"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11525,
+        "name": "KTRL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 147197,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1669330800000,
+      "event": {
+        "id": 6898,
+        "name": "RES Adriatic League 2022"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11525,
+        "name": "KTRL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 147191,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1669330800000,
+      "event": {
+        "id": 6898,
+        "name": "RES Adriatic League 2022"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11525,
+        "name": "KTRL"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 147188,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1666044000000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7820,
+        "name": "GoodJob"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 145702,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1666044000000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 7820,
+        "name": "GoodJob"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 145696,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1665957600000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 145644,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1665957600000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 145642,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1665698400000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 145387,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1665698400000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 145385,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1665698400000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 145379,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1665525600000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10697,
+        "name": "BLINK"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 145247,
+      "result": {
+        "team1": 37,
+        "team2": 33
+      }
+    },
+    {
+      "date": 1665525600000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10697,
+        "name": "BLINK"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 145238,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1665439200000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 145161,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1665439200000,
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 145158,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1664661600000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11672,
+        "name": "OG Academy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 144778,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1664661600000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11672,
+        "name": "OG Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 144770,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1664575200000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 5412,
+        "name": "eSuba"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 144717,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1664575200000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 5412,
+        "name": "eSuba"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 144708,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1664575200000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11972,
+        "name": "Viary"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 144702,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1664575200000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11972,
+        "name": "Viary"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 144696,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1664488800000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 144640,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1664488800000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 144635,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1664488800000,
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 144627,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1663797600000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11530,
+        "name": "X"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 144027,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1663797600000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11530,
+        "name": "X"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 144017,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1663797600000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11530,
+        "name": "X"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 143995,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1663624800000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 143837,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1663624800000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 143818,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1662415200000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 5347,
+        "name": "BLUEJAYS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 142779,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1662415200000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 5347,
+        "name": "BLUEJAYS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 142776,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1662415200000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 5347,
+        "name": "BLUEJAYS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 142773,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1662328800000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 142759,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1662328800000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 142753,
+      "result": {
+        "team1": 25,
+        "team2": 21
+      }
+    },
+    {
+      "date": 1662328800000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 142749,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1662242400000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11563,
+        "name": "Strive in chaos"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 142675,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1662242400000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11563,
+        "name": "Strive in chaos"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 142672,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1661983200000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11525,
+        "name": "KTRL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 142473,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1661983200000,
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 11525,
+        "name": "KTRL"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 142467,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1661205600000,
+      "event": {
+        "id": 6674,
+        "name": "IEM Road to Rio 2022 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "team2": {
+        "id": 10276,
+        "name": "Finest"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 141928,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 2476,
+      "name": "emi"
+    },
+    {
+      "id": 13026,
+      "name": "c0llins"
+    },
+    {
+      "id": 20252,
+      "name": "Kind0"
+    },
+    {
+      "id": 20253,
+      "name": "Dragon"
+    },
+    {
+      "id": 20813,
+      "name": "VLDN"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 23266,
+      "name": "baxter"
+    },
+    {
+      "id": 21787,
+      "name": "LeO"
+    },
+    {
+      "id": 22209,
+      "name": "Consume"
+    },
+    {
+      "id": 15385,
+      "name": "KalubeR"
+    },
+    {
+      "id": 22728,
+      "name": "RiiL3"
+    },
+    {
+      "id": 21786,
+      "name": "xavi"
+    },
+    {
+      "id": 16410,
+      "name": "Duplicate"
+    },
+    {
+      "id": 18749,
+      "name": "sausol"
+    },
+    {
+      "id": 21297,
+      "name": "ROGA"
+    }
+  ],
+  "standins": [
+    {
+      "id": 11777,
+      "name": "Maden"
+    },
+    {
+      "id": 21067,
+      "name": "xicoz"
+    },
+    {
+      "id": 4476,
+      "name": "BAXACHA"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 7158,
+        "name": "ESL Challenger League Season 45 Europe"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 7125,
+        "name": "Elisa Invitational Spring 2023 Contenders"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7112,
+        "name": "CCT Central Europe Series 5"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7119,
+        "name": "ESL Challenger League Season 44 Europe Relegation"
+      }
+    },
+    {
+      "place": "9-10th",
+      "event": {
+        "id": 7107,
+        "name": "ESEA Advanced Season 44 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7001,
+        "name": "Elisa Invitational Winter 2023"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 7073,
+        "name": "CCT South Europe Series 3"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7074,
+        "name": "RES Season 4"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7032,
+        "name": "BLAST.tv Paris Major 2023 Europe RMR Open Qualifier 2"
+      }
+    },
+    {
+      "place": "3-5th",
+      "event": {
+        "id": 7000,
+        "name": "Elisa Invitational Winter 2023 Contenders"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 6945,
+        "name": "CCT South Europe Series 2"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 6960,
+        "name": "ESL Pro League Season 17 Conference Europe"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 6944,
+        "name": "CCT South Europe Series 2 Closed Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6898,
+        "name": "RES Adriatic League 2022"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 6828,
+        "name": "CCT South Europe Series 1"
+      }
+    },
+    {
+      "place": "25-32nd",
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 6827,
+        "name": "CCT South Europe Series 1 Closed Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 6763,
+        "name": "RES Season 3"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 6674,
+        "name": "IEM Road to Rio 2022 Europe Open Qualifier 3"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_inferno": {
+      "wins": 33,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 64.7,
+      "totalRounds": 1355,
+      "roundWinPAfterFirstKill": 71.5,
+      "roundWinPAfterFirstDeath": 34.2
+    },
+    "de_mirage": {
+      "wins": 18,
+      "draws": 0,
+      "losses": 17,
+      "winRate": 51.4,
+      "totalRounds": 901,
+      "roundWinPAfterFirstKill": 70.4,
+      "roundWinPAfterFirstDeath": 27.1
+    },
+    "de_ancient": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 17,
+      "winRate": 50,
+      "totalRounds": 888,
+      "roundWinPAfterFirstKill": 71.4,
+      "roundWinPAfterFirstDeath": 28.4
+    },
+    "de_anubis": {
+      "wins": 20,
+      "draws": 0,
+      "losses": 12,
+      "winRate": 62.5,
+      "totalRounds": 776,
+      "roundWinPAfterFirstKill": 76.3,
+      "roundWinPAfterFirstDeath": 29.6
+    },
+    "de_nuke": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 56.7,
+      "totalRounds": 754,
+      "roundWinPAfterFirstKill": 70.4,
+      "roundWinPAfterFirstDeath": 28.4
+    },
+    "de_vertigo": {
+      "wins": 14,
+      "draws": 0,
+      "losses": 12,
+      "winRate": 53.8,
+      "totalRounds": 740,
+      "roundWinPAfterFirstKill": 74.6,
+      "roundWinPAfterFirstDeath": 22.7
+    },
+    "de_dust2": {
+      "wins": 10,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 52.6,
+      "totalRounds": 523,
+      "roundWinPAfterFirstKill": 72.7,
+      "roundWinPAfterFirstDeath": 29.8
+    }
+  }
+}

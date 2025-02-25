@@ -1,0 +1,235 @@
+{
+  "id": 13181,
+  "name": "BASEMENT BOYS",
+  "overview": {
+    "mapsPlayed": 7,
+    "totalKills": 507,
+    "totalDeaths": 476,
+    "roundsPlayed": 146,
+    "kdRatio": 1.07,
+    "wins": 5,
+    "draws": 0,
+    "losses": 2
+  },
+  "matches": [
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 13181,
+        "name": "BASEMENT BOYS"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193198,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 13181,
+        "name": "BASEMENT BOYS"
+      },
+      "team2": {
+        "id": 13185,
+        "name": "Minsk House"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193190,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 13181,
+        "name": "BASEMENT BOYS"
+      },
+      "team2": {
+        "id": 13185,
+        "name": "Minsk House"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193184,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 13181,
+        "name": "BASEMENT BOYS"
+      },
+      "team2": {
+        "id": 13183,
+        "name": "informmix"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193172,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 13181,
+        "name": "BASEMENT BOYS"
+      },
+      "team2": {
+        "id": 13183,
+        "name": "informmix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193164,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 13181,
+        "name": "BASEMENT BOYS"
+      },
+      "team2": {
+        "id": 13183,
+        "name": "informmix"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193157,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 13181,
+        "name": "BASEMENT BOYS"
+      },
+      "team2": {
+        "id": 13182,
+        "name": "Lithuanian Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193141,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 21213,
+      "name": "ERSIN"
+    },
+    {
+      "id": 22680,
+      "name": "Polbandana"
+    },
+    {
+      "id": 22945,
+      "name": "Tr0ublE"
+    },
+    {
+      "id": 23614,
+      "name": "Bambosh"
+    },
+    {
+      "id": 24286,
+      "name": "levantino"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 66.7,
+      "totalRounds": 64,
+      "roundWinPAfterFirstKill": 78.8,
+      "roundWinPAfterFirstDeath": 22.6
+    },
+    "de_anubis": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 44,
+      "roundWinPAfterFirstKill": 79.2,
+      "roundWinPAfterFirstDeath": 35
+    },
+    "de_mirage": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 17,
+      "roundWinPAfterFirstKill": 50,
+      "roundWinPAfterFirstDeath": 15.4
+    },
+    "de_inferno": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 21,
+      "roundWinPAfterFirstKill": 86.7,
+      "roundWinPAfterFirstDeath": 0
+    }
+  }
+}

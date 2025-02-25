@@ -1,0 +1,4918 @@
+{
+  "id": 12858,
+  "name": "kONO",
+  "overview": {
+    "mapsPlayed": 215,
+    "totalKills": 16048,
+    "totalDeaths": 15501,
+    "roundsPlayed": 4795,
+    "kdRatio": 1.04,
+    "wins": 115,
+    "draws": 0,
+    "losses": 100
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193517,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193231,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193228,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193222,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192857,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192854,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192851,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192781,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192775,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192772,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11699,
+        "name": "BAKS"
+      },
+      "map": "de_train",
+      "mapStatsId": 192763,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11699,
+        "name": "BAKS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192755,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11699,
+        "name": "BAKS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192752,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192737,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192588,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192581,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191906,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191901,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_train",
+      "mapStatsId": 191894,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191836,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191832,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191767,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191763,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191653,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_train",
+      "mapStatsId": 191651,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_train",
+      "mapStatsId": 191598,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191592,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191236,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 191229,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191090,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191087,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191083,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190983,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_train",
+      "mapStatsId": 190977,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190958,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190167,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190165,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190162,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1736377200000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13092,
+        "name": "BadGuys"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190150,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1736377200000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13092,
+        "name": "BadGuys"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190147,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736377200000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13092,
+        "name": "BadGuys"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190146,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736031600000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190110,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1736031600000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 190109,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1735858800000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 190081,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1735858800000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190077,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13046,
+        "name": "CS2News"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190033,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13046,
+        "name": "CS2News"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190032,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 13046,
+        "name": "CS2News"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190031,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735081200000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190006,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1735081200000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190005,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1734908400000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189985,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1734908400000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189983,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8253,
+        "name": "ROG Winter Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189972,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8253,
+        "name": "ROG Winter Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189968,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8253,
+        "name": "ROG Winter Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189967,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12817,
+        "name": "ADEPTS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189922,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12817,
+        "name": "ADEPTS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189918,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8225,
+        "name": "European Pro League 2nd Division Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189917,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8225,
+        "name": "European Pro League 2nd Division Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189916,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8225,
+        "name": "European Pro League 2nd Division Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189915,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189874,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189871,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189868,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8225,
+        "name": "European Pro League 2nd Division Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189855,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8225,
+        "name": "European Pro League 2nd Division Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189847,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8225,
+        "name": "European Pro League 2nd Division Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189800,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8225,
+        "name": "European Pro League 2nd Division Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189798,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188946,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188944,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188942,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188869,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188864,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188857,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188806,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188805,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188803,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188717,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188711,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5115,
+        "name": "Kazakhstan"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188177,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 6271,
+        "name": "USA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188171,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5102,
+        "name": "Latvia"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188108,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188102,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 6279,
+        "name": "Tunisia"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188093,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186838,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186831,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186829,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729548000000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186779,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729548000000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186773,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186665,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186663,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186473,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186467,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185332,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185326,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185321,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185315,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185305,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184862,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184848,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184846,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184560,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184556,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184242,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184232,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184203,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184196,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184117,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184105,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184098,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12975,
+        "name": "ex-Enterprise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184084,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12975,
+        "name": "ex-Enterprise"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184079,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12975,
+        "name": "ex-Enterprise"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184077,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183905,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183902,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183896,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183696,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183693,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183687,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182344,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182333,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182325,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182021,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182008,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181995,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181778,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181770,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181742,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181739,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181617,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181615,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723586400000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181441,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723586400000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181432,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181357,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181347,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181215,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181213,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723327200000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181182,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1723327200000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181179,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1723240800000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181093,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1723240800000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181089,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1723154400000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181020,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723154400000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181015,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723154400000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181012,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180719,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180712,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180705,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10823,
+        "name": "INFINITE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180653,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 10823,
+        "name": "INFINITE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180649,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180187,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180184,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179714,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179710,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179120,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179109,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7947,
+        "name": "Shuffle Masters Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179033,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7947,
+        "name": "Shuffle Masters Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179025,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7947,
+        "name": "Shuffle Masters Season 1"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179013,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178898,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178887,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178793,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178786,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5106,
+        "name": "Turkey"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178785,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5105,
+        "name": "Romania"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178784,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5106,
+        "name": "Turkey"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178775,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1720648800000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178662,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1720648800000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178660,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5105,
+        "name": "Romania"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178644,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5105,
+        "name": "Romania"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178639,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5105,
+        "name": "Romania"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178635,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5116,
+        "name": "Bulgaria"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178563,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 5116,
+        "name": "Bulgaria"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178554,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1720303200000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178477,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720303200000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178474,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1720303200000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178473,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1720216800000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 9139,
+        "name": "BRUTE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178464,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1720216800000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 9139,
+        "name": "BRUTE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178463,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720216800000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 9139,
+        "name": "BRUTE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178462,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1720130400000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178457,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720130400000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178450,
+      "result": {
+        "team1": 29,
+        "team2": 31
+      }
+    },
+    {
+      "date": 1720130400000,
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178449,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1719698400000,
+      "event": {
+        "id": 7933,
+        "name": "ROG Summer Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178422,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1719698400000,
+      "event": {
+        "id": 7933,
+        "name": "ROG Summer Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178421,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1719698400000,
+      "event": {
+        "id": 7933,
+        "name": "ROG Summer Cup 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178420,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718661600000,
+      "event": {
+        "id": 7914,
+        "name": "United21 League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178307,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718661600000,
+      "event": {
+        "id": 7914,
+        "name": "United21 League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178306,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1718575200000,
+      "event": {
+        "id": 7914,
+        "name": "United21 League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12779,
+        "name": "EXO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178288,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1718575200000,
+      "event": {
+        "id": 7914,
+        "name": "United21 League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12779,
+        "name": "EXO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178287,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718575200000,
+      "event": {
+        "id": 7914,
+        "name": "United21 League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12779,
+        "name": "EXO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178286,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176262,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176259,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176024,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176019,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176017,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175600,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175597,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175589,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175564,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175563,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175473,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175461,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175458,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175386,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175382,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175377,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175364,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175359,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1715551200000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175308,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715551200000,
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175305,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174567,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174561,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174553,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174293,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174290,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12775,
+        "name": "ex-Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173145,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "team2": {
+        "id": 12775,
+        "name": "ex-Preasy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173141,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 16147,
+      "name": "cptkurtka023"
+    },
+    {
+      "id": 19614,
+      "name": "s4ltovsk1yy"
+    },
+    {
+      "id": 19617,
+      "name": "amster"
+    },
+    {
+      "id": 21698,
+      "name": "Sijeyy"
+    },
+    {
+      "id": 24170,
+      "name": "zogeN"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 22842,
+      "name": "kensizor"
+    },
+    {
+      "id": 19590,
+      "name": "byr9"
+    },
+    {
+      "id": 22680,
+      "name": "Polbandana"
+    },
+    {
+      "id": 22643,
+      "name": "nifee"
+    }
+  ],
+  "standins": [
+    {
+      "id": 17153,
+      "name": "uQlutzavr"
+    },
+    {
+      "id": 24168,
+      "name": "onic"
+    },
+    {
+      "id": 19913,
+      "name": "Ganginho"
+    },
+    {
+      "id": 24653,
+      "name": "Dafra1D"
+    },
+    {
+      "id": 17008,
+      "name": "Topa"
+    },
+    {
+      "id": 24281,
+      "name": "St0m4k"
+    },
+    {
+      "id": 24283,
+      "name": "cairne"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8226,
+        "name": "United21 League Season 24"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8225,
+        "name": "European Pro League 2nd Division Season 18"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8253,
+        "name": "ROG Winter Cup 2024"
+      }
+    },
+    {
+      "place": "17-24th",
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8136,
+        "name": "European Pro League 2nd Division Season 16"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      }
+    },
+    {
+      "place": "19-20th",
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8009,
+        "name": "United21 League Season 18"
+      }
+    },
+    {
+      "place": "3-5th",
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7947,
+        "name": "Shuffle Masters Season 1"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7939,
+        "name": "United21 League Season 17"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7933,
+        "name": "ROG Summer Cup 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7914,
+        "name": "United21 League Season 16"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7826,
+        "name": "European Pro League 2nd Division Season 12"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 26,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 61.9,
+      "totalRounds": 914,
+      "roundWinPAfterFirstKill": 72.9,
+      "roundWinPAfterFirstDeath": 32.5
+    },
+    "de_inferno": {
+      "wins": 23,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 59,
+      "totalRounds": 857,
+      "roundWinPAfterFirstKill": 74.4,
+      "roundWinPAfterFirstDeath": 26.5
+    },
+    "de_mirage": {
+      "wins": 15,
+      "draws": 0,
+      "losses": 23,
+      "winRate": 39.5,
+      "totalRounds": 898,
+      "roundWinPAfterFirstKill": 71.1,
+      "roundWinPAfterFirstDeath": 25.2
+    },
+    "de_dust2": {
+      "wins": 21,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 56.8,
+      "totalRounds": 799,
+      "roundWinPAfterFirstKill": 71.1,
+      "roundWinPAfterFirstDeath": 29.7
+    },
+    "de_anubis": {
+      "wins": 15,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 48.4,
+      "totalRounds": 716,
+      "roundWinPAfterFirstKill": 72.1,
+      "roundWinPAfterFirstDeath": 25.4
+    },
+    "de_vertigo": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 50,
+      "totalRounds": 399,
+      "roundWinPAfterFirstKill": 69.7,
+      "roundWinPAfterFirstDeath": 29.4
+    },
+    "de_train": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 66.7,
+      "totalRounds": 130,
+      "roundWinPAfterFirstKill": 73.4,
+      "roundWinPAfterFirstDeath": 36.4
+    },
+    "de_nuke": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 66.7,
+      "totalRounds": 64,
+      "roundWinPAfterFirstKill": 79.4,
+      "roundWinPAfterFirstDeath": 26.7
+    },
+    "de_overpass": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 18,
+      "roundWinPAfterFirstKill": 60,
+      "roundWinPAfterFirstDeath": 15.4
+    }
+  }
+}

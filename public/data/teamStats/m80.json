@@ -1,0 +1,7035 @@
+{
+  "id": 12376,
+  "name": "M80",
+  "overview": {
+    "mapsPlayed": 319,
+    "totalKills": 24460,
+    "totalDeaths": 22180,
+    "roundsPlayed": 7019,
+    "kdRatio": 1.1,
+    "wins": 205,
+    "draws": 0,
+    "losses": 114
+  },
+  "matches": [
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192689,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192686,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192670,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192667,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192619,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192615,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192368,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192365,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192362,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192218,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192216,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192214,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 13112,
+        "name": "Bad News Capybaras"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192063,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 13112,
+        "name": "Bad News Capybaras"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192062,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8285,
+        "name": "ICE Invitational 2025"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190728,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8285,
+        "name": "ICE Invitational 2025"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190718,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8285,
+        "name": "ICE Invitational 2025"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190705,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8285,
+        "name": "ICE Invitational 2025"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190700,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8285,
+        "name": "ICE Invitational 2025"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_train",
+      "mapStatsId": 190696,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8285,
+        "name": "ICE Invitational 2025"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190661,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8285,
+        "name": "ICE Invitational 2025"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190648,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190414,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190412,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190408,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188162,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188154,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188132,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188131,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188130,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188056,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188054,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187981,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187946,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187910,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186907,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186906,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186902,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186858,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186854,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186849,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186847,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186733,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186731,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186728,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186519,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186517,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186515,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186438,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186432,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186430,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186123,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186113,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728424800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186061,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1728424800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186054,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185830,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185827,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185821,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185739,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185731,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185507,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185501,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185495,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185491,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12762,
+        "name": "Revenge Nation"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185410,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12762,
+        "name": "Revenge Nation"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185408,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185263,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185261,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10464,
+        "name": "timbermen"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185045,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10464,
+        "name": "timbermen"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185043,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184937,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184930,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184419,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184411,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184069,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184061,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183781,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183764,
+      "result": {
+        "team1": 37,
+        "team2": 34
+      }
+    },
+    {
+      "date": 1725919200000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183671,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725919200000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183665,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182061,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182058,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181712,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181709,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181706,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12419,
+        "name": "undefined"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181664,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12419,
+        "name": "undefined"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181660,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7720,
+        "name": "InControl"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181415,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7720,
+        "name": "InControl"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181411,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181304,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181298,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180927,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180924,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180797,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180793,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180267,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180260,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180158,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180153,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179163,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179133,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179027,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179017,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177709,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177706,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177703,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177679,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177669,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177661,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177546,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177538,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177531,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177277,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177268,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177233,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177214,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177125,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177120,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1716847200000,
+      "event": {
+        "id": 7438,
+        "name": "IEM Dallas 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176440,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716847200000,
+      "event": {
+        "id": 7438,
+        "name": "IEM Dallas 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176436,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716760800000,
+      "event": {
+        "id": 7438,
+        "name": "IEM Dallas 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176392,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176257,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176256,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176255,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176214,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176213,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 176160,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176153,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176144,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176139,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176006,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176001,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175985,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175981,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 175920,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175916,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175838,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175837,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175835,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12554,
+        "name": "regain"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175734,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12554,
+        "name": "regain"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175733,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12706,
+        "name": "One More"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175555,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12706,
+        "name": "One More"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175548,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175456,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175448,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175147,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175145,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715292000000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175108,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1715292000000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175102,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174524,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174519,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1714168800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174452,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1714168800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174447,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1714168800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174439,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174401,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174399,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174397,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174369,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174361,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174355,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174321,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174319,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174315,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174237,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174235,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174232,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173994,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173990,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173982,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173976,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173972,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173849,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173848,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173842,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173835,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173832,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172532,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172525,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1710889200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172254,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710889200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172250,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172042,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172039,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171968,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171966,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171339,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171335,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171334,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171270,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171259,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171254,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171219,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171178,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169922,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169918,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706742000000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169857,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1706742000000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169850,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169814,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169363,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169361,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169357,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169353,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169351,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169347,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169246,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169244,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169236,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169235,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169234,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168854,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168849,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 168847,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1705186800000,
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168814,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1705186800000,
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168810,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705186800000,
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168802,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705100400000,
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 168734,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1705100400000,
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12277,
+        "name": "Rocket"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168724,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1702681200000,
+      "event": {
+        "id": 6869,
+        "name": "ESL Challenger Atlanta 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168219,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702681200000,
+      "event": {
+        "id": 6869,
+        "name": "ESL Challenger Atlanta 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168215,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702594800000,
+      "event": {
+        "id": 6869,
+        "name": "ESL Challenger Atlanta 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168151,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702508400000,
+      "event": {
+        "id": 7576,
+        "name": "Mythic Cup Winter 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168124,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1702508400000,
+      "event": {
+        "id": 7576,
+        "name": "Mythic Cup Winter 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168122,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1702422000000,
+      "event": {
+        "id": 7576,
+        "name": "Mythic Cup Winter 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168098,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1702422000000,
+      "event": {
+        "id": 7576,
+        "name": "Mythic Cup Winter 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168097,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1702335600000,
+      "event": {
+        "id": 7576,
+        "name": "Mythic Cup Winter 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5906,
+        "name": "Torqued"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168076,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1702335600000,
+      "event": {
+        "id": 7576,
+        "name": "Mythic Cup Winter 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5906,
+        "name": "Torqued"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168073,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1702335600000,
+      "event": {
+        "id": 7576,
+        "name": "Mythic Cup Winter 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5906,
+        "name": "Torqued"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168071,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702249200000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168045,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1702249200000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168044,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1701990000000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167869,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1701990000000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167865,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1701903600000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 167797,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1701903600000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167794,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1701644400000,
+      "event": {
+        "id": 7571,
+        "name": "ESEA Autumn 2023 Cash Cup 6 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167605,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1701644400000,
+      "event": {
+        "id": 7571,
+        "name": "ESEA Autumn 2023 Cash Cup 6 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167604,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7571,
+        "name": "ESEA Autumn 2023 Cash Cup 6 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167602,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7571,
+        "name": "ESEA Autumn 2023 Cash Cup 6 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167599,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7571,
+        "name": "ESEA Autumn 2023 Cash Cup 6 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167596,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7571,
+        "name": "ESEA Autumn 2023 Cash Cup 6 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167544,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1700694000000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12277,
+        "name": "Rocket"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 167131,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1700694000000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12277,
+        "name": "Rocket"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167128,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1700434800000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167013,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1700434800000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 167012,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1700434800000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167011,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166870,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166867,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166790,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166789,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166787,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166781,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166705,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166700,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166696,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166690,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166682,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7466,
+        "name": "ESL Challenger Atlanta 2023 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12483,
+        "name": "MIGHT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166625,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7466,
+        "name": "ESL Challenger Atlanta 2023 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12483,
+        "name": "MIGHT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166623,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1699916400000,
+      "event": {
+        "id": 7466,
+        "name": "ESL Challenger Atlanta 2023 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11926,
+        "name": "5Fyctimz"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166619,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166426,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166425,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166423,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166420,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12409,
+        "name": "Badass"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166340,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12409,
+        "name": "Badass"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166336,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166260,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166254,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7289,
+        "name": "Thunderpick World Championship 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 165595,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7289,
+        "name": "Thunderpick World Championship 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165589,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7289,
+        "name": "Thunderpick World Championship 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 165512,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7289,
+        "name": "Thunderpick World Championship 2023"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165506,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164834,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164832,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697839200000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11309,
+        "name": "00NATION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164789,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1697839200000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11309,
+        "name": "00NATION"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164785,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164627,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164624,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1697493600000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164561,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697493600000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164556,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697493600000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164554,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164382,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164372,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 164366,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1694815200000,
+      "event": {
+        "id": 6863,
+        "name": "ESL Pro League Season 18"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162875,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694815200000,
+      "event": {
+        "id": 6863,
+        "name": "ESL Pro League Season 18"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 162870,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694642400000,
+      "event": {
+        "id": 6863,
+        "name": "ESL Pro League Season 18"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12396,
+        "name": "5yclone"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 162716,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694642400000,
+      "event": {
+        "id": 6863,
+        "name": "ESL Pro League Season 18"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12396,
+        "name": "5yclone"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 162712,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 6863,
+        "name": "ESL Pro League Season 18"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162629,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 6863,
+        "name": "ESL Pro League Season 18"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162624,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1693000800000,
+      "event": {
+        "id": 7277,
+        "name": "IEM Sydney 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161782,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1693000800000,
+      "event": {
+        "id": 7277,
+        "name": "IEM Sydney 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 161781,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692914400000,
+      "event": {
+        "id": 7277,
+        "name": "IEM Sydney 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12375,
+        "name": "Forsaken"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161721,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1692914400000,
+      "event": {
+        "id": 7277,
+        "name": "IEM Sydney 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12375,
+        "name": "Forsaken"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 161720,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692914400000,
+      "event": {
+        "id": 7277,
+        "name": "IEM Sydney 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12375,
+        "name": "Forsaken"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161718,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7277,
+        "name": "IEM Sydney 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161710,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7277,
+        "name": "IEM Sydney 2023 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 161707,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 161637,
+      "result": {
+        "team1": 16,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161632,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1692741600000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4822,
+        "name": "Reason"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 161576,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1692741600000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 4822,
+        "name": "Reason"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 161572,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1692223200000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9799,
+        "name": "Bad News Bears"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 161316,
+      "result": {
+        "team1": 16,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1692223200000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9799,
+        "name": "Bad News Bears"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 161315,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11631,
+        "name": "Unjustified"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 161262,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11631,
+        "name": "Unjustified"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 161260,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1691704800000,
+      "event": {
+        "id": 7275,
+        "name": "IEM Sydney 2023 North America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 160939,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1691704800000,
+      "event": {
+        "id": 7275,
+        "name": "IEM Sydney 2023 North America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 160938,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691704800000,
+      "event": {
+        "id": 7275,
+        "name": "IEM Sydney 2023 North America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 160934,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7275,
+        "name": "IEM Sydney 2023 North America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11336,
+        "name": "DETONATE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 160929,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7275,
+        "name": "IEM Sydney 2023 North America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12277,
+        "name": "Rocket"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 160922,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7275,
+        "name": "IEM Sydney 2023 North America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 9799,
+        "name": "Bad News Bears"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 160817,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1690668000000,
+      "event": {
+        "id": 7313,
+        "name": "ESEA Pre-Season Circuit Summer 2023 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12375,
+        "name": "Forsaken"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 160298,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1690668000000,
+      "event": {
+        "id": 7313,
+        "name": "ESEA Pre-Season Circuit Summer 2023 North America"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11512,
+        "name": "Tempest"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 160301,
+      "result": {
+        "team1": 16,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1690236000000,
+      "event": {
+        "id": 7325,
+        "name": "ESEA Pre-Season Circuit Summer 2023 NA Open Qualifier 8"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 160073,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1690063200000,
+      "event": {
+        "id": 7324,
+        "name": "ESEA Pre-Season Circuit Summer 2023 NA Open Qualifier 7"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12210,
+        "name": "Melly Madness"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 160053,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1689717600000,
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 159848,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1689717600000,
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159847,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1689717600000,
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 159845,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1689544800000,
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 159801,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1689544800000,
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159800,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1689544800000,
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159798,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1689458400000,
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12310,
+        "name": "ex-Snakes Den"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159762,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1689458400000,
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      },
+      "team1": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "team2": {
+        "id": 12310,
+        "name": "ex-Snakes Den"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159760,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 15370,
+      "name": "slaxz-"
+    },
+    {
+      "id": 16599,
+      "name": "Swisher"
+    },
+    {
+      "id": 17378,
+      "name": "reck"
+    },
+    {
+      "id": 20104,
+      "name": "s1n"
+    },
+    {
+      "id": 22921,
+      "name": "Lake"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 7873,
+      "name": "dephh"
+    },
+    {
+      "id": 15349,
+      "name": "maNkz"
+    },
+    {
+      "id": 12781,
+      "name": "k1to"
+    },
+    {
+      "id": 11617,
+      "name": "malbsMd"
+    },
+    {
+      "id": 12937,
+      "name": "WolfY"
+    }
+  ],
+  "standins": [
+    {
+      "id": 16893,
+      "name": "stamina"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "1st",
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8285,
+        "name": "ICE Invitational 2025"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      }
+    },
+    {
+      "place": "8th",
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      }
+    },
+    {
+      "place": "10-11th",
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7438,
+        "name": "IEM Dallas 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      }
+    },
+    {
+      "place": "17-20th",
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "6-8th",
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7609,
+        "name": "IEM Chengdu 2024 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-5th",
+      "event": {
+        "id": 7409,
+        "name": "PGL CS2 Major Copenhagen 2024 NA RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 6869,
+        "name": "ESL Challenger Atlanta 2023"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7576,
+        "name": "Mythic Cup Winter 2023"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7287,
+        "name": "ESL Challenger League Season 46 North America"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7571,
+        "name": "ESEA Autumn 2023 Cash Cup 6 North America"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7467,
+        "name": "ESL Challenger Atlanta 2023 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7466,
+        "name": "ESL Challenger Atlanta 2023 North America Open Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7289,
+        "name": "Thunderpick World Championship 2023"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      }
+    },
+    {
+      "place": "29-32nd",
+      "event": {
+        "id": 6863,
+        "name": "ESL Pro League Season 18"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7277,
+        "name": "IEM Sydney 2023 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7275,
+        "name": "IEM Sydney 2023 North America Open Qualifier 1"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7313,
+        "name": "ESEA Pre-Season Circuit Summer 2023 North America"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7325,
+        "name": "ESEA Pre-Season Circuit Summer 2023 NA Open Qualifier 8"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7324,
+        "name": "ESEA Pre-Season Circuit Summer 2023 NA Open Qualifier 7"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7290,
+        "name": "Thunderpick World Championship 2023 North America Series 1"
+      }
+    }
+  ],
+  "mapStats": {}
+}

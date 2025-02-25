@@ -1,0 +1,702 @@
+{
+  "id": 13116,
+  "name": "UR",
+  "overview": {
+    "mapsPlayed": 30,
+    "totalKills": 2048,
+    "totalDeaths": 2014,
+    "roundsPlayed": 583,
+    "kdRatio": 1.02,
+    "wins": 16,
+    "draws": 0,
+    "losses": 14
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193514,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193504,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193470,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193469,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13175,
+        "name": "Change The Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193422,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13175,
+        "name": "Change The Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193414,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13175,
+        "name": "Change The Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193409,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_train",
+      "mapStatsId": 192952,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192941,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192502,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192501,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192256,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192247,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13147,
+        "name": "Shika"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192238,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13147,
+        "name": "Shika"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192236,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13147,
+        "name": "Shika"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192231,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192154,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192150,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192141,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13147,
+        "name": "Shika"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191892,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13147,
+        "name": "Shika"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191890,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13147,
+        "name": "Shika"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191887,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191155,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191148,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13115,
+        "name": "harizma"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190969,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13115,
+        "name": "harizma"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190962,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190882,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190874,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190724,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190712,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 20258,
+      "name": "SPine"
+    },
+    {
+      "id": 20807,
+      "name": "rage"
+    },
+    {
+      "id": 21323,
+      "name": "Risk"
+    },
+    {
+      "id": 21509,
+      "name": "Miami"
+    },
+    {
+      "id": 23596,
+      "name": "expSasiKi"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      }
+    }
+  ],
+  "mapStats": {}
+}

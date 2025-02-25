@@ -1,0 +1,1741 @@
+{
+  "id": 12833,
+  "name": "TNL",
+  "overview": {
+    "mapsPlayed": 71,
+    "totalKills": 5133,
+    "totalDeaths": 5284,
+    "roundsPlayed": 1551,
+    "kdRatio": 0.97,
+    "wins": 32,
+    "draws": 0,
+    "losses": 39
+  },
+  "matches": [
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193316,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192339,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192311,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192286,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192277,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192268,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 13154,
+        "name": "LFO 3"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192103,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 13154,
+        "name": "LFO 3"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192096,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 13154,
+        "name": "LFO 3"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192086,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192061,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192048,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190592,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190587,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 190582,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190533,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190524,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12522,
+        "name": "Heimo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190457,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12522,
+        "name": "Heimo"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190454,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12522,
+        "name": "Heimo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190451,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190413,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 190411,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190406,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736722800000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 9139,
+        "name": "BRUTE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190231,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736722800000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 9139,
+        "name": "BRUTE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190228,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8253,
+        "name": "ROG Winter Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189972,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8253,
+        "name": "ROG Winter Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189968,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8253,
+        "name": "ROG Winter Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189967,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189806,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189801,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189797,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734303600000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 13060,
+        "name": "Dragon EC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189768,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1734303600000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 13060,
+        "name": "Dragon EC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189766,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734303600000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 13060,
+        "name": "Dragon EC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189762,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12885,
+        "name": "DASH"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189435,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12885,
+        "name": "DASH"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189431,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12885,
+        "name": "DASH"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189427,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188731,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188728,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188727,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188687,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188684,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188614,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188608,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185321,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185315,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185305,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184141,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184137,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184129,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183607,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183605,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183600,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183487,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183473,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183285,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183278,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12961,
+        "name": "ZEROvariant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183137,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12961,
+        "name": "ZEROvariant"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183130,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180972,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180971,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180187,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180184,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179572,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179566,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178792,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178787,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12834,
+        "name": "RUSTEC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176729,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12834,
+        "name": "RUSTEC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176721,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12834,
+        "name": "RUSTEC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176708,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12781,
+        "name": "esmagaB"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176493,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "team2": {
+        "id": 12781,
+        "name": "esmagaB"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176490,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 22643,
+      "name": "nifee"
+    },
+    {
+      "id": 23642,
+      "name": "Flierax"
+    },
+    {
+      "id": 24168,
+      "name": "onic"
+    },
+    {
+      "id": 24282,
+      "name": "Dawy"
+    },
+    {
+      "id": 24283,
+      "name": "cairne"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 19913,
+      "name": "Ganginho"
+    },
+    {
+      "id": 24169,
+      "name": "xxlafy"
+    },
+    {
+      "id": 24167,
+      "name": "remorse"
+    },
+    {
+      "id": 24175,
+      "name": "yukitoro"
+    },
+    {
+      "id": 24170,
+      "name": "zogeN"
+    },
+    {
+      "id": 24281,
+      "name": "St0m4k"
+    }
+  ],
+  "standins": [
+    {
+      "id": 19617,
+      "name": "amster"
+    },
+    {
+      "id": 24325,
+      "name": "tripex17"
+    },
+    {
+      "id": 19590,
+      "name": "byr9"
+    },
+    {
+      "id": 8786,
+      "name": "jR"
+    },
+    {
+      "id": 23413,
+      "name": "s-chilla"
+    },
+    {
+      "id": 22680,
+      "name": "Polbandana"
+    },
+    {
+      "id": 22842,
+      "name": "kensizor"
+    },
+    {
+      "id": 19614,
+      "name": "s4ltovsk1yy"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8253,
+        "name": "ROG Winter Cup 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8197,
+        "name": "Galaxy Battle 4"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8112,
+        "name": "ROG Autumn Cup 2024"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      }
+    },
+    {
+      "place": "9-11th",
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      }
+    },
+    {
+      "place": "17-24th",
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_dust2": {
+      "wins": 10,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 71.4,
+      "totalRounds": 293,
+      "roundWinPAfterFirstKill": 74.5,
+      "roundWinPAfterFirstDeath": 37.5
+    },
+    "de_mirage": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 35.7,
+      "totalRounds": 312,
+      "roundWinPAfterFirstKill": 75.4,
+      "roundWinPAfterFirstDeath": 25.9
+    },
+    "de_ancient": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 75,
+      "totalRounds": 251,
+      "roundWinPAfterFirstKill": 74,
+      "roundWinPAfterFirstDeath": 36.7
+    },
+    "de_anubis": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 10,
+      "winRate": 16.7,
+      "totalRounds": 266,
+      "roundWinPAfterFirstKill": 66.4,
+      "roundWinPAfterFirstDeath": 21.1
+    },
+    "de_nuke": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 7,
+      "winRate": 36.4,
+      "totalRounds": 247,
+      "roundWinPAfterFirstKill": 56,
+      "roundWinPAfterFirstDeath": 32.1
+    },
+    "de_inferno": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 16.7,
+      "totalRounds": 141,
+      "roundWinPAfterFirstKill": 54.3,
+      "roundWinPAfterFirstDeath": 26.8
+    },
+    "de_vertigo": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 41,
+      "roundWinPAfterFirstKill": 87.5,
+      "roundWinPAfterFirstDeath": 24
+    }
+  }
+}

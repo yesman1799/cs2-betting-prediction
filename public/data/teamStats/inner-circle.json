@@ -1,0 +1,202 @@
+{
+  "id": 13117,
+  "name": "Inner Circle",
+  "overview": {
+    "mapsPlayed": 5,
+    "totalKills": 383,
+    "totalDeaths": 403,
+    "roundsPlayed": 119,
+    "kdRatio": 0.95,
+    "wins": 3,
+    "draws": 0,
+    "losses": 2
+  },
+  "matches": [
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "team2": {
+        "id": 13192,
+        "name": "Roler Coaster"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193346,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "team2": {
+        "id": 13192,
+        "name": "Roler Coaster"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193341,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_train",
+      "mapStatsId": 193335,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193327,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193316,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 798,
+      "name": "oskar"
+    },
+    {
+      "id": 6904,
+      "name": "STYKO"
+    },
+    {
+      "id": 16718,
+      "name": "Fessor"
+    },
+    {
+      "id": 16741,
+      "name": "Q-Q"
+    },
+    {
+      "id": 20282,
+      "name": "kRaSnaL"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_dust2": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 16,
+      "roundWinPAfterFirstKill": 42.9,
+      "roundWinPAfterFirstDeath": 0
+    },
+    "de_nuke": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 20,
+      "roundWinPAfterFirstKill": 76.9,
+      "roundWinPAfterFirstDeath": 42.9
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 24,
+      "roundWinPAfterFirstKill": 75,
+      "roundWinPAfterFirstDeath": 12.5
+    },
+    "de_ancient": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 29,
+      "roundWinPAfterFirstKill": 45.5,
+      "roundWinPAfterFirstDeath": 44.4
+    },
+    "de_anubis": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 30,
+      "roundWinPAfterFirstKill": 85.7,
+      "roundWinPAfterFirstDeath": 25
+    }
+  }
+}

@@ -1,0 +1,7426 @@
+{
+  "id": 12471,
+  "name": "GUN5",
+  "overview": {
+    "mapsPlayed": 331,
+    "totalKills": 24919,
+    "totalDeaths": 24339,
+    "roundsPlayed": 7252,
+    "kdRatio": 1.02,
+    "wins": 184,
+    "draws": 0,
+    "losses": 147
+  },
+  "matches": [
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193248,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193244,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193174,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193160,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193149,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193053,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193045,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193034,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192903,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192892,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192886,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192753,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192741,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192585,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192579,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192532,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192528,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192312,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192306,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191411,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191407,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191402,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191271,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191266,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191258,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191008,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191000,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190820,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190813,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190326,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190319,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189809,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189807,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189803,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189785,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189784,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189783,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1734303600000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189780,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1734303600000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189778,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734303600000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189776,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734303600000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189761,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1734303600000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189760,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189716,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189713,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189708,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189565,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189563,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189561,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189535,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189533,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189528,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189508,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189503,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189498,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189468,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189466,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189462,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189438,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189437,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189429,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189426,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189092,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189089,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189087,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188854,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188851,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188788,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188786,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188779,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188771,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188767,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188736,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187940,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187928,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187917,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187836,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187832,
+      "result": {
+        "team1": 18,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187823,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1731193200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187792,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1731193200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187789,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731193200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187786,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187772,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187768,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187761,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187477,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187475,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187428,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187420,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187417,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187353,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187350,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187262,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187259,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187177,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187172,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187168,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187107,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187102,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186913,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186909,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186908,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186846,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186843,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1729548000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186790,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729548000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186787,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1729548000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186782,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186306,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186304,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186258,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186256,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186235,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186229,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186183,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186180,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186145,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186142,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728252000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185970,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1728252000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185965,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728252000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185959,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185869,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185862,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185767,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185762,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185637,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185634,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185629,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185612,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185608,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185603,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185597,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185549,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185545,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185541,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185487,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185482,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185481,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185444,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185440,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185398,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185395,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185391,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185168,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185166,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185022,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185009,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184998,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184984,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184263,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184251,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184236,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184231,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184027,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184017,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184006,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183935,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183871,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183858,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183570,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183566,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183564,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183421,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183416,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183396,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183394,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183385,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183370,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183361,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183297,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183286,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183251,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183243,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183235,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183065,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183062,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182939,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182934,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182925,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182920,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182902,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182901,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182896,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182858,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182854,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182848,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182847,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182816,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182808,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182793,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182777,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182766,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182649,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182642,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182636,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182628,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182326,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182314,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182305,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182184,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182181,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181752,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181741,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181654,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181646,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181639,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181626,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181494,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181492,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181488,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180893,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180884,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180761,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180754,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180749,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180513,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180503,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180499,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180486,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180336,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180327,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180279,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180273,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180174,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180168,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180074,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180071,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179989,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179981,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179918,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179903,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179897,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179894,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179891,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179795,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179788,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179783,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179727,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179722,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179587,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179584,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721512800000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179456,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1721512800000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179454,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179359,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179348,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179346,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179064,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179056,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179041,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178979,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178974,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178927,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178917,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178909,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178804,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178801,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178189,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178179,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178080,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178064,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178034,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178028,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178025,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177731,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177727,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177355,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177345,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177078,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177063,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176844,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176841,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176810,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176803,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176774,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176770,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176749,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176742,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176737,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176640,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176635,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176629,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716847200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176417,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716847200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176416,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716674400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176327,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1716674400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176322,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176254,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176252,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176250,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176212,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176211,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176208,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175818,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175812,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175617,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10943,
+        "name": "777"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175527,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10943,
+        "name": "777"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175520,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712527200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173109,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712527200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173105,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712527200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173087,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172660,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172658,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172656,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710802800000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172234,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710802800000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172231,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710802800000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172228,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171370,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706569200000,
+      "event": {
+        "id": 7605,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169784,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705446000000,
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169044,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168937,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1704841200000,
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168614,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702940400000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168402,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702940400000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168401,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702940400000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168399,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702940400000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168397,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702940400000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168392,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166525,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166522,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166455,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166450,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166446,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166361,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166358,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166356,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12494,
+        "name": "FatherS And Sons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164403,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12494,
+        "name": "FatherS And Sons"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164399,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164096,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164093,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164091,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1696629600000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164051,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1696629600000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164045,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1696456800000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163901,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1696456800000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163895,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1696456800000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163893,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 13240,
+      "name": "Lack1"
+    },
+    {
+      "id": 18670,
+      "name": "SELLTER"
+    },
+    {
+      "id": 22471,
+      "name": "xiELO"
+    },
+    {
+      "id": 23047,
+      "name": "Sdaim"
+    },
+    {
+      "id": 23783,
+      "name": "fineshine52"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 20948,
+      "name": "lov1kus"
+    },
+    {
+      "id": 23468,
+      "name": "ResoLuxe"
+    },
+    {
+      "id": 16415,
+      "name": "supra"
+    },
+    {
+      "id": 23927,
+      "name": "tried"
+    },
+    {
+      "id": 17305,
+      "name": "FinigaN"
+    },
+    {
+      "id": 19808,
+      "name": "tN1R"
+    },
+    {
+      "id": 23360,
+      "name": "easy"
+    }
+  ],
+  "standins": [
+    {
+      "id": 20387,
+      "name": "Xant3r"
+    },
+    {
+      "id": 20200,
+      "name": "NMV"
+    },
+    {
+      "id": 23048,
+      "name": "kelieN"
+    },
+    {
+      "id": 19882,
+      "name": "Norwi"
+    },
+    {
+      "id": 19821,
+      "name": "znxxX"
+    },
+    {
+      "id": 22039,
+      "name": "danistzz"
+    },
+    {
+      "id": 22073,
+      "name": "L1GH7n1nG"
+    },
+    {
+      "id": 21691,
+      "name": "dako"
+    },
+    {
+      "id": 23292,
+      "name": "Pumpkin66"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8209,
+        "name": "500 Casino Christmas Cup 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      }
+    },
+    {
+      "place": "6-8th",
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      }
+    },
+    {
+      "place": "17th",
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "21-24th",
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      }
+    },
+    {
+      "place": "18-19th",
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7605,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 44,
+      "draws": 0,
+      "losses": 32,
+      "winRate": 57.9,
+      "totalRounds": 1682,
+      "roundWinPAfterFirstKill": 71.3,
+      "roundWinPAfterFirstDeath": 32.2
+    },
+    "de_dust2": {
+      "wins": 36,
+      "draws": 0,
+      "losses": 21,
+      "winRate": 63.2,
+      "totalRounds": 1258,
+      "roundWinPAfterFirstKill": 74.4,
+      "roundWinPAfterFirstDeath": 32.8
+    },
+    "de_mirage": {
+      "wins": 30,
+      "draws": 0,
+      "losses": 24,
+      "winRate": 55.6,
+      "totalRounds": 1222,
+      "roundWinPAfterFirstKill": 72.5,
+      "roundWinPAfterFirstDeath": 31.7
+    },
+    "de_anubis": {
+      "wins": 27,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 50.9,
+      "totalRounds": 1215,
+      "roundWinPAfterFirstKill": 71.1,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_nuke": {
+      "wins": 24,
+      "draws": 0,
+      "losses": 25,
+      "winRate": 49,
+      "totalRounds": 1001,
+      "roundWinPAfterFirstKill": 74.8,
+      "roundWinPAfterFirstDeath": 29.7
+    },
+    "de_inferno": {
+      "wins": 22,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 55,
+      "totalRounds": 836,
+      "roundWinPAfterFirstKill": 72.3,
+      "roundWinPAfterFirstDeath": 30.6
+    },
+    "de_overpass": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 38,
+      "roundWinPAfterFirstKill": 85,
+      "roundWinPAfterFirstDeath": 33.3
+    }
+  }
+}

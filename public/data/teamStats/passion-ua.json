@@ -1,0 +1,9208 @@
+{
+  "id": 12426,
+  "name": "Passion UA",
+  "overview": {
+    "mapsPlayed": 414,
+    "totalKills": 30549,
+    "totalDeaths": 29776,
+    "roundsPlayed": 9089,
+    "kdRatio": 1.03,
+    "wins": 227,
+    "draws": 0,
+    "losses": 187
+  },
+  "matches": [
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193174,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193160,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193149,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192680,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192674,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192611,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192608,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192004,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191985,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191919,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191912,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191904,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191737,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191729,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191717,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191695,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191685,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191396,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_train",
+      "mapStatsId": 191392,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189037,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189033,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189027,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188978,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188974,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188971,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188911,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188853,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188845,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188587,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188586,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188516,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188513,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188510,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188443,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188439,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188438,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188400,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188389,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187587,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187582,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187577,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187112,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187109,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187103,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1729980000000,
+      "event": {
+        "id": 8131,
+        "name": "RTV Euro AGD Game Zone Masters 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187025,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729980000000,
+      "event": {
+        "id": 8131,
+        "name": "RTV Euro AGD Game Zone Masters 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187021,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186866,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186861,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 13001,
+        "name": "Mission Possible"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186284,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 13001,
+        "name": "Mission Possible"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186283,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 13001,
+        "name": "Mission Possible"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186277,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12975,
+        "name": "ex-Enterprise"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186268,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12975,
+        "name": "ex-Enterprise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186263,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 13001,
+        "name": "Mission Possible"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186224,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186200,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186199,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186197,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186169,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186167,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186166,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185927,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185925,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185921,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185883,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185874,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185865,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185829,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185826,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185822,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185806,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185799,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185792,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185772,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185768,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185764,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185706,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185703,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185618,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185613,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185603,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185597,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185461,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185456,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185421,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185416,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185373,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185369,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185366,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185175,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185167,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185164,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185103,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185099,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184971,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184966,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184961,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184859,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184795,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184790,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184717,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184709,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184658,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184655,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184651,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184633,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184632,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184522,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184511,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184331,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184315,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184311,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184297,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184294,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184193,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184189,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184150,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184148,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184141,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184137,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184129,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183962,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183957,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183955,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183755,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183753,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183746,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1725919200000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183621,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725919200000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183616,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12877,
+        "name": "PeeP"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183594,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12877,
+        "name": "PeeP"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183592,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12877,
+        "name": "PeeP"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183589,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183519,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183516,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12542,
+        "name": "GL Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183441,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12542,
+        "name": "GL Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183436,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183431,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183422,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183389,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183381,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12962,
+        "name": "Molotov"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183140,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12962,
+        "name": "Molotov"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183131,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183067,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183063,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182580,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182575,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182393,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182381,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182366,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182364,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182112,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182100,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182091,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181999,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181916,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181857,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181506,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181503,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181498,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180970,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180964,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180961,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180938,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180933,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180930,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180492,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180485,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180476,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180288,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180282,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180122,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180111,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180106,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180015,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180007,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179990,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179985,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179871,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179869,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179866,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179815,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179811,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179779,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179777,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179775,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179750,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179743,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179713,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179709,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179707,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179581,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179579,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179539,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179532,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179527,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179521,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179515,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721512800000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179465,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721512800000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179460,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179374,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179366,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179342,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179335,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179334,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179253,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179250,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179137,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179127,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179126,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179117,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179111,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178998,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178988,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178881,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178874,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178846,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178844,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178837,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178791,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178788,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178752,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178751,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178602,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178601,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7936,
+        "name": "Skin.Club Summer Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178552,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7936,
+        "name": "Skin.Club Summer Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178551,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7936,
+        "name": "Skin.Club Summer Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178548,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7936,
+        "name": "Skin.Club Summer Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178546,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720389600000,
+      "event": {
+        "id": 7936,
+        "name": "Skin.Club Summer Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178489,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178019,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178015,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178014,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177756,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177748,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177743,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177480,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177467,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177451,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177334,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177324,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177317,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177298,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177288,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12383,
+        "name": "ex-iNation"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177165,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12383,
+        "name": "ex-iNation"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177151,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12383,
+        "name": "ex-iNation"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177138,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12383,
+        "name": "ex-iNation"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177131,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177017,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177014,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176945,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176940,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176936,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176931,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176924,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4803,
+        "name": "iNation"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176915,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176771,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176768,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176619,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176615,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176568,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176563,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176557,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176481,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176479,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176300,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176295,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176291,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176243,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176240,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176228,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176226,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176221,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176180,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176177,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175938,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175930,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175926,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175897,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175892,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175888,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175866,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175857,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175854,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175804,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175803,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175791,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175674,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175668,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175578,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175569,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175566,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175508,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175505,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175500,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175399,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175393,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7815,
+        "name": "CCT Season 2 Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175149,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7815,
+        "name": "CCT Season 2 Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175148,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174769,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174759,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174753,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174698,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174692,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174603,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174596,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174593,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174517,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174514,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174508,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174384,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174378,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174304,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174297,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174270,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174267,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174258,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713736800000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174188,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713736800000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174183,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174083,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174063,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174055,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174012,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174008,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174001,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173915,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173907,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173895,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173782,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173773,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173765,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173701,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173698,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173691,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713218400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173636,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713218400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173630,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1713218400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173626,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713045600000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173521,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713045600000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173519,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173368,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173361,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173266,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173262,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173258,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172872,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172868,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172720,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172712,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172708,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1711839600000,
+      "event": {
+        "id": 7752,
+        "name": "ROG Spring Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12772,
+        "name": "Blessed"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172642,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711839600000,
+      "event": {
+        "id": 7752,
+        "name": "ROG Spring Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12772,
+        "name": "Blessed"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172641,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711753200000,
+      "event": {
+        "id": 7752,
+        "name": "ROG Spring Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172621,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1711753200000,
+      "event": {
+        "id": 7752,
+        "name": "ROG Spring Cup 2024"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172620,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1711666800000,
+      "event": {
+        "id": 7750,
+        "name": "United21 League Season 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172602,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711666800000,
+      "event": {
+        "id": 7750,
+        "name": "United21 League Season 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172601,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1711666800000,
+      "event": {
+        "id": 7750,
+        "name": "United21 League Season 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172598,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7750,
+        "name": "United21 League Season 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12542,
+        "name": "GL Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172550,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7750,
+        "name": "United21 League Season 13"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12542,
+        "name": "GL Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172549,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710630000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172134,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710630000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172133,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710630000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172132,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1710543600000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172109,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710543600000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172108,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171982,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171980,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171822,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171821,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171818,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7734,
+        "name": "United21 League Season 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171751,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7734,
+        "name": "United21 League Season 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171750,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7734,
+        "name": "United21 League Season 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171745,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7734,
+        "name": "United21 League Season 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171693,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7734,
+        "name": "United21 League Season 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171688,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7734,
+        "name": "United21 League Season 12"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171684,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171654,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171647,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171642,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171586,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171582,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171578,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171574,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171570,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1709766000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171537,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709766000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171520,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709766000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171516,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171437,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171419,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11911,
+        "name": "K10"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171417,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11911,
+        "name": "K10"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171414,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171376,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171320,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171315,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170158,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170156,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170155,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706482800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169763,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706482800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169762,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1705532400000,
+      "event": {
+        "id": 7635,
+        "name": "United21 League Season 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169075,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705532400000,
+      "event": {
+        "id": 7635,
+        "name": "United21 League Season 10"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169073,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168987,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168978,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168955,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12666,
+        "name": "PIXEL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168927,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1705014000000,
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168708,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 165976,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165974,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165352,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165348,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165341,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164842,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164840,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164443,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164440,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164437,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164090,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164087,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 17008,
+      "name": "Topa"
+    },
+    {
+      "id": 21452,
+      "name": "Kvem"
+    },
+    {
+      "id": 23046,
+      "name": "jambo"
+    },
+    {
+      "id": 23414,
+      "name": "jackasmo"
+    },
+    {
+      "id": 23415,
+      "name": "zeRRoFIX"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 23413,
+      "name": "s-chilla"
+    },
+    {
+      "id": 17803,
+      "name": "fear"
+    },
+    {
+      "id": 21650,
+      "name": "marat2k"
+    }
+  ],
+  "standins": [
+    {
+      "id": 482,
+      "name": "Kane"
+    },
+    {
+      "id": 22904,
+      "name": "Burmylov"
+    },
+    {
+      "id": 22619,
+      "name": "Zinchenko"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "9-11th",
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      }
+    },
+    {
+      "place": "6th",
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8131,
+        "name": "RTV Euro AGD Game Zone Masters 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      }
+    },
+    {
+      "place": "19-20th",
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8089,
+        "name": "Lenovo LEGION Real Game Cup 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7936,
+        "name": "Skin.Club Summer Cup 2024"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7815,
+        "name": "CCT Season 2 Europe Series 3 Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      }
+    },
+    {
+      "place": "13-15th",
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7752,
+        "name": "ROG Spring Cup 2024"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7750,
+        "name": "United21 League Season 13"
+      }
+    },
+    {
+      "place": "17-24th",
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7734,
+        "name": "United21 League Season 12"
+      }
+    },
+    {
+      "place": "6-8th",
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7635,
+        "name": "United21 League Season 10"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      }
+    },
+    {
+      "place": "13-15th",
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_mirage": {
+      "wins": 46,
+      "draws": 0,
+      "losses": 46,
+      "winRate": 50,
+      "totalRounds": 2116,
+      "roundWinPAfterFirstKill": 71.5,
+      "roundWinPAfterFirstDeath": 29.1
+    },
+    "de_ancient": {
+      "wins": 53,
+      "draws": 0,
+      "losses": 36,
+      "winRate": 59.6,
+      "totalRounds": 1917,
+      "roundWinPAfterFirstKill": 72.4,
+      "roundWinPAfterFirstDeath": 30.9
+    },
+    "de_anubis": {
+      "wins": 48,
+      "draws": 0,
+      "losses": 34,
+      "winRate": 58.5,
+      "totalRounds": 1831,
+      "roundWinPAfterFirstKill": 73.1,
+      "roundWinPAfterFirstDeath": 30.6
+    },
+    "de_vertigo": {
+      "wins": 36,
+      "draws": 0,
+      "losses": 20,
+      "winRate": 64.3,
+      "totalRounds": 1199,
+      "roundWinPAfterFirstKill": 74.2,
+      "roundWinPAfterFirstDeath": 33.2
+    },
+    "de_inferno": {
+      "wins": 22,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 45.8,
+      "totalRounds": 974,
+      "roundWinPAfterFirstKill": 70,
+      "roundWinPAfterFirstDeath": 25.5
+    },
+    "de_dust2": {
+      "wins": 14,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 43.8,
+      "totalRounds": 706,
+      "roundWinPAfterFirstKill": 74.5,
+      "roundWinPAfterFirstDeath": 25.5
+    },
+    "de_overpass": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 57.1,
+      "totalRounds": 326,
+      "roundWinPAfterFirstKill": 69.7,
+      "roundWinPAfterFirstDeath": 28
+    },
+    "de_train": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 20,
+      "roundWinPAfterFirstKill": 62.5,
+      "roundWinPAfterFirstDeath": 16.7
+    }
+  }
+}

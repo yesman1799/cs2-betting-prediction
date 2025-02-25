@@ -1,0 +1,297 @@
+{
+  "id": 12958,
+  "name": "Al-Ittihad",
+  "overview": {
+    "mapsPlayed": 8,
+    "totalKills": 495,
+    "totalDeaths": 564,
+    "roundsPlayed": 156,
+    "kdRatio": 0.88,
+    "wins": 3,
+    "draws": 0,
+    "losses": 5
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8382,
+        "name": "MESA Asian Masters 2025 MENA Closed Qualifier"
+      },
+      "team1": {
+        "id": 12958,
+        "name": "Al-Ittihad"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193516,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8382,
+        "name": "MESA Asian Masters 2025 MENA Closed Qualifier"
+      },
+      "team1": {
+        "id": 12958,
+        "name": "Al-Ittihad"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193506,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8382,
+        "name": "MESA Asian Masters 2025 MENA Closed Qualifier"
+      },
+      "team1": {
+        "id": 12958,
+        "name": "Al-Ittihad"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193498,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8382,
+        "name": "MESA Asian Masters 2025 MENA Closed Qualifier"
+      },
+      "team1": {
+        "id": 12958,
+        "name": "Al-Ittihad"
+      },
+      "team2": {
+        "id": 13165,
+        "name": "mindshock"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193412,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8382,
+        "name": "MESA Asian Masters 2025 MENA Closed Qualifier"
+      },
+      "team1": {
+        "id": 12958,
+        "name": "Al-Ittihad"
+      },
+      "team2": {
+        "id": 13165,
+        "name": "mindshock"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193406,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7874,
+        "name": "Perfect World Shanghai Major 2024 Middle East RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12958,
+        "name": "Al-Ittihad"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182656,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7874,
+        "name": "Perfect World Shanghai Major 2024 Middle East RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12958,
+        "name": "Al-Ittihad"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182652,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7874,
+        "name": "Perfect World Shanghai Major 2024 Middle East RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12958,
+        "name": "Al-Ittihad"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182635,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 10479,
+      "name": "Remind"
+    },
+    {
+      "id": 19345,
+      "name": "dodZ"
+    },
+    {
+      "id": 21322,
+      "name": "0scar"
+    },
+    {
+      "id": 21841,
+      "name": "Lambdacore"
+    },
+    {
+      "id": 22419,
+      "name": "0SAMAS"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 19763,
+      "name": "BOROS"
+    },
+    {
+      "id": 21844,
+      "name": "d0dy"
+    },
+    {
+      "id": 24356,
+      "name": "N1dhaaal"
+    },
+    {
+      "id": 24357,
+      "name": "No Love"
+    },
+    {
+      "id": 21842,
+      "name": "raizo"
+    }
+  ],
+  "standins": [
+    {
+      "id": 23371,
+      "name": "sry"
+    }
+  ],
+  "substitutes": [
+    {
+      "id": 13613,
+      "name": "b1lal"
+    }
+  ],
+  "events": [],
+  "mapStats": {
+    "de_inferno": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 37,
+      "roundWinPAfterFirstKill": 70.6,
+      "roundWinPAfterFirstDeath": 15
+    },
+    "de_ancient": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 41,
+      "roundWinPAfterFirstKill": 66.7,
+      "roundWinPAfterFirstDeath": 17.6
+    },
+    "de_dust2": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 29,
+      "roundWinPAfterFirstKill": 66.7,
+      "roundWinPAfterFirstDeath": 9.1
+    },
+    "de_mirage": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 14,
+      "roundWinPAfterFirstKill": 33.3,
+      "roundWinPAfterFirstDeath": 0
+    },
+    "de_nuke": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 15,
+      "roundWinPAfterFirstKill": 90,
+      "roundWinPAfterFirstDeath": 80
+    },
+    "de_anubis": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 20,
+      "roundWinPAfterFirstKill": 66.7,
+      "roundWinPAfterFirstDeath": 9.1
+    }
+  }
+}

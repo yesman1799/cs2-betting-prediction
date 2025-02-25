@@ -1,0 +1,5383 @@
+{
+  "id": 12312,
+  "name": "ATOX",
+  "overview": {
+    "mapsPlayed": 237,
+    "totalKills": 18197,
+    "totalDeaths": 17790,
+    "roundsPlayed": 5258,
+    "kdRatio": 1.02,
+    "wins": 136,
+    "draws": 0,
+    "losses": 101
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193458,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193457,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193362,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193360,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193358,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193021,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193014,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192593,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192590,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192571,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192570,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192568,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192540,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192534,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192527,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192455,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192429,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192420,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192401,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192394,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192386,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192374,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192373,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192371,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190975,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190957,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190797,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190788,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190584,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190580,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190575,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190572,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190505,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190502,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13096,
+        "name": "Nalakuvara"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190445,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13096,
+        "name": "Nalakuvara"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190442,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190437,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13094,
+        "name": "Miracle Play"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190263,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1736636400000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190217,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736636400000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190216,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736550000000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11081,
+        "name": "TCG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190205,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1736550000000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11081,
+        "name": "TCG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190204,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13103,
+        "name": "LaiShanHui"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190171,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13103,
+        "name": "LaiShanHui"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190168,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190063,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190061,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190059,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190058,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190057,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190056,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190040,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190039,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190037,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190036,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190014,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190013,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189221,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189219,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189218,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189194,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189193,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189082,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12900,
+        "name": "NomadS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189076,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189071,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188522,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188519,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188508,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188506,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188361,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188359,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8070,
+        "name": "ESL Challenger League Season 48 Asia-Pacific Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187405,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8070,
+        "name": "ESL Challenger League Season 48 Asia-Pacific Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187404,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8070,
+        "name": "ESL Challenger League Season 48 Asia-Pacific Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187341,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8070,
+        "name": "ESL Challenger League Season 48 Asia-Pacific Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187337,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186524,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186523,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186522,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11656,
+        "name": "Clutch"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186451,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11656,
+        "name": "Clutch"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186443,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186393,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186385,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186379,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186364,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186361,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186319,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186316,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12825,
+        "name": "The QUBE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186303,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12825,
+        "name": "The QUBE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186302,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8114,
+        "name": "MESA Pro Series Fall 2024 Stage 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11656,
+        "name": "Clutch"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185704,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8114,
+        "name": "MESA Pro Series Fall 2024 Stage 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11656,
+        "name": "Clutch"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185698,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8114,
+        "name": "MESA Pro Series Fall 2024 Stage 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11656,
+        "name": "Clutch"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185697,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8114,
+        "name": "MESA Pro Series Fall 2024 Stage 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185687,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8114,
+        "name": "MESA Pro Series Fall 2024 Stage 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185683,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185055,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185050,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185048,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184051,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184038,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183951,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183947,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183823,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183817,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183712,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183704,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182878,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182872,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182865,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182850,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182844,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182759,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182753,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182712,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182708,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182592,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12900,
+        "name": "NomadS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182572,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180378,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180374,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180371,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180302,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180294,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180284,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180276,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180271,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177634,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177625,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177609,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177597,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177177,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177176,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177170,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177030,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177026,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176928,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176921,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176672,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176671,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176540,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176539,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176538,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176480,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176478,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176477,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175750,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175745,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175741,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175666,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175663,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175654,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7722,
+        "name": "ESL Challenger Jönköping 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172692,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7722,
+        "name": "ESL Challenger Jönköping 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172687,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7722,
+        "name": "ESL Challenger Jönköping 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172679,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7722,
+        "name": "ESL Challenger Jönköping 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172676,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7721,
+        "name": "ESL Challenger Jönköping 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171890,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7721,
+        "name": "ESL Challenger Jönköping 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171888,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7721,
+        "name": "ESL Challenger Jönköping 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171883,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7721,
+        "name": "ESL Challenger Jönköping 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12758,
+        "name": "ROUX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171873,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8008,
+        "name": "Grayhound"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171078,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8008,
+        "name": "Grayhound"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171075,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8008,
+        "name": "Grayhound"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171074,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708988400000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171031,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1708988400000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171030,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1708988400000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171029,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708988400000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12656,
+        "name": "MAG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171024,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1708988400000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12656,
+        "name": "MAG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171022,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1708902000000,
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8008,
+        "name": "Grayhound"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170990,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169884,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169883,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169882,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169798,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169794,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169506,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1705878000000,
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169472,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169396,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169392,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169372,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169366,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169168,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12649,
+        "name": "Fort Arena"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169156,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7359,
+        "name": "ESL Challenger League Season 46 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167722,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7359,
+        "name": "ESL Challenger League Season 46 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167713,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7359,
+        "name": "ESL Challenger League Season 46 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167647,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7359,
+        "name": "ESL Challenger League Season 46 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167643,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7568,
+        "name": "MESA Pro Series Winter 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167489,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7568,
+        "name": "MESA Pro Series Winter 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167484,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7568,
+        "name": "MESA Pro Series Winter 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167479,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7469,
+        "name": "ESL Challenger Atlanta 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166824,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7469,
+        "name": "ESL Challenger Atlanta 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166819,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7469,
+        "name": "ESL Challenger Atlanta 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166813,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7469,
+        "name": "ESL Challenger Atlanta 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166797,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7469,
+        "name": "ESL Challenger Atlanta 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166794,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166723,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166718,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12528,
+        "name": "Hyper5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166714,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165963,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165959,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 165955,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165950,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698966000000,
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 165905,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1698966000000,
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165899,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1693605600000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162086,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1693605600000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162084,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1693519200000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162053,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1693519200000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162051,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1693519200000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162049,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1693432800000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12396,
+        "name": "5yclone"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 162026,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1693432800000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12396,
+        "name": "5yclone"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162022,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1693346400000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161991,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1693346400000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 161990,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1693346400000,
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161989,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1693173600000,
+      "event": {
+        "id": 7347,
+        "name": "5E Arena Asia Cup Fall 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161931,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1693173600000,
+      "event": {
+        "id": 7347,
+        "name": "5E Arena Asia Cup Fall 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161928,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1693173600000,
+      "event": {
+        "id": 7347,
+        "name": "5E Arena Asia Cup Fall 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161927,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1693000800000,
+      "event": {
+        "id": 7347,
+        "name": "5E Arena Asia Cup Fall 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161796,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1693000800000,
+      "event": {
+        "id": 7347,
+        "name": "5E Arena Asia Cup Fall 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161785,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7280,
+        "name": "IEM Sydney 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 161675,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7280,
+        "name": "IEM Sydney 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161663,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7280,
+        "name": "IEM Sydney 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161655,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7280,
+        "name": "IEM Sydney 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12396,
+        "name": "5yclone"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161652,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7280,
+        "name": "IEM Sydney 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12396,
+        "name": "5yclone"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161648,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7280,
+        "name": "IEM Sydney 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12396,
+        "name": "5yclone"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161645,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1691791200000,
+      "event": {
+        "id": 7279,
+        "name": "IEM Sydney 2023 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161037,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1691791200000,
+      "event": {
+        "id": 7279,
+        "name": "IEM Sydney 2023 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161029,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1691791200000,
+      "event": {
+        "id": 7279,
+        "name": "IEM Sydney 2023 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 12406,
+        "name": "tsetsegchid"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161019,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7278,
+        "name": "IEM Sydney 2023 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 160838,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1687039200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 159157,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1687039200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159150,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1687039200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159141,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1687039200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 159139,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1687039200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159137,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1686952800000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 159086,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1686952800000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159080,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1686952800000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 159077,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1686780000000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 159028,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1686780000000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159026,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1686780000000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159025,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1686693600000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11871,
+        "name": "CR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 158982,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1686693600000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "team2": {
+        "id": 11871,
+        "name": "CR"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 158981,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 9521,
+      "name": "dobu"
+    },
+    {
+      "id": 10870,
+      "name": "kabal"
+    },
+    {
+      "id": 22333,
+      "name": "MiQ"
+    },
+    {
+      "id": 22415,
+      "name": "AccuracyTG"
+    },
+    {
+      "id": 23457,
+      "name": "Zesta"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 18689,
+      "name": "Annihilation"
+    },
+    {
+      "id": 19537,
+      "name": "cool4st"
+    },
+    {
+      "id": 19536,
+      "name": "yAmi"
+    },
+    {
+      "id": 18638,
+      "name": "sk0R"
+    }
+  ],
+  "standins": [
+    {
+      "id": 23402,
+      "name": "cobra"
+    },
+    {
+      "id": 9244,
+      "name": "masti"
+    },
+    {
+      "id": 24029,
+      "name": "FlyNN"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8070,
+        "name": "ESL Challenger League Season 48 Asia-Pacific Finals"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8128,
+        "name": "MESA Pro Series Fall 2024 Finals"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8114,
+        "name": "MESA Pro Series Fall 2024 Stage 2"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      }
+    },
+    {
+      "place": "21-28th",
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7708,
+        "name": "ESL Challenger League Season 47 Asia-Pacific"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7722,
+        "name": "ESL Challenger Jönköping 2024 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7721,
+        "name": "ESL Challenger Jönköping 2024 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7260,
+        "name": "PGL CS2 Major Copenhagen 2024 Asia RMR"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7359,
+        "name": "ESL Challenger League Season 46 Asia-Pacific"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7568,
+        "name": "MESA Pro Series Winter 2023"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7469,
+        "name": "ESL Challenger Atlanta 2023 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7362,
+        "name": "Perfect World Arena Premier League Season 5"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7347,
+        "name": "5E Arena Asia Cup Fall 2023 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7280,
+        "name": "IEM Sydney 2023 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7279,
+        "name": "IEM Sydney 2023 Asia Open Qualifier 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7278,
+        "name": "IEM Sydney 2023 Asia Open Qualifier 1"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 39,
+      "draws": 0,
+      "losses": 23,
+      "winRate": 62.9,
+      "totalRounds": 1407,
+      "roundWinPAfterFirstKill": 70.7,
+      "roundWinPAfterFirstDeath": 33.9
+    },
+    "de_inferno": {
+      "wins": 30,
+      "draws": 0,
+      "losses": 23,
+      "winRate": 56.6,
+      "totalRounds": 1159,
+      "roundWinPAfterFirstKill": 72.7,
+      "roundWinPAfterFirstDeath": 33.6
+    },
+    "de_nuke": {
+      "wins": 27,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 67.5,
+      "totalRounds": 855,
+      "roundWinPAfterFirstKill": 78.3,
+      "roundWinPAfterFirstDeath": 31
+    },
+    "de_anubis": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 19,
+      "winRate": 40.6,
+      "totalRounds": 699,
+      "roundWinPAfterFirstKill": 67.5,
+      "roundWinPAfterFirstDeath": 31.4
+    },
+    "de_mirage": {
+      "wins": 11,
+      "draws": 0,
+      "losses": 10,
+      "winRate": 52.4,
+      "totalRounds": 503,
+      "roundWinPAfterFirstKill": 73.8,
+      "roundWinPAfterFirstDeath": 30.8
+    },
+    "de_dust2": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 50,
+      "totalRounds": 380,
+      "roundWinPAfterFirstKill": 69.8,
+      "roundWinPAfterFirstDeath": 31.4
+    },
+    "de_overpass": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 66.7,
+      "totalRounds": 218,
+      "roundWinPAfterFirstKill": 70,
+      "roundWinPAfterFirstDeath": 37
+    },
+    "de_vertigo": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 37,
+      "roundWinPAfterFirstKill": 43.8,
+      "roundWinPAfterFirstDeath": 28.6
+    }
+  }
+}

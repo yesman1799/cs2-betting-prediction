@@ -1,0 +1,352 @@
+{
+  "id": 13067,
+  "name": "Immigrants peek",
+  "overview": {
+    "mapsPlayed": 12,
+    "totalKills": 972,
+    "totalDeaths": 916,
+    "roundsPlayed": 267,
+    "kdRatio": 1.06,
+    "wins": 7,
+    "draws": 0,
+    "losses": 5
+  },
+  "matches": [
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12611,
+        "name": "vagrants"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192363,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12611,
+        "name": "vagrants"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192361,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12611,
+        "name": "vagrants"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192359,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12968,
+        "name": "Alter Iron"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192353,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12968,
+        "name": "Alter Iron"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192338,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192227,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192224,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12611,
+        "name": "vagrants"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192087,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12611,
+        "name": "vagrants"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192078,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12611,
+        "name": "vagrants"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192058,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8200,
+        "name": "ESEA Advanced Season 51 North America"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12968,
+        "name": "Alter Iron"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189118,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8200,
+        "name": "ESEA Advanced Season 51 North America"
+      },
+      "team1": {
+        "id": 13067,
+        "name": "Immigrants peek"
+      },
+      "team2": {
+        "id": 12968,
+        "name": "Alter Iron"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189112,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 23223,
+      "name": "Termina"
+    },
+    {
+      "id": 24045,
+      "name": "H0NeST"
+    },
+    {
+      "id": 24191,
+      "name": "nico1ajus"
+    },
+    {
+      "id": 24192,
+      "name": "bezymecc"
+    },
+    {
+      "id": 24808,
+      "name": "myline"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [
+    {
+      "id": 24669,
+      "name": "Valter0k"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8200,
+        "name": "ESEA Advanced Season 51 North America"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 60,
+      "totalRounds": 115,
+      "roundWinPAfterFirstKill": 72.2,
+      "roundWinPAfterFirstDeath": 30.2
+    },
+    "de_nuke": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 50,
+      "totalRounds": 98,
+      "roundWinPAfterFirstKill": 71.1,
+      "roundWinPAfterFirstDeath": 34
+    },
+    "de_ancient": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 37,
+      "roundWinPAfterFirstKill": 80,
+      "roundWinPAfterFirstDeath": 22.7
+    },
+    "de_inferno": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 17,
+      "roundWinPAfterFirstKill": 81.8,
+      "roundWinPAfterFirstDeath": 66.7
+    }
+  }
+}

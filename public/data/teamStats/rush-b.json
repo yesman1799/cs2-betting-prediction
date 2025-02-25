@@ -1,0 +1,3931 @@
+{
+  "id": 12559,
+  "name": "RUSH B",
+  "overview": {
+    "mapsPlayed": 181,
+    "totalKills": 13170,
+    "totalDeaths": 13321,
+    "roundsPlayed": 3993,
+    "kdRatio": 0.99,
+    "wins": 93,
+    "draws": 0,
+    "losses": 88
+  },
+  "matches": [
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193434,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193425,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193331,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193322,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193229,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193226,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_train",
+      "mapStatsId": 193195,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193191,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193146,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_train",
+      "mapStatsId": 193044,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193036,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192962,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192959,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192958,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192856,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_train",
+      "mapStatsId": 192852,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192848,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192737,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192662,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192657,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192585,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192579,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192342,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_train",
+      "mapStatsId": 192328,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192326,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192025,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192017,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191725,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191715,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191706,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191674,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191673,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191667,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_train",
+      "mapStatsId": 191414,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191412,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_train",
+      "mapStatsId": 191387,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191385,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191344,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191337,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191335,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191003,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190996,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190807,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_train",
+      "mapStatsId": 190805,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189981,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189978,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189975,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11174,
+        "name": "PORTUGAL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189965,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11174,
+        "name": "PORTUGAL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189957,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8222,
+        "name": "RESF Open Cup 2024"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12857,
+        "name": "FORZE Reload"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189727,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8222,
+        "name": "RESF Open Cup 2024"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12857,
+        "name": "FORZE Reload"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189723,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187467,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187463,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187457,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187389,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187382,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187377,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1730415600000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13027,
+        "name": "Nuclear TigeRES"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187316,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1730415600000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 13027,
+        "name": "Nuclear TigeRES"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187313,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186975,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186969,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186962,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729288800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186606,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1729288800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186601,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729288800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186597,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186260,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186253,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186245,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185816,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185810,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185804,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185168,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185166,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184046,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184035,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184028,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12378,
+        "name": "lajtbitexe"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184007,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12378,
+        "name": "lajtbitexe"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183993,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183862,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183857,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183845,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183270,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183263,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182981,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182975,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181842,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181838,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181398,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181386,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181271,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181261,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180580,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180574,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180479,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180467,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180373,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180370,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180133,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180119,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179610,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179604,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179288,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179279,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179065,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179054,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179048,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178845,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178835,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177738,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177725,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177717,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177635,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177618,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177604,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177589,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177227,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177218,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177203,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177077,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177067,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176959,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176950,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174994,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174986,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174982,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714860000000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174934,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714860000000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174925,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1714860000000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174918,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174866,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174865,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174746,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174743,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174731,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174589,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174588,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173303,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173293,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173201,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173189,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172668,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172666,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172663,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711839600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172644,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1711839600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172643,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1711666800000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12738,
+        "name": "System5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172614,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1711666800000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12738,
+        "name": "System5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172611,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171933,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171919,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171268,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708902000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171018,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1708902000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171017,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1708902000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171014,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706569200000,
+      "event": {
+        "id": 7605,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169777,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1704927600000,
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12157,
+        "name": "ILIN"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168624,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1702681200000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168238,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1702681200000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168233,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702681200000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168226,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1702594800000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168163,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1702594800000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168155,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702594800000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168153,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1702422000000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168119,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702422000000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168118,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702422000000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168116,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1702249200000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168064,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1702249200000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168062,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1702162800000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12378,
+        "name": "lajtbitexe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168029,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1702162800000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12378,
+        "name": "lajtbitexe"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168023,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1702076400000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167963,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1702076400000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167960,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1701990000000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12372,
+        "name": "eHawks"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167914,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1701990000000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12372,
+        "name": "eHawks"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167913,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1701990000000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12372,
+        "name": "eHawks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167908,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1701903600000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12545,
+        "name": "LT5"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167862,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1701903600000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12545,
+        "name": "LT5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167860,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1701903600000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12545,
+        "name": "LT5"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167853,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12378,
+        "name": "lajtbitexe"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167788,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12378,
+        "name": "lajtbitexe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167787,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12378,
+        "name": "lajtbitexe"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167772,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167667,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167661,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167657,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 3459,
+      "name": "kinqie"
+    },
+    {
+      "id": 20534,
+      "name": "KIRO"
+    },
+    {
+      "id": 22040,
+      "name": "z1Nny"
+    },
+    {
+      "id": 22927,
+      "name": "executor"
+    },
+    {
+      "id": 22930,
+      "name": "tex1y"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 16871,
+      "name": "Gospadarov"
+    },
+    {
+      "id": 22929,
+      "name": "nota"
+    }
+  ],
+  "standins": [
+    {
+      "id": 2638,
+      "name": "Wierd_1k"
+    }
+  ],
+  "substitutes": [],
+  "events": [],
+  "mapStats": {
+    "de_nuke": {
+      "wins": 25,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 61,
+      "totalRounds": 881,
+      "roundWinPAfterFirstKill": 76.9,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_ancient": {
+      "wins": 22,
+      "draws": 0,
+      "losses": 19,
+      "winRate": 53.7,
+      "totalRounds": 897,
+      "roundWinPAfterFirstKill": 73.7,
+      "roundWinPAfterFirstDeath": 30.2
+    },
+    "de_anubis": {
+      "wins": 12,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 40,
+      "totalRounds": 700,
+      "roundWinPAfterFirstKill": 77.1,
+      "roundWinPAfterFirstDeath": 26.2
+    },
+    "de_inferno": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 11,
+      "winRate": 54.2,
+      "totalRounds": 510,
+      "roundWinPAfterFirstKill": 71.8,
+      "roundWinPAfterFirstDeath": 31.3
+    },
+    "de_vertigo": {
+      "wins": 11,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 57.9,
+      "totalRounds": 428,
+      "roundWinPAfterFirstKill": 73.6,
+      "roundWinPAfterFirstDeath": 29.1
+    },
+    "de_mirage": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 11,
+      "winRate": 38.9,
+      "totalRounds": 395,
+      "roundWinPAfterFirstKill": 73.8,
+      "roundWinPAfterFirstDeath": 29.8
+    },
+    "de_train": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 42.9,
+      "totalRounds": 158,
+      "roundWinPAfterFirstKill": 62.8,
+      "roundWinPAfterFirstDeath": 31.2
+    },
+    "de_dust2": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 24,
+      "roundWinPAfterFirstKill": 78.6,
+      "roundWinPAfterFirstDeath": 0
+    }
+  }
+}

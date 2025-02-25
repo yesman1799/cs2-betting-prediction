@@ -1,0 +1,568 @@
+{
+  "id": 13110,
+  "name": "Chill Guys",
+  "overview": {
+    "mapsPlayed": 21,
+    "totalKills": 1493,
+    "totalDeaths": 1357,
+    "roundsPlayed": 418,
+    "kdRatio": 1.1,
+    "wins": 14,
+    "draws": 0,
+    "losses": 7
+  },
+  "matches": [
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193072,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193066,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192367,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192366,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "map": "de_train",
+      "mapStatsId": 192360,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 7720,
+        "name": "InControl"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192205,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 7720,
+        "name": "InControl"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192201,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8274,
+        "name": "IEM Dallas 2025 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192108,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192082,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192065,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192053,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191303,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191296,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191222,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191216,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8314,
+        "name": "Off Season Shenanigans Season 6"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191135,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8314,
+        "name": "Off Season Shenanigans Season 6"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191132,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190944,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190937,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 7720,
+        "name": "InControl"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190764,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "team2": {
+        "id": 7720,
+        "name": "InControl"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190759,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 19591,
+      "name": "MERL"
+    },
+    {
+      "id": 23085,
+      "name": "MagiC"
+    },
+    {
+      "id": 23159,
+      "name": "TABEN"
+    },
+    {
+      "id": 23398,
+      "name": "NIGHT666LADE"
+    },
+    {
+      "id": 23675,
+      "name": "Evan"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8274,
+        "name": "IEM Dallas 2025 North America Open Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8314,
+        "name": "Off Season Shenanigans Season 6"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 85.7,
+      "totalRounds": 141,
+      "roundWinPAfterFirstKill": 81.5,
+      "roundWinPAfterFirstDeath": 36.7
+    },
+    "de_ancient": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 60,
+      "totalRounds": 96,
+      "roundWinPAfterFirstKill": 73.3,
+      "roundWinPAfterFirstDeath": 31.4
+    },
+    "de_inferno": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 25,
+      "totalRounds": 81,
+      "roundWinPAfterFirstKill": 63.3,
+      "roundWinPAfterFirstDeath": 25
+    },
+    "de_dust2": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 35,
+      "roundWinPAfterFirstKill": 94.4,
+      "roundWinPAfterFirstDeath": 52.9
+    },
+    "de_mirage": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 47,
+      "roundWinPAfterFirstKill": 73.7,
+      "roundWinPAfterFirstDeath": 42.9
+    },
+    "de_train": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 18,
+      "roundWinPAfterFirstKill": 40,
+      "roundWinPAfterFirstDeath": 12.5
+    }
+  }
+}

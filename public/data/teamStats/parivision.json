@@ -1,0 +1,6048 @@
+{
+  "id": 12467,
+  "name": "PARIVISION",
+  "overview": {
+    "mapsPlayed": 267,
+    "totalKills": 19802,
+    "totalDeaths": 19202,
+    "roundsPlayed": 5876,
+    "kdRatio": 1.03,
+    "wins": 137,
+    "draws": 0,
+    "losses": 130
+  },
+  "matches": [
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193434,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193425,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193105,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193101,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193020,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_train",
+      "mapStatsId": 193013,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192971,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192963,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192192,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192187,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192183,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192159,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192156,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192008,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191994,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191913,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191907,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191899,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191828,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191816,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191800,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191739,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191731,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191724,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_train",
+      "mapStatsId": 191565,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191559,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191553,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191550,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191542,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191507,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191498,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191254,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191253,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191192,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191182,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191129,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_train",
+      "mapStatsId": 191127,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191124,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_train",
+      "mapStatsId": 190948,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190945,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190908,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190900,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190777,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190770,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190739,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190734,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190671,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190669,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188445,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188441,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188437,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188401,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188393,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187623,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187617,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187603,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187600,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187597,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7778,
+        "name": "RES Regional Champions 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 13002,
+        "name": "UNPAID"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186547,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7778,
+        "name": "RES Regional Champions 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 13002,
+        "name": "UNPAID"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186545,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7778,
+        "name": "RES Regional Champions 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186496,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7778,
+        "name": "RES Regional Champions 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186492,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7778,
+        "name": "RES Regional Champions 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186486,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186416,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186407,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186406,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 7778,
+        "name": "RES Regional Champions 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186394,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 7778,
+        "name": "RES Regional Champions 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186392,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186328,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186323,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185781,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185774,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185769,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185609,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185605,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185600,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184692,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184689,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183871,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183858,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183706,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183698,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183170,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183162,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182762,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182749,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182738,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182476,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182467,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182459,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724536800000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182259,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724536800000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182256,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7866,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182111,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7866,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182099,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7866,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182093,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7866,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182013,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7866,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181936,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7866,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181904,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181829,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181828,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181822,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181762,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181526,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181510,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181490,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181482,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181398,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181386,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181283,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181278,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181268,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1723154400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181056,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1723154400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181048,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723154400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181043,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180841,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180835,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180827,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180767,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180760,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180725,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180720,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180679,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180673,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180619,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180615,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180513,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180503,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180465,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180456,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180438,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180431,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180344,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180335,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180076,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180070,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179804,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12560,
+        "name": "True Rippers"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179774,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179725,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721772000000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179648,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721772000000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179636,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178032,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178026,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177738,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177729,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177718,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177633,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177620,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177602,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177593,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177087,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177075,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177062,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176966,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176961,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176951,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175949,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175944,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175719,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175714,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175708,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175640,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175636,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175595,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175588,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175524,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175521,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715205600000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175086,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715205600000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175083,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1715205600000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175080,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174698,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174692,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174664,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174660,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174656,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174587,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174583,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174581,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 174563,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174559,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174558,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714168800000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174450,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714168800000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174444,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174376,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174372,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174314,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174312,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174262,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174259,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174127,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174124,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174121,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174119,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174116,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174112,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173965,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173964,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173938,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173713,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173711,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173710,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173704,
+      "result": {
+        "team1": 18,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173393,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173389,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173376,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173315,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173302,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173290,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173201,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173189,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172825,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172813,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172797,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172788,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172711,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172707,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172690,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172665,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172662,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710975600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172315,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710975600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172313,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710975600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172310,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171907,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171902,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171898,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171588,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171587,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171444,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171438,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171429,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171207,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171203,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709161200000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171138,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709161200000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171136,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705446000000,
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169045,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 168924,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166864,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166861,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166854,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166759,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166758,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166402,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166391,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166233,
+      "result": {
+        "team1": 31,
+        "team2": 29
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166223,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166166,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166157,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166142,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165742,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165728,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165710,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7497,
+        "name": "CCT East Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11887,
+        "name": "LODIS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165596,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7497,
+        "name": "CCT East Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11887,
+        "name": "LODIS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165588,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7497,
+        "name": "CCT East Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165508,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7497,
+        "name": "CCT East Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165500,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698098400000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165002,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1698098400000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164994,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1697493600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164575,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697493600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164568,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1697061600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164277,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1697061600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164271,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697061600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164264,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1696456800000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163927,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696456800000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163918,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696370400000,
+      "event": {
+        "id": 7416,
+        "name": "ESL Challenger Jönköping 2023 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12260,
+        "name": "Looking4Org"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163858,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696370400000,
+      "event": {
+        "id": 7416,
+        "name": "ESL Challenger Jönköping 2023 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12260,
+        "name": "Looking4Org"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 163857,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696370400000,
+      "event": {
+        "id": 7416,
+        "name": "ESL Challenger Jönköping 2023 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 12260,
+        "name": "Looking4Org"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163842,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1696370400000,
+      "event": {
+        "id": 7416,
+        "name": "ESL Challenger Jönköping 2023 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163823,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 13239,
+      "name": "Qikert"
+    },
+    {
+      "id": 13776,
+      "name": "Jame"
+    },
+    {
+      "id": 16948,
+      "name": "TRAVIS"
+    },
+    {
+      "id": 19235,
+      "name": "BELCHONOKK"
+    },
+    {
+      "id": 22929,
+      "name": "nota"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 20207,
+      "name": "Raijin"
+    },
+    {
+      "id": 12733,
+      "name": "xsepower"
+    },
+    {
+      "id": 13157,
+      "name": "Jerry"
+    },
+    {
+      "id": 511,
+      "name": "F_1N"
+    },
+    {
+      "id": 20430,
+      "name": "alpha"
+    },
+    {
+      "id": 19673,
+      "name": "Patsi"
+    },
+    {
+      "id": 21348,
+      "name": "ArtFr0st"
+    },
+    {
+      "id": 19575,
+      "name": "X5G7V"
+    }
+  ],
+  "standins": [
+    {
+      "id": 21710,
+      "name": "notineki"
+    },
+    {
+      "id": 22803,
+      "name": "bl1x1"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8347,
+        "name": "RES Showdown 1: BLAST Premier Rising Event"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 7865,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR B"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7778,
+        "name": "RES Regional Champions 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      }
+    },
+    {
+      "place": "8th",
+      "event": {
+        "id": 7866,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier A"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      }
+    },
+    {
+      "place": "9-10th",
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      }
+    },
+    {
+      "place": "8th",
+      "event": {
+        "id": 7834,
+        "name": "ESL Pro League Season 20 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      }
+    },
+    {
+      "place": "13-14th",
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7497,
+        "name": "CCT East Europe Series 4 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7416,
+        "name": "ESL Challenger Jönköping 2023 Europe Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_mirage": {
+      "wins": 35,
+      "draws": 0,
+      "losses": 28,
+      "winRate": 55.6,
+      "totalRounds": 1442,
+      "roundWinPAfterFirstKill": 71.8,
+      "roundWinPAfterFirstDeath": 30.5
+    },
+    "de_ancient": {
+      "wins": 28,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 51.9,
+      "totalRounds": 1174,
+      "roundWinPAfterFirstKill": 72.6,
+      "roundWinPAfterFirstDeath": 26.1
+    },
+    "de_anubis": {
+      "wins": 22,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 45.8,
+      "totalRounds": 1037,
+      "roundWinPAfterFirstKill": 70.3,
+      "roundWinPAfterFirstDeath": 27.4
+    },
+    "de_nuke": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 17,
+      "winRate": 43.3,
+      "totalRounds": 673,
+      "roundWinPAfterFirstKill": 69.4,
+      "roundWinPAfterFirstDeath": 24.8
+    },
+    "de_vertigo": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 17,
+      "winRate": 29.2,
+      "totalRounds": 511,
+      "roundWinPAfterFirstKill": 62.6,
+      "roundWinPAfterFirstDeath": 18.9
+    },
+    "de_dust2": {
+      "wins": 18,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 78.3,
+      "totalRounds": 463,
+      "roundWinPAfterFirstKill": 75.9,
+      "roundWinPAfterFirstDeath": 37.6
+    },
+    "de_overpass": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 33.3,
+      "totalRounds": 287,
+      "roundWinPAfterFirstKill": 71.6,
+      "roundWinPAfterFirstDeath": 17.3
+    },
+    "de_inferno": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 77.8,
+      "totalRounds": 188,
+      "roundWinPAfterFirstKill": 79.6,
+      "roundWinPAfterFirstDeath": 38.8
+    },
+    "de_train": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 75,
+      "totalRounds": 101,
+      "roundWinPAfterFirstKill": 72.6,
+      "roundWinPAfterFirstDeath": 28.2
+    }
+  }
+}

@@ -1,0 +1,3569 @@
+{
+  "id": 12916,
+  "name": "Apogee",
+  "overview": {
+    "mapsPlayed": 157,
+    "totalKills": 11143,
+    "totalDeaths": 11459,
+    "roundsPlayed": 3365,
+    "kdRatio": 0.97,
+    "wins": 80,
+    "draws": 0,
+    "losses": 77
+  },
+  "matches": [
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193289,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_train",
+      "mapStatsId": 193286,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193085,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_train",
+      "mapStatsId": 193082,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193001,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192996,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192611,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192608,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192076,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192054,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192044,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192041,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192038,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192028,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191838,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191837,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191825,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191818,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191807,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191649,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191646,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191641,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191545,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191539,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191535,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_train",
+      "mapStatsId": 191338,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191333,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191327,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191249,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_train",
+      "mapStatsId": 191244,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13098,
+        "name": "Chimera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191076,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13098,
+        "name": "Chimera"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191073,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191016,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191009,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190994,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190667,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190660,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190657,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190326,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190319,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189974,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189969,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189964,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189962,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189943,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189941,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189937,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11018,
+        "name": "megoshort"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189932,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11018,
+        "name": "megoshort"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189926,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734649200000,
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189902,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189526,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189524,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189474,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189473,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189421,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189418,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189154,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189152,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189150,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188986,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188983,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188981,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188929,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188925,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188893,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188885,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188880,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188869,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188864,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188857,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188831,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188829,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188800,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188796,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188745,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188741,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188736,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188724,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188723,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1732662000000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188722,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188683,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188681,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1732489200000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188652,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732489200000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188651,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188462,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188452,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188447,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10235,
+        "name": "NewBALLS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186535,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10235,
+        "name": "NewBALLS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186533,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728856800000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186299,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728856800000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186298,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728856800000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186297,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13000,
+        "name": "Insomnia"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186182,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 13000,
+        "name": "Insomnia"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186179,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12910,
+        "name": "500 Rush"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186148,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185688,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185686,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185618,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185613,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185569,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185559,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185478,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185471,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185468,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185431,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185427,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185282,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185280,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185276,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185210,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185203,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185200,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185132,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185125,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185118,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185086,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185076,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185067,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185063,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185008,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184997,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184991,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8090,
+        "name": "ESL Challenger Katowice 2024 Poland Open Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184798,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8090,
+        "name": "ESL Challenger Katowice 2024 Poland Open Qualifier"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184731,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184694,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184691,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184390,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184386,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184385,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184176,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184173,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184118,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184107,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184095,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184080,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184076,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183992,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183985,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183980,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183944,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183940,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183933,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183920,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183911,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183843,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183836,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183830,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12914,
+        "name": "Qiang"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183718,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12914,
+        "name": "Qiang"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183710,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1725919200000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183619,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725919200000,
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183615,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183396,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183394,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183385,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183318,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183309,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183299,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 18070,
+      "name": "Demho"
+    },
+    {
+      "id": 18979,
+      "name": "Prism"
+    },
+    {
+      "id": 22383,
+      "name": "jcobbb"
+    },
+    {
+      "id": 23765,
+      "name": "hfah"
+    },
+    {
+      "id": 23766,
+      "name": "hypex"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 22008,
+      "name": "swiz"
+    },
+    {
+      "id": 22473,
+      "name": "Qlocuu"
+    },
+    {
+      "id": 22474,
+      "name": "POLO"
+    },
+    {
+      "id": 22476,
+      "name": "virtuoso"
+    }
+  ],
+  "standins": [
+    {
+      "id": 24474,
+      "name": "aimy"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8227,
+        "name": "Skin.Club Christmas Cup 2024"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8196,
+        "name": "Chicken.GG Cup 2024"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      }
+    },
+    {
+      "place": "18th",
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8130,
+        "name": "RTV Euro AGD Game Zone Masters 2024 Closed Qualifier"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8090,
+        "name": "ESL Challenger Katowice 2024 Poland Open Qualifier"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8078,
+        "name": "United21 League Season 19"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8077,
+        "name": "European Pro League 2nd Division Season 15"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 20,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 52.6,
+      "totalRounds": 838,
+      "roundWinPAfterFirstKill": 70.6,
+      "roundWinPAfterFirstDeath": 29.5
+    },
+    "de_anubis": {
+      "wins": 15,
+      "draws": 0,
+      "losses": 20,
+      "winRate": 42.9,
+      "totalRounds": 765,
+      "roundWinPAfterFirstKill": 67.4,
+      "roundWinPAfterFirstDeath": 28.5
+    },
+    "de_nuke": {
+      "wins": 20,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 71.4,
+      "totalRounds": 567,
+      "roundWinPAfterFirstKill": 75,
+      "roundWinPAfterFirstDeath": 37.5
+    },
+    "de_mirage": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 31.6,
+      "totalRounds": 412,
+      "roundWinPAfterFirstKill": 64.9,
+      "roundWinPAfterFirstDeath": 27.1
+    },
+    "de_dust2": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 10,
+      "winRate": 41.2,
+      "totalRounds": 376,
+      "roundWinPAfterFirstKill": 72.5,
+      "roundWinPAfterFirstDeath": 26.2
+    },
+    "de_vertigo": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 60,
+      "totalRounds": 310,
+      "roundWinPAfterFirstKill": 75.3,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_train": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 75,
+      "totalRounds": 81,
+      "roundWinPAfterFirstKill": 76.6,
+      "roundWinPAfterFirstDeath": 32.4
+    },
+    "de_inferno": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 16,
+      "roundWinPAfterFirstKill": 16.7,
+      "roundWinPAfterFirstDeath": 20
+    }
+  }
+}

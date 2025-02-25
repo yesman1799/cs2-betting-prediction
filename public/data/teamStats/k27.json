@@ -1,0 +1,1544 @@
+{
+  "id": 12895,
+  "name": "K27",
+  "overview": {
+    "mapsPlayed": 68,
+    "totalKills": 5053,
+    "totalDeaths": 5212,
+    "roundsPlayed": 1504,
+    "kdRatio": 0.97,
+    "wins": 34,
+    "draws": 0,
+    "losses": 34
+  },
+  "matches": [
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "map": "de_train",
+      "mapStatsId": 193335,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193327,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 10867,
+        "name": "MASONIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 193312,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8390,
+        "name": "CyberX Celebration Championship 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13027,
+        "name": "Nuclear TigeRES"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192840,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8390,
+        "name": "CyberX Celebration Championship 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13027,
+        "name": "Nuclear TigeRES"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192838,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8390,
+        "name": "CyberX Celebration Championship 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13027,
+        "name": "Nuclear TigeRES"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192836,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192538,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192533,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13046,
+        "name": "CS2News"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192512,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13046,
+        "name": "CS2News"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192505,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192446,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192426,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192419,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13098,
+        "name": "Chimera"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192288,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8339,
+        "name": "BetBoom LanDaLan 2025"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 13098,
+        "name": "Chimera"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192281,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_train",
+      "mapStatsId": 191414,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191412,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191405,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191401,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191397,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191328,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191322,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191318,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12857,
+        "name": "FORZE Reload"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189870,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12857,
+        "name": "FORZE Reload"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189865,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12857,
+        "name": "FORZE Reload"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189861,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8104,
+        "name": "CCT Season 2 Europe Series 14 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185176,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8104,
+        "name": "CCT Season 2 Europe Series 14 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185169,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8104,
+        "name": "CCT Season 2 Europe Series 14 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184885,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8104,
+        "name": "CCT Season 2 Europe Series 14 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184880,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8104,
+        "name": "CCT Season 2 Europe Series 14 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184877,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8104,
+        "name": "CCT Season 2 Europe Series 14 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184783,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8104,
+        "name": "CCT Season 2 Europe Series 14 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184779,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8104,
+        "name": "CCT Season 2 Europe Series 14 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184774,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184569,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184563,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184559,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184353,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184341,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184281,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184279,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184275,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184142,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184138,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184128,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12979,
+        "name": "Spotless"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184120,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12979,
+        "name": "Spotless"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184113,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184092,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184085,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183736,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183724,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183607,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183605,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183600,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183542,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183536,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183382,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183378,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183371,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183113,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183110,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180308,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180299,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180293,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180212,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180206,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180174,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180168,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 19575,
+      "name": "X5G7V"
+    },
+    {
+      "id": 22886,
+      "name": "xeedo"
+    },
+    {
+      "id": 23684,
+      "name": "relaxxie"
+    },
+    {
+      "id": 23686,
+      "name": "kashl1d"
+    },
+    {
+      "id": 24725,
+      "name": "qw1nk1"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 23688,
+      "name": "Aliot"
+    },
+    {
+      "id": 23478,
+      "name": "Twizell"
+    }
+  ],
+  "standins": [],
+  "substitutes": [],
+  "events": [],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 72.2,
+      "totalRounds": 419,
+      "roundWinPAfterFirstKill": 75.1,
+      "roundWinPAfterFirstDeath": 31.6
+    },
+    "de_mirage": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 57.1,
+      "totalRounds": 326,
+      "roundWinPAfterFirstKill": 72.8,
+      "roundWinPAfterFirstDeath": 34.4
+    },
+    "de_dust2": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 50,
+      "totalRounds": 274,
+      "roundWinPAfterFirstKill": 74.4,
+      "roundWinPAfterFirstDeath": 29.7
+    },
+    "de_inferno": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 10,
+      "totalRounds": 188,
+      "roundWinPAfterFirstKill": 55.4,
+      "roundWinPAfterFirstDeath": 21.1
+    },
+    "de_nuke": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 33.3,
+      "totalRounds": 174,
+      "roundWinPAfterFirstKill": 68.4,
+      "roundWinPAfterFirstDeath": 26.3
+    },
+    "de_train": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 66.7,
+      "totalRounds": 67,
+      "roundWinPAfterFirstKill": 81.2,
+      "roundWinPAfterFirstDeath": 31.4
+    },
+    "de_vertigo": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 56,
+      "roundWinPAfterFirstKill": 77.3,
+      "roundWinPAfterFirstDeath": 32.4
+    }
+  }
+}

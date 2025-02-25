@@ -1,0 +1,498 @@
+{
+  "id": 13082,
+  "name": "Exceritus",
+  "overview": {
+    "mapsPlayed": 18,
+    "totalKills": 1029,
+    "totalDeaths": 1189,
+    "roundsPlayed": 330,
+    "kdRatio": 0.87,
+    "wins": 7,
+    "draws": 0,
+    "losses": 11
+  },
+  "matches": [
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192612,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_train",
+      "mapStatsId": 192609,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192367,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192366,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "map": "de_train",
+      "mapStatsId": 192360,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 7720,
+        "name": "InControl"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192352,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 7720,
+        "name": "InControl"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192336,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 12301,
+        "name": "FlyQuest RED"
+      },
+      "map": "de_train",
+      "mapStatsId": 192211,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 12301,
+        "name": "FlyQuest RED"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192203,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192082,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192065,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 13110,
+        "name": "Chill Guys"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192053,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8219,
+        "name": "Frost and Fire South America Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 12358,
+        "name": "BeBold"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189811,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8219,
+        "name": "Frost and Fire South America Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 12358,
+        "name": "BeBold"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189808,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8219,
+        "name": "Frost and Fire South America Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 12915,
+        "name": "NITRO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189752,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8219,
+        "name": "Frost and Fire South America Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 12915,
+        "name": "NITRO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189750,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8219,
+        "name": "Frost and Fire South America Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 11006,
+        "name": "9z Academy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189669,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8219,
+        "name": "Frost and Fire South America Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13082,
+        "name": "Exceritus"
+      },
+      "team2": {
+        "id": 11006,
+        "name": "9z Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189664,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [],
+  "historicPlayers": [
+    {
+      "id": 23673,
+      "name": "Antuanette"
+    },
+    {
+      "id": 21643,
+      "name": "BabyRage"
+    },
+    {
+      "id": 22920,
+      "name": "SJR"
+    },
+    {
+      "id": 17539,
+      "name": "Slayerhz"
+    },
+    {
+      "id": 11532,
+      "name": "zockie"
+    }
+  ],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 8219,
+        "name": "Frost and Fire South America Season 1 Closed Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_mirage": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 25,
+      "totalRounds": 75,
+      "roundWinPAfterFirstKill": 64.7,
+      "roundWinPAfterFirstDeath": 24.4
+    },
+    "de_ancient": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 50,
+      "totalRounds": 71,
+      "roundWinPAfterFirstKill": 57.6,
+      "roundWinPAfterFirstDeath": 34.2
+    },
+    "de_inferno": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 33.3,
+      "totalRounds": 60,
+      "roundWinPAfterFirstKill": 54.5,
+      "roundWinPAfterFirstDeath": 28.9
+    },
+    "de_train": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 66.7,
+      "totalRounds": 49,
+      "roundWinPAfterFirstKill": 87.5,
+      "roundWinPAfterFirstDeath": 32
+    },
+    "de_dust2": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 45,
+      "roundWinPAfterFirstKill": 66.7,
+      "roundWinPAfterFirstDeath": 25
+    },
+    "de_anubis": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 0,
+      "totalRounds": 30,
+      "roundWinPAfterFirstKill": 14.3,
+      "roundWinPAfterFirstDeath": 13
+    }
+  }
+}

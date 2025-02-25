@@ -1,0 +1,8363 @@
+{
+  "id": 11514,
+  "name": "Rare Atom",
+  "overview": {
+    "mapsPlayed": 370,
+    "totalKills": 29849,
+    "totalDeaths": 28318,
+    "roundsPlayed": 8713,
+    "kdRatio": 1.05,
+    "wins": 223,
+    "draws": 0,
+    "losses": 147
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13148,
+        "name": "DogEvil"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193485,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13148,
+        "name": "DogEvil"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193478,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13196,
+        "name": "T.Beast"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193366,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13196,
+        "name": "T.Beast"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193364,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192950,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192942,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192601,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192595,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192571,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192570,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192568,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192377,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192376,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13097,
+        "name": "Fated Rise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192254,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13097,
+        "name": "Fated Rise"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192246,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192157,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192152,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192139,
+      "result": {
+        "team1": 24,
+        "team2": 28
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13097,
+        "name": "Fated Rise"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191980,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13097,
+        "name": "Fated Rise"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191979,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13097,
+        "name": "Fated Rise"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191976,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13115,
+        "name": "harizma"
+      },
+      "map": "de_train",
+      "mapStatsId": 191105,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13115,
+        "name": "harizma"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191102,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190970,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190954,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12825,
+        "name": "The QUBE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190795,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12825,
+        "name": "The QUBE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190784,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190726,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190711,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190571,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190570,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13095,
+        "name": "Real Original"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190496,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13095,
+        "name": "Real Original"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190495,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190371,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190239,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1736636400000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190217,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1736636400000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190216,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1736550000000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190199,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736550000000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190198,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736550000000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190194,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13102,
+        "name": "GATERON"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190160,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 13102,
+        "name": "GATERON"
+      },
+      "map": "de_train",
+      "mapStatsId": 190159,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190058,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190057,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190056,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190048,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190045,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190043,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190021,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190020,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190017,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188964,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188962,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188960,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188921,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188919,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188917,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188855,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188847,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187945,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187939,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187831,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187240,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187237,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187232,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187226,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187223,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187170,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187166,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187139,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187134,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187129,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187123,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182765,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182752,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182736,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12949,
+        "name": "Teamwork"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182718,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12949,
+        "name": "Teamwork"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182715,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182586,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182454,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12947,
+        "name": "XNL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182444,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181934,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181922,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180677,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180671,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11544,
+        "name": "WDNMD"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180473,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11544,
+        "name": "WDNMD"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180468,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180405,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180397,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180387,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180378,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180374,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180371,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180301,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180295,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180284,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180276,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180271,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7983,
+        "name": "IEM Rio 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12900,
+        "name": "NomadS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179840,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7983,
+        "name": "IEM Rio 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12900,
+        "name": "NomadS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179838,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7983,
+        "name": "IEM Rio 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179831,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7983,
+        "name": "IEM Rio 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179780,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1720821600000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178733,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1720821600000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178729,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720821600000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9958,
+        "name": "Alter Ego"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178721,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1720821600000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9958,
+        "name": "Alter Ego"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178719,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720821600000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9958,
+        "name": "Alter Ego"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178717,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1720648800000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178658,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1720648800000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178655,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177822,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177815,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177808,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177716,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177334,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177324,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177317,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177016,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177015,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177010,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176839,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176837,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176834,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176187,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176184,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175772,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175766,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175716,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175711,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175591,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175585,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175391,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175389,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175385,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715551200000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175307,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715551200000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175304,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715551200000,
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9362,
+        "name": "NOM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175299,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173916,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173904,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173890,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173881,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173871,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173866,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173786,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173780,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173762,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173752,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173744,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7764,
+        "name": "Esports World Cup 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173683,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7764,
+        "name": "Esports World Cup 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173678,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7764,
+        "name": "Esports World Cup 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11875,
+        "name": "MIRAI"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173665,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171425,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171422,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169900,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169897,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169893,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169889,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169805,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169801,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169794,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1706137200000,
+      "event": {
+        "id": 7617,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169608,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706137200000,
+      "event": {
+        "id": 7617,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169605,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706137200000,
+      "event": {
+        "id": 7617,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169602,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1706137200000,
+      "event": {
+        "id": 7617,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169597,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1706050800000,
+      "event": {
+        "id": 7617,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169564,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705878000000,
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169472,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169394,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169389,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169388,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169376,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169373,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169279,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169266,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169256,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11107,
+        "name": "SHPL"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169252,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11107,
+        "name": "SHPL"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169247,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169146,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705014000000,
+      "event": {
+        "id": 7405,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168706,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705014000000,
+      "event": {
+        "id": 7405,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11107,
+        "name": "SHPL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168703,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7423,
+        "name": "ESL Challenger Jönköping 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165448,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7423,
+        "name": "ESL Challenger Jönköping 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165445,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7423,
+        "name": "ESL Challenger Jönköping 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165368,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7423,
+        "name": "ESL Challenger Jönköping 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165364,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7423,
+        "name": "ESL Challenger Jönköping 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 165344,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7423,
+        "name": "ESL Challenger Jönköping 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 165332,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1698271200000,
+      "event": {
+        "id": 7482,
+        "name": "IEM Chengdu 2024 China Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12504,
+        "name": "Noobs But Diligent"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165197,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7481,
+        "name": "IEM Chengdu 2024 China Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165059,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7481,
+        "name": "IEM Chengdu 2024 China Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165051,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7481,
+        "name": "IEM Chengdu 2024 China Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165045,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1698098400000,
+      "event": {
+        "id": 7481,
+        "name": "IEM Chengdu 2024 China Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164966,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1697061600000,
+      "event": {
+        "id": 7422,
+        "name": "ESL Challenger Jönköping 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12427,
+        "name": "GEUD"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164256,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1697061600000,
+      "event": {
+        "id": 7422,
+        "name": "ESL Challenger Jönköping 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12427,
+        "name": "GEUD"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164254,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1697061600000,
+      "event": {
+        "id": 7422,
+        "name": "ESL Challenger Jönköping 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164251,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1687039200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159141,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1687039200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 159139,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1687039200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159137,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1686952800000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159096,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1686952800000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 159091,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1686866400000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11871,
+        "name": "CR"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 159061,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1686866400000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11871,
+        "name": "CR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 159060,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1686780000000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159024,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1686780000000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 159023,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1686607200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11832,
+        "name": "Lord Rabbit"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 158974,
+      "result": {
+        "team1": 16,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1686607200000,
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11832,
+        "name": "Lord Rabbit"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 158972,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1685224800000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 157690,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1685224800000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 157683,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1685224800000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 157672,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1685224800000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 157665,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1685138400000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 157569,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1685138400000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 157555,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1684965600000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 157367,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1684965600000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 157353,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1684965600000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 157340,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1684879200000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 157238,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1684879200000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 157225,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1684792800000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 157120,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1684792800000,
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 157106,
+      "result": {
+        "team1": 16,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1682719200000,
+      "event": {
+        "id": 6866,
+        "name": "ESL Challenger Melbourne 2023"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 156165,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1682719200000,
+      "event": {
+        "id": 6866,
+        "name": "ESL Challenger Melbourne 2023"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 156164,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1682719200000,
+      "event": {
+        "id": 6866,
+        "name": "ESL Challenger Melbourne 2023"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 156163,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1682632800000,
+      "event": {
+        "id": 6866,
+        "name": "ESL Challenger Melbourne 2023"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10672,
+        "name": "VERTEX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 156110,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1682632800000,
+      "event": {
+        "id": 6866,
+        "name": "ESL Challenger Melbourne 2023"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10672,
+        "name": "VERTEX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 156103,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1682632800000,
+      "event": {
+        "id": 6866,
+        "name": "ESL Challenger Melbourne 2023"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10672,
+        "name": "VERTEX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 156098,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1682632800000,
+      "event": {
+        "id": 6866,
+        "name": "ESL Challenger Melbourne 2023"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 156081,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1680991200000,
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 155038,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680991200000,
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 155031,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680991200000,
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12166,
+        "name": "Twisted Minds"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 155019,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1680991200000,
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12166,
+        "name": "Twisted Minds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 155016,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1680904800000,
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 154987,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1680904800000,
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 154981,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1680818400000,
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 154900,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680818400000,
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10672,
+        "name": "VERTEX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 154884,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1680127200000,
+      "event": {
+        "id": 6971,
+        "name": "BLAST Premier Spring Showdown 2023 Europe"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 154575,
+      "result": {
+        "team1": 2,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680127200000,
+      "event": {
+        "id": 6971,
+        "name": "BLAST Premier Spring Showdown 2023 Europe"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 154567,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1680127200000,
+      "event": {
+        "id": 6971,
+        "name": "BLAST Premier Spring Showdown 2023 Europe"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 154562,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1679094000000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 153660,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679094000000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 153655,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679007600000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 153577,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679007600000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 153573,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1679007600000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 153568,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1678921200000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 153469,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678921200000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 153463,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678834800000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 153386,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1678834800000,
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 153380,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1677798000000,
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152467,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1677798000000,
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 152461,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1677711600000,
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 152428,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1677711600000,
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152423,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1677711600000,
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152418,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677711600000,
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 152405,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1677711600000,
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152401,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1677711600000,
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152397,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7086,
+        "name": "5E Arena Asia Cup Spring 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152145,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7086,
+        "name": "5E Arena Asia Cup Spring 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152130,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7086,
+        "name": "5E Arena Asia Cup Spring 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152124,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7086,
+        "name": "5E Arena Asia Cup Spring 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11059,
+        "name": "Renewal"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152118,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7086,
+        "name": "5E Arena Asia Cup Spring 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11059,
+        "name": "Renewal"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 152115,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1677279600000,
+      "event": {
+        "id": 7086,
+        "name": "5E Arena Asia Cup Spring 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 152037,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1677279600000,
+      "event": {
+        "id": 7086,
+        "name": "5E Arena Asia Cup Spring 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11797,
+        "name": "Hard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152026,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1676674800000,
+      "event": {
+        "id": 7028,
+        "name": "BLAST.tv Paris Major 2023 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 151535,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1676674800000,
+      "event": {
+        "id": 7028,
+        "name": "BLAST.tv Paris Major 2023 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 151520,
+      "result": {
+        "team1": 21,
+        "team2": 25
+      }
+    },
+    {
+      "date": 1676674800000,
+      "event": {
+        "id": 7028,
+        "name": "BLAST.tv Paris Major 2023 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 151503,
+      "result": {
+        "team1": 16,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1676588400000,
+      "event": {
+        "id": 7028,
+        "name": "BLAST.tv Paris Major 2023 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12160,
+        "name": "Take me away"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 151396,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1676588400000,
+      "event": {
+        "id": 7028,
+        "name": "BLAST.tv Paris Major 2023 China RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 151391,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1674514800000,
+      "event": {
+        "id": 6996,
+        "name": "IEM Rio 2023 Asia Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11059,
+        "name": "Renewal"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 149802,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674082800000,
+      "event": {
+        "id": 6963,
+        "name": "ESL Pro League Season 17 Conference Asia"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 149498,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1674082800000,
+      "event": {
+        "id": 6963,
+        "name": "ESL Pro League Season 17 Conference Asia"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149490,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674082800000,
+      "event": {
+        "id": 6963,
+        "name": "ESL Pro League Season 17 Conference Asia"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 149484,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1673996400000,
+      "event": {
+        "id": 6963,
+        "name": "ESL Pro League Season 17 Conference Asia"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149428,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1673996400000,
+      "event": {
+        "id": 6963,
+        "name": "ESL Pro League Season 17 Conference Asia"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149422,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1673737200000,
+      "event": {
+        "id": 7003,
+        "name": "Perfect World Arena Premier League Season 3"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 149273,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1673737200000,
+      "event": {
+        "id": 7003,
+        "name": "Perfect World Arena Premier League Season 3"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149269,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1673650800000,
+      "event": {
+        "id": 7003,
+        "name": "Perfect World Arena Premier League Season 3"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 149241,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1673650800000,
+      "event": {
+        "id": 7003,
+        "name": "Perfect World Arena Premier League Season 3"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149236,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6965,
+        "name": "eXTREMESLAND Festival 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 149157,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6965,
+        "name": "eXTREMESLAND Festival 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 149155,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6965,
+        "name": "eXTREMESLAND Festival 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149153,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6965,
+        "name": "eXTREMESLAND Festival 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149145,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6965,
+        "name": "eXTREMESLAND Festival 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149144,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1671836400000,
+      "event": {
+        "id": 6965,
+        "name": "eXTREMESLAND Festival 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12082,
+        "name": "TrEa"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149134,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1671836400000,
+      "event": {
+        "id": 6965,
+        "name": "eXTREMESLAND Festival 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 12082,
+        "name": "TrEa"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149133,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1671058800000,
+      "event": {
+        "id": 6932,
+        "name": "ESL Challenger League Season 43 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148797,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1671058800000,
+      "event": {
+        "id": 6932,
+        "name": "ESL Challenger League Season 43 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 148792,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670972400000,
+      "event": {
+        "id": 6932,
+        "name": "ESL Challenger League Season 43 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148735,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670972400000,
+      "event": {
+        "id": 6932,
+        "name": "ESL Challenger League Season 43 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148727,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670886000000,
+      "event": {
+        "id": 6932,
+        "name": "ESL Challenger League Season 43 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148673,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1670886000000,
+      "event": {
+        "id": 6932,
+        "name": "ESL Challenger League Season 43 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148667,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1665180000000,
+      "event": {
+        "id": 6711,
+        "name": " IEM Road to Rio 2022 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11857,
+        "name": "JiJieHao International"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 145017,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1665180000000,
+      "event": {
+        "id": 6711,
+        "name": " IEM Road to Rio 2022 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11857,
+        "name": "JiJieHao International"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 145014,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1665180000000,
+      "event": {
+        "id": 6711,
+        "name": " IEM Road to Rio 2022 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11857,
+        "name": "JiJieHao International"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 145013,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1665093600000,
+      "event": {
+        "id": 6711,
+        "name": " IEM Road to Rio 2022 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8008,
+        "name": "Grayhound"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 144950,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1665093600000,
+      "event": {
+        "id": 6711,
+        "name": " IEM Road to Rio 2022 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8008,
+        "name": "Grayhound"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 144949,
+      "result": {
+        "team1": 16,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1665093600000,
+      "event": {
+        "id": 6711,
+        "name": " IEM Road to Rio 2022 Asia RMR"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8008,
+        "name": "Grayhound"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 144948,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1661637600000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 142252,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1661637600000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 142242,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1661637600000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 142231,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1661637600000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 142229,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1661551200000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 142151,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1661551200000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 142143,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1661551200000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 142128,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1661551200000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 142111,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1661551200000,
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 142102,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1660600800000,
+      "event": {
+        "id": 6682,
+        "name": "IEM Road to Rio 2022 China Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 141598,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1660600800000,
+      "event": {
+        "id": 6682,
+        "name": "IEM Road to Rio 2022 China Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 141593,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1660514400000,
+      "event": {
+        "id": 6682,
+        "name": "IEM Road to Rio 2022 China Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 141555,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1660341600000,
+      "event": {
+        "id": 6709,
+        "name": "5E Arena Asia Cup Fall 2022 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 141452,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1660341600000,
+      "event": {
+        "id": 6709,
+        "name": "5E Arena Asia Cup Fall 2022 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 141446,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1660341600000,
+      "event": {
+        "id": 6709,
+        "name": "5E Arena Asia Cup Fall 2022 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11832,
+        "name": "Lord Rabbit"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 141443,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1657576800000,
+      "event": {
+        "id": 6639,
+        "name": "ESL Challenger Melbourne 2022 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11789,
+        "name": "Formel"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 140677,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1657576800000,
+      "event": {
+        "id": 6639,
+        "name": "ESL Challenger Melbourne 2022 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11789,
+        "name": "Formel"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 140674,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1657576800000,
+      "event": {
+        "id": 6639,
+        "name": "ESL Challenger Melbourne 2022 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11789,
+        "name": "Formel"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 140662,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1657576800000,
+      "event": {
+        "id": 6639,
+        "name": "ESL Challenger Melbourne 2022 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 140653,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1657576800000,
+      "event": {
+        "id": 6639,
+        "name": "ESL Challenger Melbourne 2022 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 140646,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1657404000000,
+      "event": {
+        "id": 6638,
+        "name": "ESL Challenger Melbourne 2022 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11789,
+        "name": "Formel"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 140591,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1657404000000,
+      "event": {
+        "id": 6638,
+        "name": "ESL Challenger Melbourne 2022 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11789,
+        "name": "Formel"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 140587,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1657317600000,
+      "event": {
+        "id": 6638,
+        "name": "ESL Challenger Melbourne 2022 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11331,
+        "name": "Websterz"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 140547,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1657317600000,
+      "event": {
+        "id": 6638,
+        "name": "ESL Challenger Melbourne 2022 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11464,
+        "name": "PALOMA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 140542,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1656799200000,
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11595,
+        "name": "Outsiders"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 140222,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1656799200000,
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11595,
+        "name": "Outsiders"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 140219,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1656712800000,
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 140193,
+      "result": {
+        "team1": 31,
+        "team2": 29
+      }
+    },
+    {
+      "date": 1656712800000,
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 140187,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1656626400000,
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11723,
+        "name": "HUMMER"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 140175,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1656626400000,
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11723,
+        "name": "HUMMER"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 140171,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1656626400000,
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11723,
+        "name": "HUMMER"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 140165,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1656626400000,
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 140131,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1656280800000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 139984,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1656280800000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 139981,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1656280800000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 139980,
+      "result": {
+        "team1": 0,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1656108000000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 139855,
+      "result": {
+        "team1": 25,
+        "team2": 23
+      }
+    },
+    {
+      "date": 1656108000000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 139844,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1656021600000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11328,
+        "name": "ARAVT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 139764,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1656021600000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11328,
+        "name": "ARAVT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 139760,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1655935200000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7109,
+        "name": "Born in Mongolia"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 139652,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1655935200000,
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7109,
+        "name": "Born in Mongolia"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 139650,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1653343200000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 138355,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1653343200000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 138346,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1653343200000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 138341,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1653343200000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11542,
+        "name": "YK"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 138338,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1653343200000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11542,
+        "name": "YK"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 138337,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1653256800000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 138311,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1653256800000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 138307,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1653256800000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7966,
+        "name": "Invictus"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 138302,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1653256800000,
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7966,
+        "name": "Invictus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 138298,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1648936800000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 136514,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1648936800000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 136512,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1648936800000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 136510,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1648677600000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 136368,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1648677600000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 136364,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1648677600000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 136355,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1648591200000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 136268,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1648591200000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 136257,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1648504800000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11472,
+        "name": "Moon"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 136252,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1648504800000,
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11472,
+        "name": "Moon"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 136251,
+      "result": {
+        "team1": 16,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1648335600000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 136070,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1648335600000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 136063,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1648335600000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11542,
+        "name": "YK"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 136059,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1648335600000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11542,
+        "name": "YK"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 136054,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1648249200000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 135993,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1648249200000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 135987,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1648162800000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7966,
+        "name": "Invictus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 135943,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1648162800000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7966,
+        "name": "Invictus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 135935,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1648162800000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 7966,
+        "name": "Invictus"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 135929,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1647990000000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11625,
+        "name": "DHLG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 135812,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1647990000000,
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11625,
+        "name": "DHLG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 135811,
+      "result": {
+        "team1": 16,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1645916400000,
+      "event": {
+        "id": 6397,
+        "name": "PGL Major Antwerp 2022 Asia RMR Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10796,
+        "name": "Checkmate"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 134350,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1645916400000,
+      "event": {
+        "id": 6397,
+        "name": "PGL Major Antwerp 2022 Asia RMR Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10796,
+        "name": "Checkmate"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 134348,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1645916400000,
+      "event": {
+        "id": 6397,
+        "name": "PGL Major Antwerp 2022 Asia RMR Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 134344,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1645916400000,
+      "event": {
+        "id": 6397,
+        "name": "PGL Major Antwerp 2022 Asia RMR Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11328,
+        "name": "ARAVT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 134337,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1645916400000,
+      "event": {
+        "id": 6397,
+        "name": "PGL Major Antwerp 2022 Asia RMR Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 8607,
+        "name": "D13"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 134332,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1645916400000,
+      "event": {
+        "id": 6397,
+        "name": "PGL Major Antwerp 2022 Asia RMR Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 134325,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1645916400000,
+      "event": {
+        "id": 6397,
+        "name": "PGL Major Antwerp 2022 Asia RMR Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "team2": {
+        "id": 11541,
+        "name": "Northwest"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 134322,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 7028,
+      "name": "Summer"
+    },
+    {
+      "id": 8605,
+      "name": "somebody"
+    },
+    {
+      "id": 8950,
+      "name": "kaze"
+    },
+    {
+      "id": 19681,
+      "name": "ChildKing"
+    },
+    {
+      "id": 21825,
+      "name": "L1haNg"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 12490,
+      "name": "expro"
+    },
+    {
+      "id": 19645,
+      "name": "JamYoung"
+    },
+    {
+      "id": 20895,
+      "name": "Mercury"
+    },
+    {
+      "id": 8601,
+      "name": "zhokiNg"
+    },
+    {
+      "id": 8600,
+      "name": "advent"
+    },
+    {
+      "id": 16495,
+      "name": "kory"
+    },
+    {
+      "id": 21323,
+      "name": "Risk"
+    },
+    {
+      "id": 16726,
+      "name": "phzy"
+    },
+    {
+      "id": 21621,
+      "name": "Moseyuh"
+    },
+    {
+      "id": 8604,
+      "name": "aumaN"
+    }
+  ],
+  "standins": [
+    {
+      "id": 20896,
+      "name": "salmon"
+    },
+    {
+      "id": 18152,
+      "name": "k4Mi"
+    },
+    {
+      "id": 7027,
+      "name": "z8z"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8383,
+        "name": "MESA Asian Masters 2025 China Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8281,
+        "name": "XSE Pro League 2025"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      }
+    },
+    {
+      "place": "12-14th",
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      }
+    },
+    {
+      "place": "17-20th",
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7870,
+        "name": "Perfect World Shanghai Major 2024 China RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7985,
+        "name": "IEM Rio 2024 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7983,
+        "name": "IEM Rio 2024 Asia Open Qualifier 1"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7836,
+        "name": "CCT Season 2 Europe Series 4 Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7765,
+        "name": "Esports World Cup 2024 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7764,
+        "name": "Esports World Cup 2024 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7633,
+        "name": "5E Arena Asia Cup Spring 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7617,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7397,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7405,
+        "name": "PGL CS2 Major Copenhagen 2024 China RMR Open Qualifier"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7423,
+        "name": "ESL Challenger Jönköping 2023 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7482,
+        "name": "IEM Chengdu 2024 China Open Qualifier 2"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7481,
+        "name": "IEM Chengdu 2024 China Open Qualifier 1"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7422,
+        "name": "ESL Challenger Jönköping 2023 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7251,
+        "name": "Perfect World Arena Premier League Season 4"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7183,
+        "name": "ESL Challenger League Season 45 Asia-Pacific"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 6866,
+        "name": "ESL Challenger Melbourne 2023"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 6980,
+        "name": "BLAST.tv Paris Major 2023 Asia RMR"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 6971,
+        "name": "BLAST Premier Spring Showdown 2023 Europe"
+      }
+    },
+    {
+      "place": "21-28th",
+      "event": {
+        "id": 6862,
+        "name": "ESL Pro League Season 17"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7056,
+        "name": "ESL Challenger Melbourne 2023 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7086,
+        "name": "5E Arena Asia Cup Spring 2023 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7028,
+        "name": "BLAST.tv Paris Major 2023 China RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 6996,
+        "name": "IEM Rio 2023 Asia Open Qualifier 2"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6963,
+        "name": "ESL Pro League Season 17 Conference Asia"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7003,
+        "name": "Perfect World Arena Premier League Season 3"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6965,
+        "name": "eXTREMESLAND Festival 2022"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 6932,
+        "name": "ESL Challenger League Season 43 Asia-Pacific"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 6711,
+        "name": " IEM Road to Rio 2022 Asia RMR"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6684,
+        "name": "IEM Road to Rio 2022 China Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 6682,
+        "name": "IEM Road to Rio 2022 China Open Qualifier 1"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 6709,
+        "name": "5E Arena Asia Cup Fall 2022 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 6639,
+        "name": "ESL Challenger Melbourne 2022 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 6638,
+        "name": "ESL Challenger Melbourne 2022 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 6317,
+        "name": "ESL Challenger Valencia 2022"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6575,
+        "name": "ESL Challenger League Season 41 Asia-Pacific"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6566,
+        "name": "ESL Challenger Valencia 2022 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6493,
+        "name": "ESL Challenger League Season 40 Asia-Pacific"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 6488,
+        "name": "Perfect World Arena Premier League Season 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 6397,
+        "name": "PGL Major Antwerp 2022 Asia RMR Asia Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_inferno": {
+      "wins": 59,
+      "draws": 0,
+      "losses": 30,
+      "winRate": 66.3,
+      "totalRounds": 2175,
+      "roundWinPAfterFirstKill": 73.1,
+      "roundWinPAfterFirstDeath": 32.8
+    },
+    "de_ancient": {
+      "wins": 40,
+      "draws": 0,
+      "losses": 24,
+      "winRate": 62.5,
+      "totalRounds": 1460,
+      "roundWinPAfterFirstKill": 74.9,
+      "roundWinPAfterFirstDeath": 33.8
+    },
+    "de_mirage": {
+      "wins": 29,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 52.7,
+      "totalRounds": 1319,
+      "roundWinPAfterFirstKill": 73.6,
+      "roundWinPAfterFirstDeath": 27
+    },
+    "de_anubis": {
+      "wins": 26,
+      "draws": 0,
+      "losses": 25,
+      "winRate": 51,
+      "totalRounds": 1077,
+      "roundWinPAfterFirstKill": 71.2,
+      "roundWinPAfterFirstDeath": 32
+    },
+    "de_vertigo": {
+      "wins": 18,
+      "draws": 0,
+      "losses": 14,
+      "winRate": 56.2,
+      "totalRounds": 772,
+      "roundWinPAfterFirstKill": 74.9,
+      "roundWinPAfterFirstDeath": 32.5
+    },
+    "de_nuke": {
+      "wins": 19,
+      "draws": 0,
+      "losses": 12,
+      "winRate": 61.3,
+      "totalRounds": 775,
+      "roundWinPAfterFirstKill": 79.3,
+      "roundWinPAfterFirstDeath": 26.4
+    },
+    "de_overpass": {
+      "wins": 22,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 71,
+      "totalRounds": 800,
+      "roundWinPAfterFirstKill": 77.2,
+      "roundWinPAfterFirstDeath": 32
+    },
+    "de_dust2": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 60,
+      "totalRounds": 302,
+      "roundWinPAfterFirstKill": 76,
+      "roundWinPAfterFirstDeath": 32.7
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 33,
+      "roundWinPAfterFirstKill": 82.4,
+      "roundWinPAfterFirstDeath": 37.5
+    }
+  }
+}

@@ -1,0 +1,9121 @@
+{
+  "id": 11641,
+  "name": "Metizport",
+  "overview": {
+    "mapsPlayed": 405,
+    "totalKills": 30631,
+    "totalDeaths": 30009,
+    "roundsPlayed": 9048,
+    "kdRatio": 1.02,
+    "wins": 225,
+    "draws": 0,
+    "losses": 180
+  },
+  "matches": [
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192457,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192435,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192407,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192402,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192356,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192343,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192331,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192301,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192294,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191735,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191728,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191714,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191695,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191685,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738278000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191451,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738278000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191447,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190354,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190351,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11174,
+        "name": "PORTUGAL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189982,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11174,
+        "name": "PORTUGAL"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189979,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11174,
+        "name": "PORTUGAL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189976,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189973,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1734822000000,
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189970,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189641,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189636,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189570,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189568,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189480,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189478,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189475,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189443,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189442,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189439,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733612400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189367,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1733612400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189362,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189153,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189151,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189039,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189034,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189030,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5111,
+        "name": "Serbia"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188271,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5111,
+        "name": "Serbia"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188268,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5111,
+        "name": "Serbia"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188266,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188260,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188253,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188246,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188207,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188200,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 6273,
+        "name": "Canada"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188156,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5108,
+        "name": "Norway"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188145,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188116,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5106,
+        "name": "Turkey"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188031,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188022,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187769,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187762,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187750,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187708,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187707,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187663,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187661,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187658,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187260,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187256,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187248,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187201,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187199,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187195,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187186,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186209,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186205,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186138,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186135,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728338400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186006,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728338400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186005,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728252000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185949,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728252000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185946,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728252000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185943,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185727,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185724,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185622,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185620,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727906400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185614,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12889,
+        "name": "G2 Ares"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185477,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12889,
+        "name": "G2 Ares"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185476,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12889,
+        "name": "G2 Ares"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185466,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184684,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184680,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184190,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184185,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183725,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183714,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183577,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183573,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183568,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183186,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183177,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183033,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183028,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183024,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182633,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182618,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182458,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182451,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182052,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182044,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181903,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181883,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181871,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181806,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181800,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181765,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181490,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181482,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181236,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181228,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180952,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180947,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180939,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7966,
+        "name": "Pelaajat Nordic Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180894,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7966,
+        "name": "Pelaajat Nordic Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180883,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7966,
+        "name": "Pelaajat Nordic Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180870,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7966,
+        "name": "Pelaajat Nordic Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180855,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7966,
+        "name": "Pelaajat Nordic Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180745,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7966,
+        "name": "Pelaajat Nordic Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180740,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7966,
+        "name": "Pelaajat Nordic Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180727,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180330,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180321,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180312,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180296,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180289,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11312,
+        "name": "QUAZAR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180075,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11312,
+        "name": "QUAZAR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180069,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11312,
+        "name": "QUAZAR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180059,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179927,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179920,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179580,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179576,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179546,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179543,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179537,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179282,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179274,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179147,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179138,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179131,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178905,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178901,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178894,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176181,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176179,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176176,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175983,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175978,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175974,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175820,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175813,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175591,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175585,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175170,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175166,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175162,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715292000000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175130,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715292000000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175128,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1715292000000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175125,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174847,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174843,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174808,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174798,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174754,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174747,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174329,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174325,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174322,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174221,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174217,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7742,
+        "name": "Global Esports Tour Rio 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173919,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7742,
+        "name": "Global Esports Tour Rio 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173912,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7742,
+        "name": "Global Esports Tour Rio 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173894,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7742,
+        "name": "Global Esports Tour Rio 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173813,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173165,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173158,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712527200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173123,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712527200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173118,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712527200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173096,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173041,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173034,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173017,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173015,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7208,
+        "name": "Young Gods"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172974,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7208,
+        "name": "Young Gods"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172970,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172882,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172874,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172869,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172829,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172820,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172807,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12772,
+        "name": "Blessed"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172800,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12772,
+        "name": "Blessed"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172791,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12772,
+        "name": "Blessed"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172782,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172726,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172716,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172703,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172696,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172665,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711922400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172662,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172514,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172511,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172505,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172497,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12705,
+        "name": "ex-ENEIDA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172078,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12705,
+        "name": "ex-ENEIDA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172075,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12705,
+        "name": "ex-ENEIDA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172067,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171984,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171983,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171981,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171899,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171897,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171854,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171850,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171845,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171834,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171830,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171825,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171801,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171794,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171785,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171765,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171760,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171753,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171732,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171729,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171721,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171650,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171643,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171631,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4413,
+        "name": "Lemondogs"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171621,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10488,
+        "name": "Secret"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171575,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10488,
+        "name": "Secret"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171573,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171466,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171460,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171451,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171299,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171293,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171288,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12157,
+        "name": "ILIN"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171273,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171268,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171253,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171250,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171245,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1709161200000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171148,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1709161200000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171144,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1709161200000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171139,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12529,
+        "name": "INGLORIOUS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171086,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12529,
+        "name": "INGLORIOUS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171083,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1708988400000,
+      "event": {
+        "id": 7664,
+        "name": "ESL Challenger Melbourne 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171051,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170280,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170279,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170277,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170267,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170266,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170264,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707519600000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170240,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1707519600000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170235,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707519600000,
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170232,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1707260400000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170143,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1707260400000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170142,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1707260400000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170141,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707174000000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170128,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707174000000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170126,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707174000000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170123,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1707087600000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170093,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707087600000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170088,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170072,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170069,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170068,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7676,
+        "name": "Pelaajat Series Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4695,
+        "name": "TMVG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170055,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7676,
+        "name": "Pelaajat Series Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 4695,
+        "name": "TMVG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170054,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7676,
+        "name": "Pelaajat Series Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10125,
+        "name": "DUSTY"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170021,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7676,
+        "name": "Pelaajat Series Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10125,
+        "name": "DUSTY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170019,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7676,
+        "name": "Pelaajat Series Spring 2024"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10125,
+        "name": "DUSTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170018,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1706914800000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169941,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1706914800000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169939,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7674,
+        "name": "Pelaajat Series Spring 2024 Nordics Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169925,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7674,
+        "name": "Pelaajat Series Spring 2024 Nordics Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169923,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7674,
+        "name": "Pelaajat Series Spring 2024 Nordics Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169919,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1706742000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169849,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1706742000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169843,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1706742000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169836,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1706482800000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169761,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1706482800000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169760,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706482800000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169759,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1706137200000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169606,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1706137200000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169603,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1704754800000,
+      "event": {
+        "id": 7393,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 1"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 168536,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703890800000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168497,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703890800000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168496,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703890800000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168493,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1703890800000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168492,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1703804400000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168489,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1703804400000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168488,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1703804400000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168484,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1703804400000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168483,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703804400000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168482,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1703631600000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168467,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1703631600000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168465,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1703631600000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168464,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1703026800000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168427,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703026800000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168426,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703026800000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168421,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1703026800000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168418,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1702940400000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168399,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1702940400000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168397,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1702940400000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168391,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168328,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168324,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168319,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12578,
+        "name": "Angel numbers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168310,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12578,
+        "name": "Angel numbers"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168306,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12578,
+        "name": "Angel numbers"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168300,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12579,
+        "name": "latch gibb"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168288,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12579,
+        "name": "latch gibb"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168279,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167456,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167454,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700866800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167251,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700866800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167243,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166974,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166968,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166965,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166905,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166898,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166891,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166802,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166799,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166635,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166631,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166630,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166510,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166498,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166490,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166416,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166413,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166405,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1699570800000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166329,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1699570800000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166324,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166218,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166217,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166213,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1699225200000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166102,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699225200000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166099,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699225200000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166096,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699138800000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166040,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165601,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 165599,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165592,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1698098400000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164997,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698098400000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164991,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164921,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164913,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164908,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164857,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164849,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164834,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164832,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1697752800000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164751,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1697752800000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164750,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 164638,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164633,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697493600000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164563,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697493600000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164562,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164452,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164450,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164442,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164387,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164380,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1696629600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164061,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1696629600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164050,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696629600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164043,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696456800000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163914,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1696456800000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 163903,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696456800000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163896,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10905,
+        "name": "PGE Turow"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163743,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10905,
+        "name": "PGE Turow"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163736,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163726,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 163722,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163718,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694728800000,
+      "event": {
+        "id": 7388,
+        "name": "CCT North Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162847,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694728800000,
+      "event": {
+        "id": 7388,
+        "name": "CCT North Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 162844,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1694728800000,
+      "event": {
+        "id": 7388,
+        "name": "CCT North Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162833,
+      "result": {
+        "team1": 23,
+        "team2": 25
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7388,
+        "name": "CCT North Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162652,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7388,
+        "name": "CCT North Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162637,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7388,
+        "name": "CCT North Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162628,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7388,
+        "name": "CCT North Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162613,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1684015200000,
+      "event": {
+        "id": 7195,
+        "name": "Telia League Spring 2023 Finals"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11053,
+        "name": "Wizard"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 156791,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1684015200000,
+      "event": {
+        "id": 7195,
+        "name": "Telia League Spring 2023 Finals"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11053,
+        "name": "Wizard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 156787,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1684015200000,
+      "event": {
+        "id": 7195,
+        "name": "Telia League Spring 2023 Finals"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11053,
+        "name": "Wizard"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 156786,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1675292400000,
+      "event": {
+        "id": 7042,
+        "name": "MistGames Heroes of Lofoten 2023 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 150434,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1675292400000,
+      "event": {
+        "id": 7042,
+        "name": "MistGames Heroes of Lofoten 2023 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 150428,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1675292400000,
+      "event": {
+        "id": 7042,
+        "name": "MistGames Heroes of Lofoten 2023 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10254,
+        "name": "BIG Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 150419,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1651010400000,
+      "event": {
+        "id": 6525,
+        "name": "MistGames Heroes of Tomorrow Spring 2022"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8960,
+        "name": "Bitfix"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 137465,
+      "result": {
+        "team1": 2,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1651010400000,
+      "event": {
+        "id": 6525,
+        "name": "MistGames Heroes of Tomorrow Spring 2022"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 8960,
+        "name": "Bitfix"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 137463,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1650924000000,
+      "event": {
+        "id": 6525,
+        "name": "MistGames Heroes of Tomorrow Spring 2022"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 137422,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1650924000000,
+      "event": {
+        "id": 6525,
+        "name": "MistGames Heroes of Tomorrow Spring 2022"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 137418,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1649455200000,
+      "event": {
+        "id": 6514,
+        "name": "Komplett Norway Cup 2022"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11054,
+        "name": "FOXED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 136759,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1649455200000,
+      "event": {
+        "id": 6514,
+        "name": "Komplett Norway Cup 2022"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11054,
+        "name": "FOXED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 136757,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1649455200000,
+      "event": {
+        "id": 6514,
+        "name": "Komplett Norway Cup 2022"
+      },
+      "team1": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "team2": {
+        "id": 11054,
+        "name": "FOXED"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 136751,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 9766,
+      "name": "hampus"
+    },
+    {
+      "id": 14218,
+      "name": "Plopski"
+    },
+    {
+      "id": 17937,
+      "name": "isak"
+    },
+    {
+      "id": 20878,
+      "name": "adamb"
+    },
+    {
+      "id": 21164,
+      "name": "L00m1"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 20706,
+      "name": "bINA0"
+    },
+    {
+      "id": 14311,
+      "name": "H4RR3"
+    },
+    {
+      "id": 14217,
+      "name": "hns"
+    },
+    {
+      "id": 21578,
+      "name": "Jokkum"
+    },
+    {
+      "id": 18750,
+      "name": "kaas"
+    },
+    {
+      "id": 18807,
+      "name": "LaX"
+    },
+    {
+      "id": 22056,
+      "name": "mero"
+    },
+    {
+      "id": 22055,
+      "name": "REAPER"
+    },
+    {
+      "id": 18685,
+      "name": "ruyter"
+    },
+    {
+      "id": 21163,
+      "name": "susp"
+    },
+    {
+      "id": 22048,
+      "name": "Tapewaare"
+    },
+    {
+      "id": 21580,
+      "name": "thomass1"
+    },
+    {
+      "id": 22054,
+      "name": "Winther"
+    },
+    {
+      "id": 3018,
+      "name": "zEVES"
+    },
+    {
+      "id": 16486,
+      "name": "ztr"
+    },
+    {
+      "id": 15569,
+      "name": "Sapec"
+    },
+    {
+      "id": 10784,
+      "name": "RuStY"
+    },
+    {
+      "id": 22047,
+      "name": "yxngstxr"
+    },
+    {
+      "id": 13669,
+      "name": "Jackinho"
+    },
+    {
+      "id": 20119,
+      "name": "nilo"
+    },
+    {
+      "id": 19065,
+      "name": "SHiNE"
+    }
+  ],
+  "standins": [
+    {
+      "id": 17562,
+      "name": "abdi"
+    },
+    {
+      "id": 22379,
+      "name": "SeBreeZe"
+    },
+    {
+      "id": 24112,
+      "name": "p1ke"
+    },
+    {
+      "id": 19064,
+      "name": "spooke"
+    }
+  ],
+  "substitutes": [
+    {
+      "id": 22056,
+      "name": "mero"
+    }
+  ],
+  "events": [
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8231,
+        "name": "Wildz Invitational Season 1"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8159,
+        "name": "500 Casino Halloween Cup 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      }
+    },
+    {
+      "place": "6-8th",
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7966,
+        "name": "Pelaajat Nordic Masters Fall 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 7899,
+        "name": "CCT Season 2 Europe Series 6"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7831,
+        "name": "RES Regional Series 4 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      }
+    },
+    {
+      "place": "13-15th",
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7742,
+        "name": "Global Esports Tour Rio 2024"
+      }
+    },
+    {
+      "place": "19-20th",
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7724,
+        "name": "ESL Challenger Jönköping 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "9-11th",
+      "event": {
+        "id": 7701,
+        "name": "Elisa Invitational Spring 2024 Contenders"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7654,
+        "name": "IEM Dallas 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7664,
+        "name": "ESL Challenger Melbourne 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7682,
+        "name": "RES Western European Masters Spring 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7676,
+        "name": "Pelaajat Series Spring 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7674,
+        "name": "Pelaajat Series Spring 2024 Nordics Open Qualifier 1"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7393,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      }
+    },
+    {
+      "place": "12-14th",
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7388,
+        "name": "CCT North Europe Series 8 Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7195,
+        "name": "Telia League Spring 2023 Finals"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7042,
+        "name": "MistGames Heroes of Lofoten 2023 Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 6525,
+        "name": "MistGames Heroes of Tomorrow Spring 2022"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 6514,
+        "name": "Komplett Norway Cup 2022"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_mirage": {
+      "wins": 57,
+      "draws": 0,
+      "losses": 37,
+      "winRate": 60.6,
+      "totalRounds": 2090,
+      "roundWinPAfterFirstKill": 74,
+      "roundWinPAfterFirstDeath": 33.3
+    },
+    "de_ancient": {
+      "wins": 52,
+      "draws": 0,
+      "losses": 35,
+      "winRate": 59.8,
+      "totalRounds": 1915,
+      "roundWinPAfterFirstKill": 72.4,
+      "roundWinPAfterFirstDeath": 31.4
+    },
+    "de_inferno": {
+      "wins": 35,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 57.4,
+      "totalRounds": 1401,
+      "roundWinPAfterFirstKill": 73,
+      "roundWinPAfterFirstDeath": 30.4
+    },
+    "de_vertigo": {
+      "wins": 32,
+      "draws": 0,
+      "losses": 20,
+      "winRate": 61.5,
+      "totalRounds": 1105,
+      "roundWinPAfterFirstKill": 75.8,
+      "roundWinPAfterFirstDeath": 30
+    },
+    "de_overpass": {
+      "wins": 14,
+      "draws": 0,
+      "losses": 21,
+      "winRate": 40,
+      "totalRounds": 846,
+      "roundWinPAfterFirstKill": 70.5,
+      "roundWinPAfterFirstDeath": 28.5
+    },
+    "de_nuke": {
+      "wins": 16,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 47.1,
+      "totalRounds": 776,
+      "roundWinPAfterFirstKill": 70.8,
+      "roundWinPAfterFirstDeath": 27.4
+    },
+    "de_anubis": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 44.8,
+      "totalRounds": 628,
+      "roundWinPAfterFirstKill": 71.9,
+      "roundWinPAfterFirstDeath": 27.1
+    },
+    "de_dust2": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 7,
+      "winRate": 46.2,
+      "totalRounds": 287,
+      "roundWinPAfterFirstKill": 74.8,
+      "roundWinPAfterFirstDeath": 25
+    }
+  }
+}

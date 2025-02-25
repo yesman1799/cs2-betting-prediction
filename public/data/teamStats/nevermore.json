@@ -1,0 +1,242 @@
+{
+  "id": 13157,
+  "name": "NEVERMORE",
+  "overview": {
+    "mapsPlayed": 7,
+    "totalKills": 529,
+    "totalDeaths": 614,
+    "roundsPlayed": 170,
+    "kdRatio": 0.86,
+    "wins": 3,
+    "draws": 0,
+    "losses": 4
+  },
+  "matches": [
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13157,
+        "name": "NEVERMORE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_train",
+      "mapStatsId": 192335,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13157,
+        "name": "NEVERMORE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192329,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13157,
+        "name": "NEVERMORE"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192313,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13157,
+        "name": "NEVERMORE"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192305,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 13157,
+        "name": "NEVERMORE"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192297,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 13157,
+        "name": "NEVERMORE"
+      },
+      "team2": {
+        "id": 13155,
+        "name": "Little Red Door"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192081,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 13157,
+        "name": "NEVERMORE"
+      },
+      "team2": {
+        "id": 13156,
+        "name": "ToxicAndCritic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192068,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 20167,
+      "name": "MUV"
+    },
+    {
+      "id": 20475,
+      "name": "neiter"
+    },
+    {
+      "id": 24810,
+      "name": "doni"
+    },
+    {
+      "id": 24811,
+      "name": "hodix"
+    },
+    {
+      "id": 24812,
+      "name": "jackast"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 33.3,
+      "totalRounds": 75,
+      "roundWinPAfterFirstKill": 65.5,
+      "roundWinPAfterFirstDeath": 30.4
+    },
+    "de_ancient": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 59,
+      "roundWinPAfterFirstKill": 74.1,
+      "roundWinPAfterFirstDeath": 37.5
+    },
+    "de_dust2": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 20,
+      "roundWinPAfterFirstKill": 40,
+      "roundWinPAfterFirstDeath": 30
+    },
+    "de_train": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 16,
+      "roundWinPAfterFirstKill": 50,
+      "roundWinPAfterFirstDeath": 8.3
+    }
+  }
+}

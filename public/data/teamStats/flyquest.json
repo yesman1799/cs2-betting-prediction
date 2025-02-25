@@ -1,0 +1,2915 @@
+{
+  "id": 12774,
+  "name": "FlyQuest",
+  "overview": {
+    "mapsPlayed": 128,
+    "totalKills": 9052,
+    "totalDeaths": 8733,
+    "roundsPlayed": 2677,
+    "kdRatio": 1.04,
+    "wins": 74,
+    "draws": 0,
+    "losses": 54
+  },
+  "matches": [
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192828,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192824,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192819,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192716,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192713,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192710,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192650,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192647,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191399,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191395,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_train",
+      "mapStatsId": 191390,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191316,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_train",
+      "mapStatsId": 191311,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190554,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190550,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190259,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190254,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189026,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189025,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188970,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188965,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188920,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188918,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188916,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188850,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188843,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188015,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188011,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187988,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187984,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187982,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187909,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187906,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187853,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186661,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186660,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186528,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186526,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185937,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185932,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185929,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185909,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185896,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185889,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185735,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185711,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185364,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185356,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12884,
+        "name": "The Art of War"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185058,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12884,
+        "name": "The Art of War"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185053,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12921,
+        "name": "Housebets"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184951,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12921,
+        "name": "Housebets"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184946,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12363,
+        "name": "Arcade"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184856,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12363,
+        "name": "Arcade"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184849,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183429,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183420,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183374,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183367,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183362,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183187,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183180,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183085,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183078,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12455,
+        "name": "Vantage"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182853,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12455,
+        "name": "Vantage"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182849,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12472,
+        "name": "MANTRA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182303,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12472,
+        "name": "MANTRA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182285,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12152,
+        "name": "KZG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181866,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12152,
+        "name": "KZG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181855,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12276,
+        "name": "DXA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181330,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12276,
+        "name": "DXA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181314,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7675,
+        "name": "IEM Cologne 2024 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180948,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7675,
+        "name": "IEM Cologne 2024 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180943,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7675,
+        "name": "IEM Cologne 2024 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180833,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7675,
+        "name": "IEM Cologne 2024 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180822,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7675,
+        "name": "IEM Cologne 2024 Play-in"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180804,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179125,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179011,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178992,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177577,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177573,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177571,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177570,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177413,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177412,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177297,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177286,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177282,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1716847200000,
+      "event": {
+        "id": 7438,
+        "name": "IEM Dallas 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176458,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1716847200000,
+      "event": {
+        "id": 7438,
+        "name": "IEM Dallas 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176451,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716760800000,
+      "event": {
+        "id": 7438,
+        "name": "IEM Dallas 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176394,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176093,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176088,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12704,
+        "name": "Canon Event"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175936,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12704,
+        "name": "Canon Event"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175931,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1715119200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175039,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715119200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175035,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1715119200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175029,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175000,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174995,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174987,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714860000000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174893,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1714860000000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174888,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174858,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174853,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174850,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174809,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174803,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174736,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174729,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174675,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174670,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7767,
+        "name": "Esports World Cup 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12587,
+        "name": "Bad News Kangaroos"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174015,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1713564000000,
+      "event": {
+        "id": 7767,
+        "name": "Esports World Cup 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 12587,
+        "name": "Bad News Kangaroos"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174011,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7767,
+        "name": "Esports World Cup 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173883,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7767,
+        "name": "Esports World Cup 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173872,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7767,
+        "name": "Esports World Cup 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173858,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7767,
+        "name": "Esports World Cup 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173856,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173263,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173260,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173238,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173235,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173138,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173137,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173134,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712527200000,
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173064,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5730,
+        "name": "VexX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172761,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      },
+      "team1": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "team2": {
+        "id": 5730,
+        "name": "VexX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172756,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 9115,
+      "name": "dexter"
+    },
+    {
+      "id": 10588,
+      "name": "Liazz"
+    },
+    {
+      "id": 11140,
+      "name": "INS"
+    },
+    {
+      "id": 17384,
+      "name": "Vexite"
+    },
+    {
+      "id": 20123,
+      "name": "regali"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 11139,
+      "name": "aliStair"
+    }
+  ],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      }
+    },
+    {
+      "place": "9-11th",
+      "event": {
+        "id": 7861,
+        "name": "Perfect World Shanghai Major 2024 Opening Stage"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7862,
+        "name": "Perfect World Shanghai Major 2024 Asia RMR"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7944,
+        "name": "ESL Challenger League Season 48 Oceania"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      }
+    },
+    {
+      "place": "21-28th",
+      "event": {
+        "id": 7441,
+        "name": "ESL Pro League Season 20"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7675,
+        "name": "IEM Cologne 2024 Play-in"
+      }
+    },
+    {
+      "place": "12-15th",
+      "event": {
+        "id": 7732,
+        "name": "Esports World Cup 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7686,
+        "name": "ESL Challenger League Season 47 Oceania"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7438,
+        "name": "IEM Dallas 2024"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7767,
+        "name": "Esports World Cup 2024 Oceania Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7437,
+        "name": "IEM Chengdu 2024"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 16,
+      "draws": 0,
+      "losses": 12,
+      "winRate": 57.1,
+      "totalRounds": 581,
+      "roundWinPAfterFirstKill": 73.2,
+      "roundWinPAfterFirstDeath": 32.1
+    },
+    "de_inferno": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 11,
+      "winRate": 54.2,
+      "totalRounds": 515,
+      "roundWinPAfterFirstKill": 76.9,
+      "roundWinPAfterFirstDeath": 32.8
+    },
+    "de_anubis": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 7,
+      "winRate": 70.8,
+      "totalRounds": 522,
+      "roundWinPAfterFirstKill": 78.2,
+      "roundWinPAfterFirstDeath": 30.4
+    },
+    "de_nuke": {
+      "wins": 11,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 57.9,
+      "totalRounds": 384,
+      "roundWinPAfterFirstKill": 73.6,
+      "roundWinPAfterFirstDeath": 33
+    },
+    "de_vertigo": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 58.3,
+      "totalRounds": 275,
+      "roundWinPAfterFirstKill": 73.3,
+      "roundWinPAfterFirstDeath": 35.7
+    },
+    "de_dust2": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 50,
+      "totalRounds": 181,
+      "roundWinPAfterFirstKill": 71,
+      "roundWinPAfterFirstDeath": 28.4
+    },
+    "de_mirage": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 44.4,
+      "totalRounds": 183,
+      "roundWinPAfterFirstKill": 72.5,
+      "roundWinPAfterFirstDeath": 27.2
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 36,
+      "roundWinPAfterFirstKill": 68.8,
+      "roundWinPAfterFirstDeath": 35
+    }
+  }
+}

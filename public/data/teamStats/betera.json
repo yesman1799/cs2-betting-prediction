@@ -1,0 +1,2472 @@
+{
+  "id": 12431,
+  "name": "Betera",
+  "overview": {
+    "mapsPlayed": 104,
+    "totalKills": 7449,
+    "totalDeaths": 7707,
+    "roundsPlayed": 2287,
+    "kdRatio": 0.97,
+    "wins": 46,
+    "draws": 0,
+    "losses": 58
+  },
+  "matches": [
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193447,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193439,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_train",
+      "mapStatsId": 193432,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 13154,
+        "name": "LFO 3"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192047,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191344,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191337,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191335,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191197,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191190,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191180,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190907,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190898,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190736,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190733,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189877,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189873,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189739,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189735,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189667,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189660,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189598,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189594,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189588,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8208,
+        "name": "Exort Series 5"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189002,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8208,
+        "name": "Exort Series 5"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188995,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8208,
+        "name": "Exort Series 5"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188994,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185569,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185559,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185487,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185482,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185481,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183876,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183863,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183860,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183274,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183266,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183260,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181513,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180759,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180753,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180619,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180615,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180332,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180325,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179608,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179602,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178927,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178917,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178909,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7947,
+        "name": "Shuffle Masters Season 1"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178830,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7947,
+        "name": "Shuffle Masters Season 1"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178825,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173313,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173301,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173295,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173200,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173187,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172893,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172888,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12738,
+        "name": "System5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172823,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12738,
+        "name": "System5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172811,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172567,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172561,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172082,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172079,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172074,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171933,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171919,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171364,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705100400000,
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12107,
+        "name": "sYnck"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168782,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705100400000,
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12107,
+        "name": "sYnck"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168778,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1705100400000,
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12107,
+        "name": "sYnck"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168771,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705100400000,
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168763,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1705014000000,
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10905,
+        "name": "PGE Turow"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168718,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1704927600000,
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168642,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1704927600000,
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168623,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1704754800000,
+      "event": {
+        "id": 7393,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168515,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166409,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166399,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166390,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166245,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166232,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166221,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166166,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166157,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166142,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698793200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12371,
+        "name": "ORKS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165801,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1698793200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12371,
+        "name": "ORKS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 165794,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 165106,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165095,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164665,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164664,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164642,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697148000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164328,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1697148000000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164323,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1696543200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164014,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1696543200000,
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163999,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1695506400000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11331,
+        "name": "Websterz"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 163423,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695506400000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11331,
+        "name": "Websterz"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163420,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695506400000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11331,
+        "name": "Websterz"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163415,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1695506400000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163407,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1695506400000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 163401,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163381,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 163380,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163379,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 17316,
+      "name": "Vert"
+    },
+    {
+      "id": 19231,
+      "name": "h1te"
+    },
+    {
+      "id": 19874,
+      "name": "MaSvAl"
+    },
+    {
+      "id": 20402,
+      "name": "synyx"
+    },
+    {
+      "id": 24173,
+      "name": "tENZY"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 22459,
+      "name": "sh1nejezzz"
+    },
+    {
+      "id": 20112,
+      "name": "alex666"
+    },
+    {
+      "id": 19913,
+      "name": "Ganginho"
+    },
+    {
+      "id": 13980,
+      "name": "lollipop21k"
+    },
+    {
+      "id": 22643,
+      "name": "nifee"
+    },
+    {
+      "id": 22193,
+      "name": "sad"
+    },
+    {
+      "id": 20422,
+      "name": "OWNER"
+    },
+    {
+      "id": 13281,
+      "name": "El1an"
+    }
+  ],
+  "standins": [
+    {
+      "id": 24325,
+      "name": "tripex17"
+    },
+    {
+      "id": 23047,
+      "name": "Sdaim"
+    },
+    {
+      "id": 11926,
+      "name": "mds"
+    },
+    {
+      "id": 16415,
+      "name": "supra"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8208,
+        "name": "Exort Series 5"
+      }
+    },
+    {
+      "place": "19th",
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7947,
+        "name": "Shuffle Masters Season 1"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7393,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 1"
+      }
+    },
+    {
+      "place": "13-14th",
+      "event": {
+        "id": 7288,
+        "name": "ESL Challenger League Season 46 Europe"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 14,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 43.8,
+      "totalRounds": 733,
+      "roundWinPAfterFirstKill": 68.6,
+      "roundWinPAfterFirstDeath": 30.6
+    },
+    "de_nuke": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 47.1,
+      "totalRounds": 373,
+      "roundWinPAfterFirstKill": 68.7,
+      "roundWinPAfterFirstDeath": 24.6
+    },
+    "de_anubis": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 58.3,
+      "totalRounds": 260,
+      "roundWinPAfterFirstKill": 74.6,
+      "roundWinPAfterFirstDeath": 29.1
+    },
+    "de_mirage": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 40,
+      "totalRounds": 231,
+      "roundWinPAfterFirstKill": 65,
+      "roundWinPAfterFirstDeath": 33.3
+    },
+    "de_overpass": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 40,
+      "totalRounds": 217,
+      "roundWinPAfterFirstKill": 67,
+      "roundWinPAfterFirstDeath": 28.3
+    },
+    "de_dust2": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 50,
+      "totalRounds": 162,
+      "roundWinPAfterFirstKill": 73.7,
+      "roundWinPAfterFirstDeath": 25.6
+    },
+    "de_inferno": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 28.6,
+      "totalRounds": 159,
+      "roundWinPAfterFirstKill": 68,
+      "roundWinPAfterFirstDeath": 19
+    },
+    "de_vertigo": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 28.6,
+      "totalRounds": 134,
+      "roundWinPAfterFirstKill": 54.4,
+      "roundWinPAfterFirstDeath": 21.2
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 18,
+      "roundWinPAfterFirstKill": 90.9,
+      "roundWinPAfterFirstDeath": 42.9
+    }
+  }
+}

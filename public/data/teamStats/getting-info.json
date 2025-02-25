@@ -1,0 +1,720 @@
+{
+  "id": 13106,
+  "name": "Getting Info",
+  "overview": {
+    "mapsPlayed": 27,
+    "totalKills": 2088,
+    "totalDeaths": 1772,
+    "roundsPlayed": 554,
+    "kdRatio": 1.18,
+    "wins": 23,
+    "draws": 0,
+    "losses": 4
+  },
+  "matches": [
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_train",
+      "mapStatsId": 193123,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193121,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193073,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193069,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13177,
+        "name": "SUPER EVIL GANG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192987,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13177,
+        "name": "SUPER EVIL GANG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192983,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192677,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192673,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12483,
+        "name": "MIGHT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192625,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12483,
+        "name": "MIGHT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192623,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8274,
+        "name": "IEM Dallas 2025 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192111,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192094,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192079,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12611,
+        "name": "vagrants"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191677,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12611,
+        "name": "vagrants"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191676,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13107,
+        "name": "Chicken Coop"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191302,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13107,
+        "name": "Chicken Coop"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191295,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12968,
+        "name": "Alter Iron"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191092,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12968,
+        "name": "Alter Iron"
+      },
+      "map": "de_train",
+      "mapStatsId": 191091,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191055,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191044,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13111,
+        "name": "Aetheris"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190851,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 13111,
+        "name": "Aetheris"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190844,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12554,
+        "name": "regain"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190752,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12554,
+        "name": "regain"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190745,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12908,
+        "name": "Aether"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190429,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "team2": {
+        "id": 12908,
+        "name": "Aether"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190427,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 10892,
+      "name": "MarKE"
+    },
+    {
+      "id": 17918,
+      "name": "nosraC"
+    },
+    {
+      "id": 19710,
+      "name": "dare"
+    },
+    {
+      "id": 20692,
+      "name": "dea"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 12089,
+      "name": "vanity"
+    }
+  ],
+  "standins": [
+    {
+      "id": 24048,
+      "name": "slump"
+    },
+    {
+      "id": 9571,
+      "name": "cJ dA K1nG"
+    },
+    {
+      "id": 20564,
+      "name": "d4rty"
+    },
+    {
+      "id": 23671,
+      "name": "rayxts"
+    },
+    {
+      "id": 14619,
+      "name": "Infinite"
+    },
+    {
+      "id": 19709,
+      "name": "shane"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8361,
+        "name": "ACE North American Masters Spring 2025 - BLAST Premier Rising Event"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8274,
+        "name": "IEM Dallas 2025 North America Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 85.7,
+      "totalRounds": 148,
+      "roundWinPAfterFirstKill": 75.9,
+      "roundWinPAfterFirstDeath": 37.7
+    },
+    "de_mirage": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 83.3,
+      "totalRounds": 107,
+      "roundWinPAfterFirstKill": 73.3,
+      "roundWinPAfterFirstDeath": 46.8
+    },
+    "de_nuke": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 66.7,
+      "totalRounds": 145,
+      "roundWinPAfterFirstKill": 74.6,
+      "roundWinPAfterFirstDeath": 37.2
+    },
+    "de_dust2": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 75,
+      "roundWinPAfterFirstKill": 87,
+      "roundWinPAfterFirstDeath": 41.4
+    },
+    "de_train": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 36,
+      "roundWinPAfterFirstKill": 76.9,
+      "roundWinPAfterFirstDeath": 60
+    },
+    "de_anubis": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 43,
+      "roundWinPAfterFirstKill": 75,
+      "roundWinPAfterFirstDeath": 33.3
+    }
+  }
+}

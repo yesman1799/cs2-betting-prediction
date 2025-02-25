@@ -1,0 +1,1623 @@
+{
+  "id": 12828,
+  "name": "Imperial Valkyries",
+  "overview": {
+    "mapsPlayed": 69,
+    "totalKills": 5038,
+    "totalDeaths": 4543,
+    "roundsPlayed": 1407,
+    "kdRatio": 1.11,
+    "wins": 45,
+    "draws": 0,
+    "losses": 24
+  },
+  "matches": [
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_train",
+      "mapStatsId": 192816,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192814,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192733,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192730,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192668,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192665,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191403,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738191600000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191400,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191347,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191342,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 13121,
+        "name": "Eco Warriors"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190623,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 13121,
+        "name": "Eco Warriors"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190619,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 13121,
+        "name": "Eco Warriors"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190615,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 13121,
+        "name": "Eco Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190609,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 13121,
+        "name": "Eco Warriors"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190605,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12887,
+        "name": "OneDay fe"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190540,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12887,
+        "name": "OneDay fe"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190537,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 13119,
+        "name": "IDKName"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190523,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 13119,
+        "name": "IDKName"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190511,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190419,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190416,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8202,
+        "name": "Rainhas do Clutch FERJEE 2024 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10976,
+        "name": "FURIA fe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188958,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8202,
+        "name": "Rainhas do Clutch FERJEE 2024 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10976,
+        "name": "FURIA fe"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188956,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8202,
+        "name": "Rainhas do Clutch FERJEE 2024 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10976,
+        "name": "FURIA fe"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188953,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8202,
+        "name": "Rainhas do Clutch FERJEE 2024 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10976,
+        "name": "FURIA fe"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188907,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8202,
+        "name": "Rainhas do Clutch FERJEE 2024 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10976,
+        "name": "FURIA fe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188905,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8202,
+        "name": "Rainhas do Clutch FERJEE 2024 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10975,
+        "name": "MIBR fe"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188828,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8202,
+        "name": "Rainhas do Clutch FERJEE 2024 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10975,
+        "name": "MIBR fe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188825,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10976,
+        "name": "FURIA fe"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188626,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10976,
+        "name": "FURIA fe"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188624,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 10976,
+        "name": "FURIA fe"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188622,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188599,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188596,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188590,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12461,
+        "name": "Fluxo Demons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188479,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11675,
+        "name": "NAVI Javelins"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188448,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12808,
+        "name": "Crescent fe"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186556,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12808,
+        "name": "Crescent fe"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186550,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12777,
+        "name": "Permitta W"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185564,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12777,
+        "name": "Permitta W"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185556,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11997,
+        "name": "HSG fe"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184440,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11997,
+        "name": "HSG fe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184432,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11675,
+        "name": "NAVI Javelins"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184122,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11675,
+        "name": "NAVI Javelins"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184116,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11675,
+        "name": "NAVI Javelins"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184111,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11675,
+        "name": "NAVI Javelins"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184099,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12882,
+        "name": "dream catchers fe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184042,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12882,
+        "name": "dream catchers fe"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184033,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12882,
+        "name": "dream catchers fe"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184024,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11997,
+        "name": "HSG fe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184013,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11997,
+        "name": "HSG fe"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184002,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183762,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183754,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183750,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12882,
+        "name": "dream catchers fe"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183203,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12882,
+        "name": "dream catchers fe"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183192,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8002,
+        "name": "Betswap Fragster Summer Vibes FE 2024"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11917,
+        "name": "NIP Impact"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180617,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8002,
+        "name": "Betswap Fragster Summer Vibes FE 2024"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11917,
+        "name": "NIP Impact"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180613,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 8002,
+        "name": "Betswap Fragster Summer Vibes FE 2024"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11917,
+        "name": "NIP Impact"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180489,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 8002,
+        "name": "Betswap Fragster Summer Vibes FE 2024"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11917,
+        "name": "NIP Impact"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180480,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 8002,
+        "name": "Betswap Fragster Summer Vibes FE 2024"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11920,
+        "name": "Astralis W"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180437,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 8002,
+        "name": "Betswap Fragster Summer Vibes FE 2024"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11920,
+        "name": "Astralis W"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180430,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7566,
+        "name": "ESL Impact League Season 5 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12421,
+        "name": "Let Her Cook"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176833,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7566,
+        "name": "ESL Impact League Season 5 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12421,
+        "name": "Let Her Cook"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176830,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7566,
+        "name": "ESL Impact League Season 5 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12461,
+        "name": "Fluxo Demons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176816,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7566,
+        "name": "ESL Impact League Season 5 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12461,
+        "name": "Fluxo Demons"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176809,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7566,
+        "name": "ESL Impact League Season 5 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 12461,
+        "name": "Fluxo Demons"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176806,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7566,
+        "name": "ESL Impact League Season 5 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176663,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7566,
+        "name": "ESL Impact League Season 5 Finals"
+      },
+      "team1": {
+        "id": 12828,
+        "name": "Imperial Valkyries"
+      },
+      "team2": {
+        "id": 11997,
+        "name": "HSG fe"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176627,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 1646,
+      "name": "zAAz"
+    },
+    {
+      "id": 12758,
+      "name": "ANa"
+    },
+    {
+      "id": 16497,
+      "name": "tory"
+    },
+    {
+      "id": 18775,
+      "name": "twenty3"
+    },
+    {
+      "id": 21756,
+      "name": "Kat"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [
+    {
+      "id": 2799,
+      "name": "bubble"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 8043,
+        "name": "PGL Cluj-Napoca 2025"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8229,
+        "name": "IEM Katowice 2025 Play-in"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8306,
+        "name": "Tradeit League FE Masters Season 6"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8202,
+        "name": "Rainhas do Clutch FERJEE 2024 Finals"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7567,
+        "name": "ESL Impact League Season 6 Finals"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7930,
+        "name": "ESL Impact League Season 6 Europe"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8076,
+        "name": "Tradeit League FE Masters Season 5"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8002,
+        "name": "Betswap Fragster Summer Vibes FE 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7566,
+        "name": "ESL Impact League Season 5 Finals"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_mirage": {
+      "wins": 14,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 73.7,
+      "totalRounds": 390,
+      "roundWinPAfterFirstKill": 79.7,
+      "roundWinPAfterFirstDeath": 30.6
+    },
+    "de_ancient": {
+      "wins": 10,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 55.6,
+      "totalRounds": 351,
+      "roundWinPAfterFirstKill": 72.5,
+      "roundWinPAfterFirstDeath": 30.2
+    },
+    "de_inferno": {
+      "wins": 10,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 83.3,
+      "totalRounds": 252,
+      "roundWinPAfterFirstKill": 81,
+      "roundWinPAfterFirstDeath": 34.8
+    },
+    "de_dust2": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 63.6,
+      "totalRounds": 247,
+      "roundWinPAfterFirstKill": 75.4,
+      "roundWinPAfterFirstDeath": 30.3
+    },
+    "de_nuke": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 50,
+      "totalRounds": 152,
+      "roundWinPAfterFirstKill": 76.5,
+      "roundWinPAfterFirstDeath": 29.6
+    },
+    "de_train": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 15,
+      "roundWinPAfterFirstKill": 0,
+      "roundWinPAfterFirstDeath": 16.7
+    }
+  }
+}

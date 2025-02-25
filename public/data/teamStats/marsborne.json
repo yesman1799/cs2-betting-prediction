@@ -1,0 +1,920 @@
+{
+  "id": 13124,
+  "name": "Marsborne",
+  "overview": {
+    "mapsPlayed": 37,
+    "totalKills": 2720,
+    "totalDeaths": 2623,
+    "roundsPlayed": 794,
+    "kdRatio": 1.04,
+    "wins": 21,
+    "draws": 0,
+    "losses": 16
+  },
+  "matches": [
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193073,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193069,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192989,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192985,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8275,
+        "name": "IEM Dallas 2025 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192499,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8275,
+        "name": "IEM Dallas 2025 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192495,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8275,
+        "name": "IEM Dallas 2025 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192492,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8275,
+        "name": "IEM Dallas 2025 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192487,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8275,
+        "name": "IEM Dallas 2025 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192483,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192368,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192365,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192362,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13005,
+        "name": "MCS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192355,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13005,
+        "name": "MCS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192350,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192218,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192216,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192214,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8274,
+        "name": "IEM Dallas 2025 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192121,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8274,
+        "name": "IEM Dallas 2025 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192116,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8274,
+        "name": "IEM Dallas 2025 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13106,
+        "name": "Getting Info"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192111,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13005,
+        "name": "MCS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192089,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13005,
+        "name": "MCS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192075,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191881,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191879,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191878,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191630,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191628,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13112,
+        "name": "Bad News Capybaras"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191305,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13112,
+        "name": "Bad News Capybaras"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191297,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13111,
+        "name": "Aetheris"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191220,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13111,
+        "name": "Aetheris"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191213,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12968,
+        "name": "Alter Iron"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191048,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 12968,
+        "name": "Alter Iron"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191040,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190941,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190935,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13107,
+        "name": "Chicken Coop"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190857,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      },
+      "team1": {
+        "id": 13124,
+        "name": "Marsborne"
+      },
+      "team2": {
+        "id": 13107,
+        "name": "Chicken Coop"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190847,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 12937,
+      "name": "WolfY"
+    },
+    {
+      "id": 13230,
+      "name": "motm"
+    },
+    {
+      "id": 18710,
+      "name": "Minus"
+    },
+    {
+      "id": 19705,
+      "name": "chop"
+    },
+    {
+      "id": 22069,
+      "name": "Grizz"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [
+    {
+      "id": 7253,
+      "name": "steel"
+    },
+    {
+      "id": 20204,
+      "name": "BeaKie"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8303,
+        "name": "ESL Challenger League Season 49 North America"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8275,
+        "name": "IEM Dallas 2025 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8360,
+        "name": "ACE North American Masters Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8291,
+        "name": "CCT Season 2 North America Series 4"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8274,
+        "name": "IEM Dallas 2025 North America Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_dust2": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 40,
+      "totalRounds": 204,
+      "roundWinPAfterFirstKill": 71.7,
+      "roundWinPAfterFirstDeath": 28.6
+    },
+    "de_ancient": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 57.1,
+      "totalRounds": 153,
+      "roundWinPAfterFirstKill": 73.3,
+      "roundWinPAfterFirstDeath": 37.2
+    },
+    "de_anubis": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 57.1,
+      "totalRounds": 138,
+      "roundWinPAfterFirstKill": 70.3,
+      "roundWinPAfterFirstDeath": 39.2
+    },
+    "de_inferno": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 66.7,
+      "totalRounds": 129,
+      "roundWinPAfterFirstKill": 71,
+      "roundWinPAfterFirstDeath": 40
+    },
+    "de_nuke": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 60,
+      "totalRounds": 124,
+      "roundWinPAfterFirstKill": 73,
+      "roundWinPAfterFirstDeath": 32.8
+    },
+    "de_mirage": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 46,
+      "roundWinPAfterFirstKill": 76.2,
+      "roundWinPAfterFirstDeath": 40
+    }
+  }
+}

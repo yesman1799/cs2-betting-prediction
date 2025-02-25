@@ -1,0 +1,7435 @@
+{
+  "id": 12380,
+  "name": "CYBERSHOKE",
+  "overview": {
+    "mapsPlayed": 332,
+    "totalKills": 24782,
+    "totalDeaths": 23647,
+    "roundsPlayed": 7308,
+    "kdRatio": 1.05,
+    "wins": 161,
+    "draws": 0,
+    "losses": 171
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193518,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193515,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_train",
+      "mapStatsId": 193507,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193240,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193235,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193232,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13181,
+        "name": "BASEMENT BOYS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193198,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4602,
+        "name": "Tricked"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193194,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4602,
+        "name": "Tricked"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193188,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13184,
+        "name": "WildLotus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193182,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13184,
+        "name": "WildLotus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193175,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13184,
+        "name": "WildLotus"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193165,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193156,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193137,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193133,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192975,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192973,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192964,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192944,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192935,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 192932,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192914,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192911,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13174,
+        "name": "PLUSH"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192907,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13174,
+        "name": "PLUSH"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192890,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13174,
+        "name": "PLUSH"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192881,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13155,
+        "name": "Little Red Door"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192869,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192857,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192854,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192851,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192817,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192815,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739660400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192810,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192638,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739487600000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 13105,
+        "name": "ALASKA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192636,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192524,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192520,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192515,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192511,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192397,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_train",
+      "mapStatsId": 192392,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192383,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192048,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192040,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192030,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191898,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191893,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191834,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191826,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191822,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191191,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191181,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191103,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191100,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191005,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190991,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190989,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190912,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190901,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190870,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190865,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190861,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190736,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190733,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190686,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_train",
+      "mapStatsId": 190681,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1737327600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190676,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190589,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190585,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190581,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190553,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190544,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190538,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190328,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190322,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190282,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190274,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190270,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189745,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189741,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189736,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189663,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189659,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189597,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189593,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189586,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189506,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189499,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189492,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189467,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189463,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189459,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189430,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189428,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189285,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189283,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189162,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189157,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189147,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189139,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189131,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189054,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189053,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189004,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189001,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733094000000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188998,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188888,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188881,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188826,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188818,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1732834800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188814,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187232,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187226,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187223,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187179,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730242800000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187175,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729288800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186618,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729288800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186611,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186360,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186357,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186230,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186225,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186221,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186159,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186152,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186139,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186136,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728338400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186012,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728338400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186010,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185871,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185863,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185858,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185791,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185782,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185776,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185727,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185724,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185547,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185543,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12889,
+        "name": "G2 Ares"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185537,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12889,
+        "name": "G2 Ares"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185532,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185455,
+      "result": {
+        "team1": 18,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185448,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185385,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185379,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185377,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185365,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185358,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185354,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185319,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185314,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185189,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185185,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185173,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185062,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185060,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185052,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184861,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184851,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184686,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184683,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184658,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184655,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184651,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184584,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184581,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184576,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184529,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184527,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184456,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184449,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184442,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184422,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184414,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184334,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184326,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184324,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184215,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184211,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184209,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184206,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184202,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184197,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184191,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184186,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184182,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184146,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184144,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725919200000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183650,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725919200000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183641,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183544,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183539,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183533,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183521,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183515,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183513,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183431,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725660000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183422,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183366,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183360,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183337,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183334,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183332,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183254,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183248,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183239,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183072,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183069,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183038,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183035,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182977,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182970,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182914,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182912,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182789,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182778,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182587,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182578,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182518,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182515,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182400,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182386,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182345,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182341,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182330,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181699,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181697,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181694,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181621,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181616,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181572,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181571,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181566,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181504,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181500,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181496,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1723586400000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181457,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1723586400000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181453,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723586400000,
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181448,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1723240800000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181131,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723240800000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181128,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180958,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180953,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180764,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180756,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180748,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180465,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180456,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180093,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180086,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180043,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180039,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180030,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180027,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180020,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179997,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179992,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179851,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179846,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179727,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179722,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179289,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179281,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179271,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179119,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179113,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178916,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178910,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178906,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7898,
+        "name": "CCT Season 2 Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178265,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7898,
+        "name": "CCT Season 2 Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178262,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718229600000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177932,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718229600000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177931,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718143200000,
+      "event": {
+        "id": 7898,
+        "name": "CCT Season 2 Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12670,
+        "name": "LEON"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177872,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1718143200000,
+      "event": {
+        "id": 7898,
+        "name": "CCT Season 2 Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12670,
+        "name": "LEON"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177867,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7898,
+        "name": "CCT Season 2 Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177806,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7898,
+        "name": "CCT Season 2 Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177804,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7898,
+        "name": "CCT Season 2 Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177801,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177749,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177744,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177650,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177641,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177420,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177417,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177414,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177292,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177285,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177155,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177147,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177137,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177078,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177063,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176960,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176953,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176944,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176938,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12805,
+        "name": "Grannys Knockers"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176859,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12805,
+        "name": "Grannys Knockers"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176857,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7851,
+        "name": "CCT Season 2 Europe Series 5 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12779,
+        "name": "EXO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176741,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7851,
+        "name": "CCT Season 2 Europe Series 5 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12779,
+        "name": "EXO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176734,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7851,
+        "name": "CCT Season 2 Europe Series 5 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12779,
+        "name": "EXO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176728,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176628,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176620,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176617,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716847200000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176456,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716847200000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176449,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7815,
+        "name": "CCT Season 2 Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175182,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7815,
+        "name": "CCT Season 2 Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175172,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172088,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172084,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1710457200000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172080,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12705,
+        "name": "ex-ENEIDA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171791,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1710111600000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12705,
+        "name": "ex-ENEIDA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171784,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171730,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171724,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171718,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171445,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171436,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1704841200000,
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168611,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696543200000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11889,
+        "name": "Forward"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163979,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696543200000,
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11889,
+        "name": "Forward"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 163975,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696370400000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163814,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1696370400000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163811,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696284000000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163780,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696284000000,
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 163778,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163381,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 163380,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163379,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7344,
+        "name": "PARI Dunav Party 2023"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 161708,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7344,
+        "name": "PARI Dunav Party 2023"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161702,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7344,
+        "name": "PARI Dunav Party 2023"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161668,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7344,
+        "name": "PARI Dunav Party 2023"
+      },
+      "team1": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 161657,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 17508,
+      "name": "glowiing"
+    },
+    {
+      "id": 20948,
+      "name": "lov1kus"
+    },
+    {
+      "id": 21710,
+      "name": "notineki"
+    },
+    {
+      "id": 22803,
+      "name": "bl1x1"
+    },
+    {
+      "id": 22879,
+      "name": "FenomeN"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 19962,
+      "name": "Re1GN"
+    },
+    {
+      "id": 21706,
+      "name": "fen2k"
+    },
+    {
+      "id": 7594,
+      "name": "flamie"
+    },
+    {
+      "id": 22460,
+      "name": "riskyb0b"
+    },
+    {
+      "id": 22459,
+      "name": "sh1nejezzz"
+    },
+    {
+      "id": 23048,
+      "name": "kelieN"
+    },
+    {
+      "id": 21431,
+      "name": "sstiNiX"
+    },
+    {
+      "id": 21362,
+      "name": "TruNiQ"
+    },
+    {
+      "id": 24286,
+      "name": "levantino"
+    }
+  ],
+  "standins": [
+    {
+      "id": 22535,
+      "name": "dwushka"
+    },
+    {
+      "id": 12241,
+      "name": "Flash_1"
+    },
+    {
+      "id": 19673,
+      "name": "Patsi"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8283,
+        "name": "YaLLa Compass Winter 2025"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8345,
+        "name": "CCT Season 2 Europe Series 18"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8272,
+        "name": "IEM Dallas 2025 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "20-22nd",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      }
+    },
+    {
+      "place": "20-22nd",
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      }
+    },
+    {
+      "place": "16-18th",
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      }
+    },
+    {
+      "place": "21-24th",
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8011,
+        "name": "CCT Season 2 Europe Series 9"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      }
+    },
+    {
+      "place": "17-20th",
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7898,
+        "name": "CCT Season 2 Europe Series 6 Closed Qualifier"
+      }
+    },
+    {
+      "place": "23-24th",
+      "event": {
+        "id": 7852,
+        "name": "CCT Season 2 Europe Series 5"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7851,
+        "name": "CCT Season 2 Europe Series 5 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7815,
+        "name": "CCT Season 2 Europe Series 3 Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7456,
+        "name": "Winline Insight Season 4"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7452,
+        "name": "CCT East Europe Series 3 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7442,
+        "name": "HardPlay Cup 7"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7344,
+        "name": "PARI Dunav Party 2023"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 56,
+      "draws": 0,
+      "losses": 37,
+      "winRate": 60.2,
+      "totalRounds": 2067,
+      "roundWinPAfterFirstKill": 72.2,
+      "roundWinPAfterFirstDeath": 31.5
+    },
+    "de_ancient": {
+      "wins": 38,
+      "draws": 0,
+      "losses": 32,
+      "winRate": 54.3,
+      "totalRounds": 1582,
+      "roundWinPAfterFirstKill": 73.5,
+      "roundWinPAfterFirstDeath": 28
+    },
+    "de_mirage": {
+      "wins": 29,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 61.7,
+      "totalRounds": 1050,
+      "roundWinPAfterFirstKill": 74.7,
+      "roundWinPAfterFirstDeath": 31.5
+    },
+    "de_vertigo": {
+      "wins": 12,
+      "draws": 0,
+      "losses": 27,
+      "winRate": 30.8,
+      "totalRounds": 856,
+      "roundWinPAfterFirstKill": 65,
+      "roundWinPAfterFirstDeath": 25.6
+    },
+    "de_dust2": {
+      "wins": 12,
+      "draws": 0,
+      "losses": 22,
+      "winRate": 35.3,
+      "totalRounds": 687,
+      "roundWinPAfterFirstKill": 67.4,
+      "roundWinPAfterFirstDeath": 26
+    },
+    "de_inferno": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 19,
+      "winRate": 32.1,
+      "totalRounds": 605,
+      "roundWinPAfterFirstKill": 69.9,
+      "roundWinPAfterFirstDeath": 28.2
+    },
+    "de_nuke": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 11,
+      "winRate": 21.4,
+      "totalRounds": 285,
+      "roundWinPAfterFirstKill": 62.4,
+      "roundWinPAfterFirstDeath": 19.9
+    },
+    "de_train": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 50,
+      "totalRounds": 109,
+      "roundWinPAfterFirstKill": 70.2,
+      "roundWinPAfterFirstDeath": 30.8
+    },
+    "de_overpass": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 0,
+      "totalRounds": 67,
+      "roundWinPAfterFirstKill": 63.6,
+      "roundWinPAfterFirstDeath": 17.8
+    }
+  }
+}

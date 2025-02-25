@@ -1,0 +1,1170 @@
+{
+  "id": 13104,
+  "name": "Iberian Soul",
+  "overview": {
+    "mapsPlayed": 49,
+    "totalKills": 3708,
+    "totalDeaths": 3834,
+    "roundsPlayed": 1123,
+    "kdRatio": 0.97,
+    "wins": 21,
+    "draws": 0,
+    "losses": 28
+  },
+  "matches": [
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193454,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193453,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193446,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8397,
+        "name": "CCT Season 2 Europe Series 20 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193433,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8397,
+        "name": "CCT Season 2 Europe Series 20 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193424,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193307,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193294,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193098,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193096,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 193090,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193054,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193051,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193039,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_train",
+      "mapStatsId": 193029,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193024,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192174,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192167,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192164,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192001,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191989,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191981,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191647,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191642,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191638,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_train",
+      "mapStatsId": 191272,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191268,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191259,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191246,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191242,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191120,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_train",
+      "mapStatsId": 191117,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191113,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 191069,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191066,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191058,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191056,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191003,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190996,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190983,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_train",
+      "mapStatsId": 190977,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190958,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190826,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_train",
+      "mapStatsId": 190821,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190815,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190803,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190792,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_train",
+      "mapStatsId": 190782,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190730,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 190729,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 8371,
+      "name": "alex"
+    },
+    {
+      "id": 9254,
+      "name": "mopoz"
+    },
+    {
+      "id": 11205,
+      "name": "stadodo"
+    },
+    {
+      "id": 18749,
+      "name": "sausol"
+    },
+    {
+      "id": 19509,
+      "name": "dav1g"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8397,
+        "name": "CCT Season 2 Europe Series 20 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_nuke": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 60,
+      "totalRounds": 275,
+      "roundWinPAfterFirstKill": 73,
+      "roundWinPAfterFirstDeath": 27.6
+    },
+    "de_ancient": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 40,
+      "totalRounds": 204,
+      "roundWinPAfterFirstKill": 71,
+      "roundWinPAfterFirstDeath": 25
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 11.1,
+      "totalRounds": 192,
+      "roundWinPAfterFirstKill": 60.9,
+      "roundWinPAfterFirstDeath": 22
+    },
+    "de_inferno": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 50,
+      "totalRounds": 190,
+      "roundWinPAfterFirstKill": 69.2,
+      "roundWinPAfterFirstDeath": 32.6
+    },
+    "de_mirage": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 33.3,
+      "totalRounds": 119,
+      "roundWinPAfterFirstKill": 75,
+      "roundWinPAfterFirstDeath": 13.6
+    },
+    "de_anubis": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 66.7,
+      "totalRounds": 143,
+      "roundWinPAfterFirstKill": 78,
+      "roundWinPAfterFirstDeath": 39.3
+    }
+  }
+}

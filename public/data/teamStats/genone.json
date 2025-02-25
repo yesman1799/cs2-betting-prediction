@@ -1,0 +1,6951 @@
+{
+  "id": 11609,
+  "name": "GenOne",
+  "overview": {
+    "mapsPlayed": 304,
+    "totalKills": 23913,
+    "totalDeaths": 24471,
+    "roundsPlayed": 7246,
+    "kdRatio": 0.98,
+    "wins": 137,
+    "draws": 0,
+    "losses": 167
+  },
+  "matches": [
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193429,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193423,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193421,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193413,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193405,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193397,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193310,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193296,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193290,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193285,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193282,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193128,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12087,
+        "name": "Lazer Cats"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193126,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193027,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193023,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193022,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192889,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192883,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192873,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191710,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191704,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191689,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191682,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191633,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191631,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191583,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191582,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191580,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191490,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191484,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191365,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13118,
+        "name": "Adventurers"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191362,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191115,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191109,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191104,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190783,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190781,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190612,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190606,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190533,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190524,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190513,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190506,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190501,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190455,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190450,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190447,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190443,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190439,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190410,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190407,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190404,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190400,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190391,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190386,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190385,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190382,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190343,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190336,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190332,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190275,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190272,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190268,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190174,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190173,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190169,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1736377200000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190140,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1736377200000,
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 190139,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736204400000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190122,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736204400000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190121,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1735945200000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190096,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1735945200000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190095,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12459,
+        "name": "Wu-Tang"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190070,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1766962800000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12459,
+        "name": "Wu-Tang"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190067,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13092,
+        "name": "BadGuys"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190055,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13092,
+        "name": "BadGuys"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190054,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13092,
+        "name": "BadGuys"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190053,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189416,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189414,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189146,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189136,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189109,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189107,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189084,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189083,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733266800000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189077,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13027,
+        "name": "Nuclear TigeRES"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189066,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 13027,
+        "name": "Nuclear TigeRES"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189062,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189035,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189032,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188928,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733007600000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188926,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188887,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188882,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188876,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188868,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188863,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188858,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188760,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188757,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188755,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12847,
+        "name": "Kubix"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188701,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12847,
+        "name": "Kubix"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188694,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1732575600000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12847,
+        "name": "Kubix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188690,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188617,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188616,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732402800000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188605,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188534,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188529,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188206,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188198,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188196,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188186,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188185,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188184,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188159,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188149,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188122,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188117,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188113,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188088,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188083,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188078,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188034,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188033,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188014,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188010,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188003,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187842,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187830,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187825,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731193200000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187793,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731193200000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187790,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1731193200000,
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187787,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186868,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186863,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12522,
+        "name": "Heimo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186832,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729720800000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12522,
+        "name": "Heimo"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186828,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186815,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186810,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186807,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729461600000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186750,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1729461600000,
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186746,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184580,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184484,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184483,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184391,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184389,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182822,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182815,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182804,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182782,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182769,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181815,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181811,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181785,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181779,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181772,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181652,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181645,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181627,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179536,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179531,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179384,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179380,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179371,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12805,
+        "name": "Grannys Knockers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179244,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12805,
+        "name": "Grannys Knockers"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179240,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12805,
+        "name": "Grannys Knockers"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179235,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7820,
+        "name": "La Coupe 5 Paris 2024"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12816,
+        "name": "Over30"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175869,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7820,
+        "name": "La Coupe 5 Paris 2024"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12816,
+        "name": "Over30"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175859,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7820,
+        "name": "La Coupe 5 Paris 2024"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12815,
+        "name": "11 minutos tarde"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175850,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7820,
+        "name": "La Coupe 5 Paris 2024"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12815,
+        "name": "11 minutos tarde"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175844,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7820,
+        "name": "La Coupe 5 Paris 2024"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12815,
+        "name": "11 minutos tarde"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175842,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167749,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167746,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167743,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12372,
+        "name": "eHawks"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167686,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12372,
+        "name": "eHawks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167676,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12372,
+        "name": "eHawks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167664,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7533,
+        "name": "ESEA Autumn 2023 Cash Cup 5 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 167006,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7533,
+        "name": "ESEA Autumn 2023 Cash Cup 5 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167003,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7533,
+        "name": "ESEA Autumn 2023 Cash Cup 5 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11999,
+        "name": "Grindas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166994,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7533,
+        "name": "ESEA Autumn 2023 Cash Cup 5 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11999,
+        "name": "Grindas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166993,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7533,
+        "name": "ESEA Autumn 2023 Cash Cup 5 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11999,
+        "name": "Grindas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166980,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166823,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166820,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166711,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166361,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166358,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166356,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698357600000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165283,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698357600000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 165274,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698271200000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 165210,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1698271200000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165208,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 165094,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 165084,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165075,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698098400000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164972,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1698098400000,
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164967,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1696024800000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 163687,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696024800000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163682,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695938400000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163650,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1695938400000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 163646,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1695765600000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163536,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1695765600000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 163529,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695592800000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11893,
+        "name": "SD Invicta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163485,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1695592800000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11893,
+        "name": "SD Invicta"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 163480,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1695592800000,
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11893,
+        "name": "SD Invicta"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 163473,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163367,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163365,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163355,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695333600000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163278,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695333600000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163276,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695160800000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163137,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695160800000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 163130,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695160800000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163126,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1694988000000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10854,
+        "name": "los kogutos"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163042,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1694988000000,
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10854,
+        "name": "los kogutos"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163037,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1694210400000,
+      "event": {
+        "id": 7369,
+        "name": "RES Western European Masters Fall 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162421,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694210400000,
+      "event": {
+        "id": 7369,
+        "name": "RES Western European Masters Fall 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 162404,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694210400000,
+      "event": {
+        "id": 7369,
+        "name": "RES Western European Masters Fall 2023 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162398,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1694210400000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162393,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694210400000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162383,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694210400000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 162378,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1678057200000,
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152687,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678057200000,
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152683,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678057200000,
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12175,
+        "name": "n00rg"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152669,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1678057200000,
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12175,
+        "name": "n00rg"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152666,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1678057200000,
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12175,
+        "name": "n00rg"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 152661,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1677970800000,
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 152629,
+      "result": {
+        "team1": 2,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677970800000,
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152625,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1677970800000,
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8068,
+        "name": "AGO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 152618,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677452400000,
+      "event": {
+        "id": 7095,
+        "name": "CCT North Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 152258,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1677452400000,
+      "event": {
+        "id": 7095,
+        "name": "CCT North Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152251,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1677452400000,
+      "event": {
+        "id": 7095,
+        "name": "CCT North Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152245,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1677452400000,
+      "event": {
+        "id": 7095,
+        "name": "CCT North Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 152241,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7095,
+        "name": "CCT North Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 152184,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7095,
+        "name": "CCT North Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 152174,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1677366000000,
+      "event": {
+        "id": 7095,
+        "name": "CCT North Europe Series 4 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 152164,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1676847600000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11026,
+        "name": "VOYVODA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 151726,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1676847600000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11026,
+        "name": "VOYVODA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 151718,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1676761200000,
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 151645,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1676415600000,
+      "event": {
+        "id": 7032,
+        "name": "BLAST.tv Paris Major 2023 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12099,
+        "name": "Mixfits"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 151180,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1676415600000,
+      "event": {
+        "id": 7032,
+        "name": "BLAST.tv Paris Major 2023 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12099,
+        "name": "Mixfits"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 151166,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1676415600000,
+      "event": {
+        "id": 7032,
+        "name": "BLAST.tv Paris Major 2023 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12099,
+        "name": "Mixfits"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 151153,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1675119600000,
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 150284,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1675119600000,
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 150280,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674946800000,
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10737,
+        "name": "HONORIS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 150182,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1674946800000,
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10737,
+        "name": "HONORIS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 150178,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1674774000000,
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 150060,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674774000000,
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 150056,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674687600000,
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12117,
+        "name": "Let us cook"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 149955,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674687600000,
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12117,
+        "name": "Let us cook"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149952,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674428400000,
+      "event": {
+        "id": 7011,
+        "name": "CCT North Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 149777,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1674428400000,
+      "event": {
+        "id": 7011,
+        "name": "CCT North Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 149773,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1674255600000,
+      "event": {
+        "id": 7011,
+        "name": "CCT North Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 149623,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1674255600000,
+      "event": {
+        "id": 7011,
+        "name": "CCT North Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 149618,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1674255600000,
+      "event": {
+        "id": 7011,
+        "name": "CCT North Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149614,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1674255600000,
+      "event": {
+        "id": 7011,
+        "name": "CCT North Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12027,
+        "name": "Goodfellas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 149595,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1674255600000,
+      "event": {
+        "id": 7011,
+        "name": "CCT North Europe Series 3 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12027,
+        "name": "Goodfellas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 149592,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1670713200000,
+      "event": {
+        "id": 6937,
+        "name": "WhiteBIT Community Clash by FACEIT 2022 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12054,
+        "name": "WINDINGO Community"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148555,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1670713200000,
+      "event": {
+        "id": 6937,
+        "name": "WhiteBIT Community Clash by FACEIT 2022 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12054,
+        "name": "WINDINGO Community"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 148550,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1670626800000,
+      "event": {
+        "id": 6926,
+        "name": "Thunderpick Bitcoin Series 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 148493,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670626800000,
+      "event": {
+        "id": 6926,
+        "name": "Thunderpick Bitcoin Series 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 148481,
+      "result": {
+        "team1": 31,
+        "team2": 34
+      }
+    },
+    {
+      "date": 1670626800000,
+      "event": {
+        "id": 6937,
+        "name": "WhiteBIT Community Clash by FACEIT 2022 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12056,
+        "name": "Blade Community"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148456,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670626800000,
+      "event": {
+        "id": 6937,
+        "name": "WhiteBIT Community Clash by FACEIT 2022 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12056,
+        "name": "Blade Community"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148453,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1670367600000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10737,
+        "name": "HONORIS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 148247,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670367600000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10737,
+        "name": "HONORIS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 148239,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1670367600000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10737,
+        "name": "HONORIS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148227,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670281200000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148135,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670281200000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148116,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670281200000,
+      "event": {
+        "id": 6926,
+        "name": "Thunderpick Bitcoin Series 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 148067,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1670108400000,
+      "event": {
+        "id": 6926,
+        "name": "Thunderpick Bitcoin Series 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 147973,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1669590000000,
+      "event": {
+        "id": 6926,
+        "name": "Thunderpick Bitcoin Series 2"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4602,
+        "name": "Tricked"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 147775,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1668985200000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 147030,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1668985200000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 147028,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1668985200000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 147027,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1668898800000,
+      "event": {
+        "id": 6892,
+        "name": "La Coupe 3 Paris 2022"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12029,
+        "name": "Prodigy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 146999,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1668898800000,
+      "event": {
+        "id": 6892,
+        "name": "La Coupe 3 Paris 2022"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12029,
+        "name": "Prodigy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 146993,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1668898800000,
+      "event": {
+        "id": 6892,
+        "name": "La Coupe 3 Paris 2022"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12028,
+        "name": "The Prodigies"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 146976,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1668898800000,
+      "event": {
+        "id": 6892,
+        "name": "La Coupe 3 Paris 2022"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 12028,
+        "name": "The Prodigies"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 146971,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1668726000000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 146905,
+      "result": {
+        "team1": 16,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1668726000000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 146901,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1668639600000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 146876,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1668639600000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 146869,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1668639600000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 146860,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1668639600000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 146852,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1668639600000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 146847,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1668639600000,
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 146842,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1667689200000,
+      "event": {
+        "id": 6877,
+        "name": "NumberOne Season 3 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10999,
+        "name": "EC Brugge"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 146618,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1667689200000,
+      "event": {
+        "id": 6877,
+        "name": "NumberOne Season 3 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10999,
+        "name": "EC Brugge"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 146613,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1667689200000,
+      "event": {
+        "id": 6877,
+        "name": "NumberOne Season 3 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4674,
+        "name": "LDLC"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 146596,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1667689200000,
+      "event": {
+        "id": 6877,
+        "name": "NumberOne Season 3 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4674,
+        "name": "LDLC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 146588,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1667689200000,
+      "event": {
+        "id": 6877,
+        "name": "NumberOne Season 3 Finals"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4674,
+        "name": "LDLC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 146583,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1666648800000,
+      "event": {
+        "id": 6856,
+        "name": "ESL National Championship France Autumn 2022"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 146179,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1666648800000,
+      "event": {
+        "id": 6856,
+        "name": "ESL National Championship France Autumn 2022"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 146176,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1665871200000,
+      "event": {
+        "id": 6847,
+        "name": "ESEA Autumn 2022 Cash Cup 2 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11881,
+        "name": "163ON"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 145624,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1665871200000,
+      "event": {
+        "id": 6847,
+        "name": "ESEA Autumn 2022 Cash Cup 2 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11881,
+        "name": "163ON"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 145617,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1665871200000,
+      "event": {
+        "id": 6847,
+        "name": "ESEA Autumn 2022 Cash Cup 2 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 11881,
+        "name": "163ON"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 145608,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1665871200000,
+      "event": {
+        "id": 6847,
+        "name": "ESEA Autumn 2022 Cash Cup 2 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10737,
+        "name": "HONORIS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 145597,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1665871200000,
+      "event": {
+        "id": 6847,
+        "name": "ESEA Autumn 2022 Cash Cup 2 Europe"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 10737,
+        "name": "HONORIS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 145591,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1647126000000,
+      "event": {
+        "id": 6448,
+        "name": "FantasyExpo EU Champions Spring 2022 France Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4674,
+        "name": "LDLC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 135194,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1647126000000,
+      "event": {
+        "id": 6448,
+        "name": "FantasyExpo EU Champions Spring 2022 France Closed Qualifier"
+      },
+      "team1": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "team2": {
+        "id": 4674,
+        "name": "LDLC"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 135190,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 284,
+      "name": "JACKZ"
+    },
+    {
+      "id": 10569,
+      "name": "devoduvek"
+    },
+    {
+      "id": 19742,
+      "name": "drac"
+    },
+    {
+      "id": 20482,
+      "name": "Kursy"
+    },
+    {
+      "id": 21971,
+      "name": "Brooxsy"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 21968,
+      "name": "unshaark"
+    },
+    {
+      "id": 21523,
+      "name": "Razzmo"
+    },
+    {
+      "id": 9616,
+      "name": "AMANEK"
+    },
+    {
+      "id": 21969,
+      "name": "Graviti"
+    },
+    {
+      "id": 20066,
+      "name": "aidKiT"
+    },
+    {
+      "id": 18163,
+      "name": "Bibu"
+    },
+    {
+      "id": 19207,
+      "name": "EIZA"
+    },
+    {
+      "id": 16938,
+      "name": "Sterzig"
+    },
+    {
+      "id": 20289,
+      "name": "DGL"
+    },
+    {
+      "id": 19104,
+      "name": "jeyN"
+    },
+    {
+      "id": 21966,
+      "name": "NeOo"
+    },
+    {
+      "id": 147,
+      "name": "SIXER"
+    },
+    {
+      "id": 18731,
+      "name": "wasiNk"
+    },
+    {
+      "id": 20306,
+      "name": "Nono2K"
+    },
+    {
+      "id": 10732,
+      "name": "nonick"
+    },
+    {
+      "id": 20660,
+      "name": "Revol"
+    },
+    {
+      "id": 21967,
+      "name": "Tarkky"
+    },
+    {
+      "id": 19937,
+      "name": "Diviiii"
+    },
+    {
+      "id": 21970,
+      "name": "ElectuS"
+    },
+    {
+      "id": 21972,
+      "name": "Neityu"
+    }
+  ],
+  "standins": [
+    {
+      "id": 12290,
+      "name": "PerX"
+    },
+    {
+      "id": 24533,
+      "name": "MaThZ"
+    },
+    {
+      "id": 19672,
+      "name": "Kyojin"
+    },
+    {
+      "id": 19738,
+      "name": "Djoko"
+    },
+    {
+      "id": 8101,
+      "name": "KRL"
+    },
+    {
+      "id": 18671,
+      "name": "Get_Jeka"
+    },
+    {
+      "id": 19890,
+      "name": "Gringo"
+    },
+    {
+      "id": 20477,
+      "name": "HippoV"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8394,
+        "name": "United21 League Season 27"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8392,
+        "name": "European Pro League 2nd Division Season 20"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8338,
+        "name": "Exort Series 7"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8287,
+        "name": "European Pro League 2nd Division Season 19"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8286,
+        "name": "United21 League Season 25"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8259,
+        "name": " Frost and Fire Europe Season 1"
+      }
+    },
+    {
+      "place": "3-5th",
+      "event": {
+        "id": 8258,
+        "name": "Frost and Fire Europe Season 1 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8201,
+        "name": "United21 League Season 23"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8195,
+        "name": "European Pro League 2nd Division Season 17"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8168,
+        "name": "United21 League Season 22"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8137,
+        "name": "United21 League Season 21"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8085,
+        "name": "CCT Season 2 Europe Series 13 Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7964,
+        "name": "ESL Challenger Atlanta 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7955,
+        "name": "CCT Season 2 Europe Series 7 Closed Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7820,
+        "name": "La Coupe 5 Paris 2024"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7572,
+        "name": "ESEA Advanced Season 47 Europe"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7533,
+        "name": "ESEA Autumn 2023 Cash Cup 5 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7489,
+        "name": "CCT Central Europe Series 8 Closed Qualifier"
+      }
+    },
+    {
+      "place": "20-22nd",
+      "event": {
+        "id": 7383,
+        "name": "CCT North Europe Series 8"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7385,
+        "name": "ESEA Advanced Season 46 Europe"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7369,
+        "name": "RES Western European Masters Fall 2023 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7104,
+        "name": "CCT West Europe Series 2 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7095,
+        "name": "CCT North Europe Series 4 Closed Qualifier"
+      }
+    },
+    {
+      "place": "20-23rd",
+      "event": {
+        "id": 7034,
+        "name": "European Development Championship 7"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7032,
+        "name": "BLAST.tv Paris Major 2023 Europe RMR Open Qualifier 2"
+      }
+    },
+    {
+      "place": "22-24th",
+      "event": {
+        "id": 6926,
+        "name": "Thunderpick Bitcoin Series 2"
+      }
+    },
+    {
+      "place": "20-22nd",
+      "event": {
+        "id": 6984,
+        "name": "CCT North Europe Series 3"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7011,
+        "name": "CCT North Europe Series 3 Closed Qualifier"
+      }
+    },
+    {
+      "place": "25-32nd",
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6937,
+        "name": "WhiteBIT Community Clash by FACEIT 2022 Finals"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 6884,
+        "name": "CCT North Europe Series 2 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6892,
+        "name": "La Coupe 3 Paris 2022"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6877,
+        "name": "NumberOne Season 3 Finals"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 6856,
+        "name": "ESL National Championship France Autumn 2022"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 6847,
+        "name": "ESEA Autumn 2022 Cash Cup 2 Europe"
+      }
+    },
+    {
+      "place": "6-7th",
+      "event": {
+        "id": 6448,
+        "name": "FantasyExpo EU Champions Spring 2022 France Closed Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 30,
+      "draws": 0,
+      "losses": 36,
+      "winRate": 45.5,
+      "totalRounds": 1649,
+      "roundWinPAfterFirstKill": 72.1,
+      "roundWinPAfterFirstDeath": 29.3
+    },
+    "de_ancient": {
+      "wins": 18,
+      "draws": 0,
+      "losses": 39,
+      "winRate": 31.6,
+      "totalRounds": 1258,
+      "roundWinPAfterFirstKill": 67,
+      "roundWinPAfterFirstDeath": 23.8
+    },
+    "de_nuke": {
+      "wins": 29,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 52.7,
+      "totalRounds": 1257,
+      "roundWinPAfterFirstKill": 70.8,
+      "roundWinPAfterFirstDeath": 28.5
+    },
+    "de_inferno": {
+      "wins": 26,
+      "draws": 0,
+      "losses": 21,
+      "winRate": 55.3,
+      "totalRounds": 1156,
+      "roundWinPAfterFirstKill": 69.5,
+      "roundWinPAfterFirstDeath": 32.8
+    },
+    "de_dust2": {
+      "wins": 19,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 54.3,
+      "totalRounds": 858,
+      "roundWinPAfterFirstKill": 72.5,
+      "roundWinPAfterFirstDeath": 31.4
+    },
+    "de_vertigo": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 15,
+      "winRate": 28.6,
+      "totalRounds": 498,
+      "roundWinPAfterFirstKill": 64.2,
+      "roundWinPAfterFirstDeath": 24.4
+    },
+    "de_overpass": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 46.7,
+      "totalRounds": 381,
+      "roundWinPAfterFirstKill": 74.3,
+      "roundWinPAfterFirstDeath": 29.1
+    },
+    "de_mirage": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 25,
+      "totalRounds": 189,
+      "roundWinPAfterFirstKill": 64.9,
+      "roundWinPAfterFirstDeath": 29.5
+    }
+  }
+}

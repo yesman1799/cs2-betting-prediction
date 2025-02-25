@@ -1,0 +1,8220 @@
+{
+  "id": 12474,
+  "name": "Alliance",
+  "overview": {
+    "mapsPlayed": 365,
+    "totalKills": 26112,
+    "totalDeaths": 26799,
+    "roundsPlayed": 7995,
+    "kdRatio": 0.97,
+    "wins": 171,
+    "draws": 0,
+    "losses": 194
+  },
+  "matches": [
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13192,
+        "name": "Roler Coaster"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193334,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13192,
+        "name": "Roler Coaster"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193329,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11458,
+        "name": "Eternal Fire Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193321,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193307,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193294,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193111,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193109,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193055,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193049,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 193037,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192546,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_train",
+      "mapStatsId": 192542,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192181,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192176,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192012,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192002,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191898,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191893,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191860,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191849,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191802,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_train",
+      "mapStatsId": 191796,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191740,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191734,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191726,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191689,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191682,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191664,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191659,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191644,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191640,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738623600000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191635,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191581,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191579,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191551,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191546,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738450800000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191540,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191489,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191485,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191480,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738278000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191429,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738278000000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191425,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_train",
+      "mapStatsId": 191152,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191147,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190890,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190877,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11446,
+        "name": "Leo"
+      },
+      "map": "de_train",
+      "mapStatsId": 190872,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8308,
+        "name": "Subway Suberior League Winter 2025"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190632,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8308,
+        "name": "Subway Suberior League Winter 2025"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190628,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8308,
+        "name": "Subway Suberior League Winter 2025"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190622,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8308,
+        "name": "Subway Suberior League Winter 2025"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190600,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8308,
+        "name": "Subway Suberior League Winter 2025"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190594,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8308,
+        "name": "Subway Suberior League Winter 2025"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190591,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733612400000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189376,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733612400000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189373,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189284,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189280,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189046,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189040,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188562,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188556,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732316400000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188549,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188475,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188469,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13028,
+        "name": "Kario Mart"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188459,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13028,
+        "name": "Kario Mart"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188453,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188419,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188417,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188414,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188186,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188185,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188184,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188084,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188082,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188077,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188034,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188033,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187703,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187700,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187656,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187654,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187647,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8156,
+        "name": "Svenska Elitserien Fall 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13031,
+        "name": "privateshow"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187509,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8156,
+        "name": "Svenska Elitserien Fall 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13031,
+        "name": "privateshow"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187505,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8156,
+        "name": "Svenska Elitserien Fall 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 13031,
+        "name": "privateshow"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187500,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 8121,
+        "name": "Svenska Cupen 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7294,
+        "name": "Venom"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186702,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 8121,
+        "name": "Svenska Cupen 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7294,
+        "name": "Venom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186696,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 8121,
+        "name": "Svenska Cupen 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7294,
+        "name": "Venom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186691,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8121,
+        "name": "Svenska Cupen 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7294,
+        "name": "Venom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186401,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8121,
+        "name": "Svenska Cupen 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7294,
+        "name": "Venom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186395,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1728856800000,
+      "event": {
+        "id": 8121,
+        "name": "Svenska Cupen 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12994,
+        "name": "Pikejagarna"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186301,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728856800000,
+      "event": {
+        "id": 8121,
+        "name": "Svenska Cupen 2024 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12994,
+        "name": "Pikejagarna"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186300,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8122,
+        "name": "Suicide Zero Charity Cup by Luddie 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185877,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8122,
+        "name": "Suicide Zero Charity Cup by Luddie 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185868,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8122,
+        "name": "Suicide Zero Charity Cup by Luddie 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185861,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185463,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185460,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185453,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185131,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185121,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185117,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185089,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185079,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185011,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185002,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184993,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184685,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184682,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184681,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184410,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184405,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184398,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183966,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183963,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183958,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12327,
+        "name": "The Suspect"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183880,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12327,
+        "name": "The Suspect"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183879,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12327,
+        "name": "The Suspect"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183865,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12966,
+        "name": "BOGATYRI"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183735,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12966,
+        "name": "BOGATYRI"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183728,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183354,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183347,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183340,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183295,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183287,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183272,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183185,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183181,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183039,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183034,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183030,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183012,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183007,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8032,
+        "name": "CCT Season 2 Europe Series 11 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182986,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8032,
+        "name": "CCT Season 2 Europe Series 11 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182982,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8032,
+        "name": "CCT Season 2 Europe Series 11 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182971,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182729,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182722,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182332,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182319,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182166,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182045,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182039,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182036,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181908,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181886,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181824,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181818,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181814,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181724,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181722,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181575,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181570,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181241,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181235,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180668,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180665,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180656,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7998,
+        "name": "CCT Season 2 Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180621,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7998,
+        "name": "CCT Season 2 Europe Series 8 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180618,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180479,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180467,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12327,
+        "name": "The Suspect"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180292,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12327,
+        "name": "The Suspect"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180287,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179999,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179993,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7601,
+        "name": "ESL Challenger Jönköping 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178078,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7601,
+        "name": "ESL Challenger Jönköping 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178067,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7601,
+        "name": "ESL Challenger Jönköping 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178022,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7892,
+        "name": "SubZero E-games 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177668,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7892,
+        "name": "SubZero E-games 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177657,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7892,
+        "name": "SubZero E-games 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177645,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7892,
+        "name": "SubZero E-games 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177613,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7892,
+        "name": "SubZero E-games 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177601,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176612,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176611,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176248,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176247,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12768,
+        "name": "ECF"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175386,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12768,
+        "name": "ECF"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175382,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12768,
+        "name": "ECF"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175377,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174612,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174606,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174544,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174536,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174504,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174499,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 174495,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174398,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174396,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174391,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174221,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174217,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713736800000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174170,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713736800000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174166,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174108,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174107,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174100,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173878,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173867,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173863,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173708,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173702,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173684,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173677,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173663,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1713132000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173571,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1713132000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173567,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713132000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7865,
+        "name": "HAVU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173564,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713132000000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173558,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713132000000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173552,
+      "result": {
+        "team1": 21,
+        "team2": 25
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173476,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173472,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173363,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173356,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173194,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173184,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173173,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173147,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173144,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10954,
+        "name": "Astralis Talent"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173140,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173036,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173033,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173030,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173027,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173025,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173006,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173005,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173001,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172993,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172984,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712268000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172953,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712268000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172952,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172897,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172896,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11540,
+        "name": "Benched Heroes"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172870,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172781,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172777,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172772,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171891,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171885,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171822,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171821,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171818,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171703,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171697,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171692,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12756,
+        "name": "BLUDS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171653,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171624,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171615,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171612,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1709766000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171495,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709766000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171493,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709766000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171490,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171416,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171410,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171346,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171345,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171167,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171165,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171163,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171093,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171092,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171087,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1708815600000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170969,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1708815600000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170967,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708815600000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170965,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170621,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170617,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170615,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707174000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170113,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1707174000000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170111,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10488,
+        "name": "Secret"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170046,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10488,
+        "name": "Secret"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170045,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706482800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169763,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1706482800000,
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169762,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706396400000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169721,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706396400000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169717,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706050800000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169559,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706050800000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169555,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1706050800000,
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169553,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168935,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1704927600000,
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168623,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703890800000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168495,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703890800000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12183,
+        "name": "The Witchers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168494,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703804400000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168481,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1703804400000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168480,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1703718000000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168476,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1703718000000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168475,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1703545200000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168461,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703545200000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 168460,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703545200000,
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168459,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12578,
+        "name": "Angel numbers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168329,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12578,
+        "name": "Angel numbers"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168323,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168312,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168309,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168307,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12576,
+        "name": "Onliners5"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168298,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12576,
+        "name": "Onliners5"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168291,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1702767600000,
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12576,
+        "name": "Onliners5"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168280,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702249200000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168060,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702249200000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168059,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702076400000,
+      "event": {
+        "id": 7539,
+        "name": "Svenska Elitserien Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167926,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1702076400000,
+      "event": {
+        "id": 7539,
+        "name": "Svenska Elitserien Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167922,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167734,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167726,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167717,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167581,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167578,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167572,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167506,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 167501,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12286,
+        "name": "The Prodigies SE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167465,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12286,
+        "name": "The Prodigies SE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167463,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12286,
+        "name": "The Prodigies SE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 167460,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1701212400000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167392,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1701212400000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167388,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1700521200000,
+      "event": {
+        "id": 7538,
+        "name": "Svenska Elitserien Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4413,
+        "name": "Lemondogs"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167080,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1700521200000,
+      "event": {
+        "id": 7538,
+        "name": "Svenska Elitserien Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4413,
+        "name": "Lemondogs"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167076,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1700434800000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167039,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1700434800000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 167034,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1700434800000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167031,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166935,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166927,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166921,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166807,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 6902,
+        "name": "GODSENT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166804,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166720,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1699916400000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166595,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699916400000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166591,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166422,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166419,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166418,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166431,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11321,
+        "name": "Kappa Bar"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166415,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166367,
+      "result": {
+        "team1": 24,
+        "team2": 28
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166362,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166359,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166214,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166210,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1698793200000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165782,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1698793200000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165776,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165387,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 165379,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164900,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164897,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164892,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697839200000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164793,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1697839200000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164791,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697839200000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164786,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1697407200000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164522,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1697407200000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164518,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697407200000,
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164513,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164427,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164425,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164095,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164092,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1696370400000,
+      "event": {
+        "id": 6974,
+        "name": "BLAST Premier Fall Showdown 2023 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 163830,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696370400000,
+      "event": {
+        "id": 6974,
+        "name": "BLAST Premier Fall Showdown 2023 Europe"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163820,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7447,
+        "name": "MEO XL Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 163740,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7447,
+        "name": "MEO XL Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163730,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7447,
+        "name": "MEO XL Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163725,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696111200000,
+      "event": {
+        "id": 7447,
+        "name": "MEO XL Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163719,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1696024800000,
+      "event": {
+        "id": 7447,
+        "name": "MEO XL Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163674,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1696024800000,
+      "event": {
+        "id": 7447,
+        "name": "MEO XL Cup 2023"
+      },
+      "team1": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163672,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 7443,
+      "name": "twist"
+    },
+    {
+      "id": 9811,
+      "name": "PlesseN"
+    },
+    {
+      "id": 16487,
+      "name": "eraa"
+    },
+    {
+      "id": 22760,
+      "name": "upE"
+    },
+    {
+      "id": 22860,
+      "name": "avid"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 7700,
+      "name": "robiin"
+    },
+    {
+      "id": 15501,
+      "name": "b0denmaster"
+    }
+  ],
+  "standins": [
+    {
+      "id": 17314,
+      "name": "spuffy"
+    },
+    {
+      "id": 16486,
+      "name": "ztr"
+    },
+    {
+      "id": 20408,
+      "name": "pupcake"
+    },
+    {
+      "id": 19021,
+      "name": "chawzyyy"
+    },
+    {
+      "id": 29,
+      "name": "f0rest"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8313,
+        "name": "CCT Season 2 Europe Series 17"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8310,
+        "name": "European Pro League Season 22"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8308,
+        "name": "Subway Suberior League Winter 2025"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8204,
+        "name": "European Pro League Season 21"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8157,
+        "name": "Svenska Elitserien Fall 2024 Finals"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8171,
+        "name": "CCT Season 2 Europe Series 15 Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8080,
+        "name": "Svenska Cupen 2024"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8156,
+        "name": "Svenska Elitserien Fall 2024"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8121,
+        "name": "Svenska Cupen 2024 Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8122,
+        "name": "Suicide Zero Charity Cup by Luddie 2024"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8099,
+        "name": "European Pro League Season 19"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8103,
+        "name": "Shuffle Masters Season 2"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8092,
+        "name": "ESL Challenger Katowice 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "23-24th",
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8073,
+        "name": "CCT Season 2 Europe Series 12 Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8032,
+        "name": "CCT Season 2 Europe Series 11 Closed Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8017,
+        "name": "European Pro League Season 18"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      }
+    },
+    {
+      "place": "12-14th",
+      "event": {
+        "id": 7989,
+        "name": "YaLLa Compass Summer 2024 Contenders"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7998,
+        "name": "CCT Season 2 Europe Series 8 Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7601,
+        "name": "ESL Challenger Jönköping 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7892,
+        "name": "SubZero E-games 2024"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7805,
+        "name": "RES Regional Series 3 Europe"
+      }
+    },
+    {
+      "place": "16-18th",
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7773,
+        "name": "European Pro League Season 15"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7776,
+        "name": "RES Regional Series 2 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7770,
+        "name": "LuckyCasino Cup 2024"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7725,
+        "name": "European Pro League Season 14"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7716,
+        "name": "ESL Challenger Jönköping 2024 Sweden Open Qualifier"
+      }
+    },
+    {
+      "place": "6-8th",
+      "event": {
+        "id": 7641,
+        "name": "YaLLa Compass Spring 2024 Contenders"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7640,
+        "name": "European Pro League Season 13"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7394,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 2"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7622,
+        "name": "Betswap Winter Cup 2023"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7594,
+        "name": "LuckyCasino Cup 2023"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7539,
+        "name": "Svenska Elitserien Fall 2023 Finals"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7471,
+        "name": "Svenska Cupen 2023"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7538,
+        "name": "Svenska Elitserien Fall 2023"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7518,
+        "name": "Subway Suberior League Fall 2023 Finals"
+      }
+    },
+    {
+      "place": "3-5th",
+      "event": {
+        "id": 7480,
+        "name": "YaLLa Compass Fall 2023 Contenders"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 6974,
+        "name": "BLAST Premier Fall Showdown 2023 Europe"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7447,
+        "name": "MEO XL Cup 2023"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_inferno": {
+      "wins": 41,
+      "draws": 0,
+      "losses": 36,
+      "winRate": 53.2,
+      "totalRounds": 1736,
+      "roundWinPAfterFirstKill": 72.1,
+      "roundWinPAfterFirstDeath": 29
+    },
+    "de_ancient": {
+      "wins": 33,
+      "draws": 0,
+      "losses": 43,
+      "winRate": 43.4,
+      "totalRounds": 1623,
+      "roundWinPAfterFirstKill": 69,
+      "roundWinPAfterFirstDeath": 26.6
+    },
+    "de_anubis": {
+      "wins": 33,
+      "draws": 0,
+      "losses": 30,
+      "winRate": 52.4,
+      "totalRounds": 1328,
+      "roundWinPAfterFirstKill": 70.7,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_mirage": {
+      "wins": 21,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 44.7,
+      "totalRounds": 1004,
+      "roundWinPAfterFirstKill": 66.5,
+      "roundWinPAfterFirstDeath": 28.5
+    },
+    "de_vertigo": {
+      "wins": 14,
+      "draws": 0,
+      "losses": 24,
+      "winRate": 36.8,
+      "totalRounds": 886,
+      "roundWinPAfterFirstKill": 69.4,
+      "roundWinPAfterFirstDeath": 22.4
+    },
+    "de_dust2": {
+      "wins": 12,
+      "draws": 0,
+      "losses": 17,
+      "winRate": 41.4,
+      "totalRounds": 613,
+      "roundWinPAfterFirstKill": 69,
+      "roundWinPAfterFirstDeath": 25.6
+    },
+    "de_overpass": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 61.9,
+      "totalRounds": 515,
+      "roundWinPAfterFirstKill": 77.9,
+      "roundWinPAfterFirstDeath": 25.1
+    },
+    "de_nuke": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 44.4,
+      "totalRounds": 194,
+      "roundWinPAfterFirstKill": 74.3,
+      "roundWinPAfterFirstDeath": 23.7
+    },
+    "de_train": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 0,
+      "totalRounds": 96,
+      "roundWinPAfterFirstKill": 55.6,
+      "roundWinPAfterFirstDeath": 11.8
+    }
+  }
+}

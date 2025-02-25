@@ -1,0 +1,2369 @@
+{
+  "id": 12646,
+  "name": "Chinggis Warriors",
+  "overview": {
+    "mapsPlayed": 100,
+    "totalKills": 7377,
+    "totalDeaths": 7513,
+    "roundsPlayed": 2182,
+    "kdRatio": 0.98,
+    "wins": 47,
+    "draws": 0,
+    "losses": 53
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193514,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13116,
+        "name": "UR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193504,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193496,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193492,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193488,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12825,
+        "name": "The QUBE"
+      },
+      "map": "de_train",
+      "mapStatsId": 193403,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12825,
+        "name": "The QUBE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193398,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12825,
+        "name": "The QUBE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193395,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193019,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193009,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192500,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192498,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192496,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192250,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192245,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13149,
+        "name": "Believe"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192240,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13149,
+        "name": "Believe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192233,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192134,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192130,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192126,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191889,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191888,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12899,
+        "name": "FengDa"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191156,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12899,
+        "name": "FengDa"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191149,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190975,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190957,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13114,
+        "name": "LFO 2"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190884,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13114,
+        "name": "LFO 2"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190876,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190800,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190789,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190722,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190714,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190500,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190499,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13055,
+        "name": "XO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190498,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190378,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190377,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190376,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190371,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 6714,
+        "name": "dream[S]cape"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190240,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190037,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190036,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190012,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189221,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189219,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189218,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189212,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189204,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12689,
+        "name": "SGGT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189144,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13064,
+        "name": "ex-GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189142,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12689,
+        "name": "SGGT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189126,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11101,
+        "name": "CatEvil"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188364,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188359,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187668,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187667,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12658,
+        "name": "Dewa United"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187625,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12658,
+        "name": "Dewa United"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187621,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1730761200000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 13033,
+        "name": "NOVA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187525,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1730761200000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187521,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185072,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185070,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185064,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185055,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185050,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185048,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182850,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182844,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182724,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182594,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180741,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180733,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180721,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180713,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180661,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180652,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180647,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180458,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180454,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1720735200000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 9958,
+        "name": "Alter Ego"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178703,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720735200000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178695,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720735200000,
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178693,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176676,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176674,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176673,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176555,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176552,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176549,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176474,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176473,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175652,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175651,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174814,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174806,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174801,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174788,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174787,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12647,
+        "name": "Memo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168892,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168884,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168876,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168872,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 15060,
+      "name": "NEUZ"
+    },
+    {
+      "id": 19229,
+      "name": "ROUX"
+    },
+    {
+      "id": 21396,
+      "name": "ariucle"
+    },
+    {
+      "id": 21398,
+      "name": "controlez"
+    },
+    {
+      "id": 22414,
+      "name": "Efire"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 23832,
+      "name": "6a6ytronic"
+    },
+    {
+      "id": 21428,
+      "name": "fury5k"
+    },
+    {
+      "id": 23834,
+      "name": "me1o"
+    },
+    {
+      "id": 13949,
+      "name": "sKINEE"
+    },
+    {
+      "id": 23833,
+      "name": "sonqmad"
+    },
+    {
+      "id": 21402,
+      "name": "starDUST"
+    },
+    {
+      "id": 20703,
+      "name": "xerolte"
+    },
+    {
+      "id": 8622,
+      "name": "Zilkenberg"
+    }
+  ],
+  "standins": [
+    {
+      "id": 21828,
+      "name": "sergelen19k"
+    },
+    {
+      "id": 21397,
+      "name": "Tugu"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8207,
+        "name": "1xBet MESA Asia Series 3"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7872,
+        "name": "Perfect World Shanghai Major 2024 East Asia RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7991,
+        "name": "XSE Pro League 2024"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7924,
+        "name": "5E Arena Asia Cup Fall 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7788,
+        "name": "MESA Nomadic Masters Spring 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 16,
+      "draws": 0,
+      "losses": 14,
+      "winRate": 53.3,
+      "totalRounds": 671,
+      "roundWinPAfterFirstKill": 71.7,
+      "roundWinPAfterFirstDeath": 31.1
+    },
+    "de_anubis": {
+      "wins": 12,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 48,
+      "totalRounds": 536,
+      "roundWinPAfterFirstKill": 71.5,
+      "roundWinPAfterFirstDeath": 25.6
+    },
+    "de_mirage": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 42.9,
+      "totalRounds": 327,
+      "roundWinPAfterFirstKill": 69.1,
+      "roundWinPAfterFirstDeath": 23.5
+    },
+    "de_nuke": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 25,
+      "totalRounds": 247,
+      "roundWinPAfterFirstKill": 68.6,
+      "roundWinPAfterFirstDeath": 21.4
+    },
+    "de_inferno": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 45.5,
+      "totalRounds": 243,
+      "roundWinPAfterFirstKill": 78,
+      "roundWinPAfterFirstDeath": 23.3
+    },
+    "de_dust2": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 57.1,
+      "totalRounds": 137,
+      "roundWinPAfterFirstKill": 70.6,
+      "roundWinPAfterFirstDeath": 27.5
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 21,
+      "roundWinPAfterFirstKill": 84.6,
+      "roundWinPAfterFirstDeath": 25
+    }
+  }
+}

@@ -1,0 +1,2235 @@
+{
+  "id": 12544,
+  "name": "adalYamigos",
+  "overview": {
+    "mapsPlayed": 95,
+    "totalKills": 7066,
+    "totalDeaths": 6852,
+    "roundsPlayed": 2106,
+    "kdRatio": 1.03,
+    "wins": 50,
+    "draws": 0,
+    "losses": 45
+  },
+  "matches": [
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_train",
+      "mapStatsId": 192981,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739833200000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192976,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 3044,
+        "name": "MIBR Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192783,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 3044,
+        "name": "MIBR Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192778,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 3044,
+        "name": "MIBR Academy"
+      },
+      "map": "de_train",
+      "mapStatsId": 192767,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12915,
+        "name": "NITRO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192610,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12915,
+        "name": "NITRO"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192606,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12988,
+        "name": "GameHunters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192200,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12988,
+        "name": "GameHunters"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192194,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191943,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191939,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 13081,
+        "name": "Fake do Biru"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191882,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 13081,
+        "name": "Fake do Biru"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191872,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 13081,
+        "name": "Fake do Biru"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191868,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_train",
+      "mapStatsId": 191784,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191780,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191776,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10900,
+        "name": "KRÜ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191754,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10900,
+        "name": "KRÜ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191744,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191211,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 13109,
+        "name": "Swingers"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191203,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12988,
+        "name": "GameHunters"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191034,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12988,
+        "name": "GameHunters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191026,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11555,
+        "name": "UNO MILLE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190922,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11555,
+        "name": "UNO MILLE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190914,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11011,
+        "name": "Patins da Ferrari"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190853,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11011,
+        "name": "Patins da Ferrari"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190842,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11011,
+        "name": "Patins da Ferrari"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190841,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11933,
+        "name": "Yawara"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190839,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11933,
+        "name": "Yawara"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190834,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12890,
+        "name": "Bad News Chickens"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190758,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12890,
+        "name": "Bad News Chickens"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190757,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12959,
+        "name": "ShindeN"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190567,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12959,
+        "name": "ShindeN"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190564,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11711,
+        "name": "Players"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190477,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11711,
+        "name": "Players"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190474,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12988,
+        "name": "GameHunters"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190290,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12988,
+        "name": "GameHunters"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190289,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712872800000,
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173466,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712872800000,
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173465,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712872800000,
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173464,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173417,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173412,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173222,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173216,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173055,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173053,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712440800000,
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173050,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712268000000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12491,
+        "name": "2GAME"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172965,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712268000000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12491,
+        "name": "2GAME"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172964,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712268000000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172932,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172914,
+      "result": {
+        "team1": 24,
+        "team2": 28
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7731,
+        "name": "RES Regional Series 2 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171858,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7731,
+        "name": "RES Regional Series 2 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171857,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7731,
+        "name": "RES Regional Series 2 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171739,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7731,
+        "name": "RES Regional Series 2 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171738,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710025200000,
+      "event": {
+        "id": 7731,
+        "name": "RES Regional Series 2 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171737,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7731,
+        "name": "RES Regional Series 2 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12065,
+        "name": "Flamengo"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171594,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7731,
+        "name": "RES Regional Series 2 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12065,
+        "name": "Flamengo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171590,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709679600000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171397,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171394,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708556400000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12677,
+        "name": "Galorys"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170792,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1708470000000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12677,
+        "name": "Galorys"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170788,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7692,
+        "name": "RES Regional Series 1 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170655,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7692,
+        "name": "RES Regional Series 1 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170653,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7692,
+        "name": "RES Regional Series 1 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170650,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1708124400000,
+      "event": {
+        "id": 7692,
+        "name": "RES Regional Series 1 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170584,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708124400000,
+      "event": {
+        "id": 7692,
+        "name": "RES Regional Series 1 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170581,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707951600000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11814,
+        "name": "Corinthians"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170412,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1707865200000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11814,
+        "name": "Corinthians"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170403,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1707865200000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170357,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1707778800000,
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170352,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1707778800000,
+      "event": {
+        "id": 7692,
+        "name": "RES Regional Series 1 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 2516,
+        "name": "inSanitY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170329,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1707778800000,
+      "event": {
+        "id": 7692,
+        "name": "RES Regional Series 1 LATAM"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 2516,
+        "name": "inSanitY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170328,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7628,
+        "name": "ESL Pro League Season 19 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169549,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7628,
+        "name": "ESL Pro League Season 19 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169539,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705878000000,
+      "event": {
+        "id": 7628,
+        "name": "ESL Pro League Season 19 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169490,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169354,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169350,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169348,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169237,
+      "result": {
+        "team1": 22,
+        "team2": 25
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11837,
+        "name": "Fluxo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169217,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168951,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168922,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1705014000000,
+      "event": {
+        "id": 7414,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12393,
+        "name": "Filhos de D10S"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168675,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1704927600000,
+      "event": {
+        "id": 7414,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12601,
+        "name": "TIMACETA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168672,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1704927600000,
+      "event": {
+        "id": 7414,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12491,
+        "name": "2GAME"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168666,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1704927600000,
+      "event": {
+        "id": 7414,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12491,
+        "name": "2GAME"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168659,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1704927600000,
+      "event": {
+        "id": 7414,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12621,
+        "name": "ex-LRV"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168649,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1704754800000,
+      "event": {
+        "id": 7413,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168555,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7565,
+        "name": "ESL Challenger League Season 47 SA Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167468,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7565,
+        "name": "ESL Challenger League Season 47 SA Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167467,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7565,
+        "name": "ESL Challenger League Season 47 SA Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167466,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7565,
+        "name": "ESL Challenger League Season 47 SA Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 12393,
+        "name": "Filhos de D10S"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167435,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1701212400000,
+      "event": {
+        "id": 7559,
+        "name": "ESL Challenger League Season 47 SA Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "team2": {
+        "id": 8574,
+        "name": "W7M"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167368,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 9220,
+      "name": "SHOOWTiME"
+    },
+    {
+      "id": 11213,
+      "name": "delboNi"
+    },
+    {
+      "id": 18140,
+      "name": "f4stzin"
+    },
+    {
+      "id": 19972,
+      "name": "ckzao"
+    },
+    {
+      "id": 20185,
+      "name": "cass1n"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 18714,
+      "name": "piriajr"
+    },
+    {
+      "id": 11739,
+      "name": "shz"
+    },
+    {
+      "id": 7383,
+      "name": "zqkS"
+    }
+  ],
+  "standins": [
+    {
+      "id": 11944,
+      "name": "KAOS"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      }
+    },
+    {
+      "place": "20-22nd",
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      }
+    },
+    {
+      "place": "16th",
+      "event": {
+        "id": 7666,
+        "name": "ESL Challenger League Season 47 South America"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7769,
+        "name": "RES Regional Series 3 LATAM"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7731,
+        "name": "RES Regional Series 2 LATAM"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7692,
+        "name": "RES Regional Series 1 LATAM"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7628,
+        "name": "ESL Pro League Season 19 South America Open Qualifier"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7414,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7413,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 1"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7565,
+        "name": "ESL Challenger League Season 47 SA Open Qualifier 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7559,
+        "name": "ESL Challenger League Season 47 SA Open Qualifier 1"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 11,
+      "draws": 0,
+      "losses": 10,
+      "winRate": 52.4,
+      "totalRounds": 448,
+      "roundWinPAfterFirstKill": 74.1,
+      "roundWinPAfterFirstDeath": 31
+    },
+    "de_nuke": {
+      "wins": 10,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 55.6,
+      "totalRounds": 395,
+      "roundWinPAfterFirstKill": 74,
+      "roundWinPAfterFirstDeath": 28.1
+    },
+    "de_mirage": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 46.7,
+      "totalRounds": 313,
+      "roundWinPAfterFirstKill": 75.5,
+      "roundWinPAfterFirstDeath": 28
+    },
+    "de_dust2": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 45.5,
+      "totalRounds": 244,
+      "roundWinPAfterFirstKill": 70.4,
+      "roundWinPAfterFirstDeath": 33.3
+    },
+    "de_ancient": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 60,
+      "totalRounds": 216,
+      "roundWinPAfterFirstKill": 71.3,
+      "roundWinPAfterFirstDeath": 25.7
+    },
+    "de_inferno": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 44.4,
+      "totalRounds": 241,
+      "roundWinPAfterFirstKill": 69.5,
+      "roundWinPAfterFirstDeath": 23.9
+    },
+    "de_vertigo": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 75,
+      "totalRounds": 183,
+      "roundWinPAfterFirstKill": 79.6,
+      "roundWinPAfterFirstDeath": 25.9
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 33.3,
+      "totalRounds": 66,
+      "roundWinPAfterFirstKill": 67.6,
+      "roundWinPAfterFirstDeath": 18.8
+    }
+  }
+}

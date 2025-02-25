@@ -1,0 +1,5679 @@
+{
+  "id": 12642,
+  "name": "Rebels",
+  "overview": {
+    "mapsPlayed": 253,
+    "totalKills": 18554,
+    "totalDeaths": 19261,
+    "roundsPlayed": 5633,
+    "kdRatio": 0.96,
+    "wins": 124,
+    "draws": 0,
+    "losses": 129
+  },
+  "matches": [
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193229,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193226,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193185,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193179,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193166,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193050,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193038,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193032,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192785,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192781,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192775,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12858,
+        "name": "kONO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192772,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 13160,
+        "name": "TGM"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192761,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 13160,
+        "name": "TGM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192754,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192748,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191276,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191267,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191262,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191129,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_train",
+      "mapStatsId": 191127,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191124,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_train",
+      "mapStatsId": 191068,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191064,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191062,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191008,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191000,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_train",
+      "mapStatsId": 190883,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190873,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190818,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190812,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190702,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190699,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_train",
+      "mapStatsId": 190629,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190621,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190475,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190470,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190418,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12787,
+        "name": "WOPA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190415,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189663,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189659,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189591,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189585,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731884400000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188310,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1731884400000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188303,
+      "result": {
+        "team1": 25,
+        "team2": 23
+      }
+    },
+    {
+      "date": 1731884400000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188301,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188257,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188242,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187719,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187715,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731106800000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187712,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187690,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187687,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187684,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187624,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187622,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187616,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730761200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187541,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730761200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187539,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730761200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187534,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187487,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187482,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187342,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187338,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187331,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187253,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187245,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187244,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187219,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187217,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1730070000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187059,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730070000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187056,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729980000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 187022,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729980000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187018,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729980000000,
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187015,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7860,
+        "name": "Elisa Masters Espoo 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186495,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7860,
+        "name": "Elisa Masters Espoo 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186491,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7860,
+        "name": "Elisa Masters Espoo 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186458,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185478,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185471,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185468,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8090,
+        "name": "ESL Challenger Katowice 2024 Poland Open Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184807,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8090,
+        "name": "ESL Challenger Katowice 2024 Poland Open Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184803,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 8090,
+        "name": "ESL Challenger Katowice 2024 Poland Open Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12975,
+        "name": "ex-Enterprise"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184794,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8090,
+        "name": "ESL Challenger Katowice 2024 Poland Open Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12984,
+        "name": "Soul's Heart"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184726,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184509,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184501,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184496,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184068,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184067,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184058,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183997,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183990,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183914,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183907,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183903,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183876,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183863,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183860,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183834,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183829,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183821,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183705,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183699,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183692,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183370,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183361,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12914,
+        "name": "Qiang"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183280,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12914,
+        "name": "Qiang"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183268,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182965,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11838,
+        "name": "Partizan"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182959,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182514,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182506,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182489,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182133,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182126,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182088,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182082,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182070,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182010,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181937,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181884,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181816,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181813,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181511,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12885,
+        "name": "DASH"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181332,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12885,
+        "name": "DASH"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181321,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12885,
+        "name": "DASH"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181313,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180875,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180865,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180813,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722981600000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180803,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180695,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180692,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180689,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180133,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180119,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721772000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179668,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721772000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179663,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721772000000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179639,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721772000000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179638,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179565,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179564,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179516,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721599200000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179514,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179242,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179237,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179233,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179108,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179107,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178983,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178980,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178975,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178823,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178816,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178813,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178794,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720994400000,
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178789,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1720735200000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178699,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1720735200000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178696,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 5107,
+        "name": "Belarus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178619,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 5107,
+        "name": "Belarus"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178615,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 5116,
+        "name": "Bulgaria"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178587,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 5116,
+        "name": "Bulgaria"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178578,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1720389600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178485,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1720389600000,
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12374,
+        "name": "Verdant"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178483,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1718229600000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177969,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1718229600000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177955,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718143200000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177891,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718143200000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177882,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177775,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177768,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177683,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177670,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177363,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177349,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177094,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177085,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177073,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176601,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176599,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176581,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176486,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176484,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12768,
+        "name": "ECF"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176262,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12768,
+        "name": "ECF"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176259,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176010,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176009,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12028,
+        "name": "The Prodigies"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175975,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12028,
+        "name": "The Prodigies"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175968,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175753,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175749,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175678,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175675,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7600,
+        "name": "ESL Challenger Melbourne 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174476,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714255200000,
+      "event": {
+        "id": 7600,
+        "name": "ESL Challenger Melbourne 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174475,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7600,
+        "name": "ESL Challenger Melbourne 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174345,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7600,
+        "name": "ESL Challenger Melbourne 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174343,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173954,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173941,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173500,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173495,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173492,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173207,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173196,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173185,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172887,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172881,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172875,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172775,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172768,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12773,
+        "name": "ex-Sprout"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172574,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12773,
+        "name": "ex-Sprout"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172565,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1711580400000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12773,
+        "name": "ex-Sprout"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172560,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172513,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172507,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172499,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172489,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1711321200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172453,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711321200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172450,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1711321200000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172444,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172022,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172012,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1710370800000,
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171997,
+      "result": {
+        "team1": 21,
+        "team2": 25
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171338,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171337,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171260,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171255,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171223,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171217,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171212,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709161200000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171150,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1709161200000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171149,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709161200000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171147,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7435,
+        "name": "IEM Katowice 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170070,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7435,
+        "name": "IEM Katowice 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170063,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7435,
+        "name": "IEM Katowice 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170061,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706914800000,
+      "event": {
+        "id": 7435,
+        "name": "IEM Katowice 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169967,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706914800000,
+      "event": {
+        "id": 7435,
+        "name": "IEM Katowice 2024"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 6667,
+        "name": "FaZe"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169964,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169922,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1706828400000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169918,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169821,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169819,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169812,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1706396400000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169743,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706396400000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169740,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706396400000,
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169735,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7629,
+        "name": "ESL Pro League Season 19 NC Europe Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169529,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7629,
+        "name": "ESL Pro League Season 19 NC Europe Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169525,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705878000000,
+      "event": {
+        "id": 7629,
+        "name": "ESL Pro League Season 19 NC Europe Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169488,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705878000000,
+      "event": {
+        "id": 7629,
+        "name": "ESL Pro League Season 19 NC Europe Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169502,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1705878000000,
+      "event": {
+        "id": 7629,
+        "name": "ESL Pro League Season 19 NC Europe Qualifier"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169479,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168955,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168941,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 3669,
+      "name": "innocent"
+    },
+    {
+      "id": 15940,
+      "name": "Sobol"
+    },
+    {
+      "id": 20283,
+      "name": "tomiko"
+    },
+    {
+      "id": 21715,
+      "name": "flayy"
+    },
+    {
+      "id": 23295,
+      "name": "kisserek"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 21265,
+      "name": "sNx"
+    },
+    {
+      "id": 21263,
+      "name": "olimp"
+    },
+    {
+      "id": 20349,
+      "name": "casey"
+    }
+  ],
+  "standins": [
+    {
+      "id": 973,
+      "name": "SZPERO"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8387,
+        "name": "CCT Season 2 Europe Series 19 Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8367,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "20-22nd",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      }
+    },
+    {
+      "place": "19-20th",
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8144,
+        "name": "European Pro League Season 20"
+      }
+    },
+    {
+      "place": "20th",
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7860,
+        "name": "Elisa Masters Espoo 2024"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8090,
+        "name": "ESL Challenger Katowice 2024 Poland Open Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      }
+    },
+    {
+      "place": "7th",
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7941,
+        "name": "European Pro League Season 17"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7950,
+        "name": "RES Regional Series 6 Europe"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7943,
+        "name": "IESF World Championship 2024 Europe Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7842,
+        "name": "YGames Pro Series 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7884,
+        "name": "RES Regional Series 5 Europe"
+      }
+    },
+    {
+      "place": "13-14th",
+      "event": {
+        "id": 7620,
+        "name": "ESL Challenger League Season 47 Europe"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7843,
+        "name": "European Pro League Season 16"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7700,
+        "name": "Elisa Invitational Spring 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7600,
+        "name": "ESL Challenger Melbourne 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7435,
+        "name": "IEM Katowice 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      }
+    },
+    {
+      "place": "6th",
+      "event": {
+        "id": 7512,
+        "name": "ESL Challenger League Season 46 Europe Relegation"
+      }
+    },
+    {
+      "place": "6th",
+      "event": {
+        "id": 7629,
+        "name": "ESL Pro League Season 19 NC Europe Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 29,
+      "draws": 0,
+      "losses": 31,
+      "winRate": 48.3,
+      "totalRounds": 1366,
+      "roundWinPAfterFirstKill": 70.5,
+      "roundWinPAfterFirstDeath": 28.3
+    },
+    "de_nuke": {
+      "wins": 31,
+      "draws": 0,
+      "losses": 25,
+      "winRate": 55.4,
+      "totalRounds": 1233,
+      "roundWinPAfterFirstKill": 73.2,
+      "roundWinPAfterFirstDeath": 31.8
+    },
+    "de_mirage": {
+      "wins": 16,
+      "draws": 0,
+      "losses": 25,
+      "winRate": 39,
+      "totalRounds": 918,
+      "roundWinPAfterFirstKill": 67.1,
+      "roundWinPAfterFirstDeath": 26.2
+    },
+    "de_anubis": {
+      "wins": 19,
+      "draws": 0,
+      "losses": 20,
+      "winRate": 48.7,
+      "totalRounds": 849,
+      "roundWinPAfterFirstKill": 74.9,
+      "roundWinPAfterFirstDeath": 26.9
+    },
+    "de_vertigo": {
+      "wins": 19,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 59.4,
+      "totalRounds": 703,
+      "roundWinPAfterFirstKill": 76.1,
+      "roundWinPAfterFirstDeath": 32.7
+    },
+    "de_dust2": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 10,
+      "winRate": 41.2,
+      "totalRounds": 384,
+      "roundWinPAfterFirstKill": 68.3,
+      "roundWinPAfterFirstDeath": 27.7
+    },
+    "de_inferno": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 0,
+      "totalRounds": 75,
+      "roundWinPAfterFirstKill": 41.4,
+      "roundWinPAfterFirstDeath": 23.9
+    },
+    "de_train": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 75,
+      "totalRounds": 105,
+      "roundWinPAfterFirstKill": 76.4,
+      "roundWinPAfterFirstDeath": 26
+    }
+  }
+}

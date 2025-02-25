@@ -1,0 +1,5308 @@
+{
+  "id": 12818,
+  "name": "FAVBET",
+  "overview": {
+    "mapsPlayed": 238,
+    "totalKills": 17917,
+    "totalDeaths": 17481,
+    "roundsPlayed": 5305,
+    "kdRatio": 1.02,
+    "wins": 133,
+    "draws": 0,
+    "losses": 105
+  },
+  "matches": [
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193056,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_train",
+      "mapStatsId": 193048,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193035,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192282,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192272,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192170,
+      "result": {
+        "team1": 22,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192161,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192000,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191991,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191829,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191811,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4532,
+        "name": "ESC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191795,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191585,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738537200000,
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191584,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_train",
+      "mapStatsId": 191338,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191333,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191327,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_train",
+      "mapStatsId": 191170,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191165,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191116,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191110,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191106,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191020,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191007,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6652,
+        "name": "GameAgents"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190998,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190818,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190812,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190555,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190551,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9466,
+        "name": "GTZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190543,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189806,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189801,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734390000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189797,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189739,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1734217200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12431,
+        "name": "Betera"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189735,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189666,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189661,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189591,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189585,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189550,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189547,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1733958000000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189544,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189505,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733871600000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189497,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189464,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1733785200000,
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189460,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189425,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189423,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1733698800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189422,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 13063,
+        "name": "BTC Investors"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189322,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 13063,
+        "name": "BTC Investors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189315,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 13063,
+        "name": "BTC Investors"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189300,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189293,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733526000000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189289,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189229,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189226,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733439600000,
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12266,
+        "name": "L&G"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189222,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189147,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189139,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733353200000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 189131,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189060,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189058,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1733180400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 189056,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188870,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188866,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732921200000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188862,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188783,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1732748400000,
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188774,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1731193200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187802,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731193200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187801,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187440,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187436,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187433,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186697,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186690,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186485,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186483,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186480,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186281,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186279,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186270,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186264,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186259,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186255,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186260,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186253,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728770400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186245,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186200,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186199,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186197,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186176,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186174,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186172,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186133,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186129,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186126,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728338400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186025,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728338400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186021,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1728338400000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186019,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185911,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185902,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185887,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185879,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185767,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185762,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185573,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185565,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185553,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185544,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185540,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185452,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185445,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727733600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185436,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185304,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185298,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185292,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185284,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185189,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185185,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185173,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184969,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12937,
+        "name": "DRILLAS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184963,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184707,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12967,
+        "name": "WW"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184700,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184690,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184558,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184554,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184517,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184507,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184418,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184412,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184331,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184315,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184311,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184280,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726524000000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184278,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184198,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726437600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184195,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184135,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184125,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183950,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183949,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1726178400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183941,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183809,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183804,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183799,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183736,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1726005600000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12895,
+        "name": "K27"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183724,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183584,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183580,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725832800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183576,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183531,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183526,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183520,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183366,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183360,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12962,
+        "name": "Molotov"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183314,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12962,
+        "name": "Molotov"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183307,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183276,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183265,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183174,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183167,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725400800000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183161,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183047,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183044,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183033,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183028,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183024,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8032,
+        "name": "CCT Season 2 Europe Series 11 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12327,
+        "name": "The Suspect"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182954,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8032,
+        "name": "CCT Season 2 Europe Series 11 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12327,
+        "name": "The Suspect"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182953,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182860,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182855,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724968800000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182845,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182587,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182578,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182514,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182506,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182489,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182469,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182460,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182450,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182194,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182192,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182190,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182056,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182051,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181933,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181926,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181913,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181899,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181655,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181649,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181644,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181630,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181521,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181218,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181214,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180972,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12833,
+        "name": "TNL"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180971,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180722,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180717,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 9735,
+        "name": "Lilmix"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180707,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12886,
+        "name": "Meteor"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180305,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12886,
+        "name": "Meteor"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180298,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12886,
+        "name": "Meteor"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180291,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179585,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179583,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721685600000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10947,
+        "name": "Rhyno"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179582,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178903,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178900,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178893,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178261,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 178253,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178182,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178173,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178085,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178074,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178063,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1718143200000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177892,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718143200000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177885,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718143200000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177878,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177831,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177824,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177238,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177231,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177189,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177175,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177167,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12834,
+        "name": "RUSTEC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176933,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717452000000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12834,
+        "name": "RUSTEC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176932,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176792,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717279200000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176784,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7844,
+        "name": "RES European Masters 1 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176630,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7844,
+        "name": "RES European Masters 1 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176613,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176586,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176577,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176499,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1716933600000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176491,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 2131,
+      "name": "bondik"
+    },
+    {
+      "id": 18240,
+      "name": "Smash"
+    },
+    {
+      "id": 20110,
+      "name": "Marix"
+    },
+    {
+      "id": 20228,
+      "name": "j3kie"
+    },
+    {
+      "id": 21717,
+      "name": "t3ns1on"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 23815,
+      "name": "guthriee"
+    }
+  ],
+  "standins": [
+    {
+      "id": 17008,
+      "name": "Topa"
+    },
+    {
+      "id": 338,
+      "name": "markeloff"
+    },
+    {
+      "id": 9348,
+      "name": "crush"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8343,
+        "name": "United21 League Season 26"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8282,
+        "name": "YaLLa Compass Winter 2025 Contenders"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8210,
+        "name": "LEGION UPEA National League 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8134,
+        "name": "ESL Challenger League Season 48 Europe Relegation"
+      }
+    },
+    {
+      "place": "20-22nd",
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8199,
+        "name": "ESEA Advanced Season 51 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 8107,
+        "name": "YaLLa Compass Fall 2024 Contenders"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      }
+    },
+    {
+      "place": "20-22nd",
+      "event": {
+        "id": 8086,
+        "name": "CCT Season 2 Europe Series 13"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8066,
+        "name": "ESEA Advanced Season 50 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8033,
+        "name": "CCT Season 2 Europe Series 11"
+      }
+    },
+    {
+      "place": "13-15th",
+      "event": {
+        "id": 7946,
+        "name": "Elisa Invitational Fall 2024"
+      }
+    },
+    {
+      "place": "23-24th",
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8032,
+        "name": "CCT Season 2 Europe Series 11 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8019,
+        "name": "CCT Season 2 Europe Series 10 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7963,
+        "name": "ESL Challenger Atlanta 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "6-8th",
+      "event": {
+        "id": 7945,
+        "name": "Elisa Invitational Fall 2024 Contenders"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7844,
+        "name": "RES European Masters 1 Fall 2024 - BLAST Premier Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_anubis": {
+      "wins": 35,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 66,
+      "totalRounds": 1235,
+      "roundWinPAfterFirstKill": 74,
+      "roundWinPAfterFirstDeath": 29.2
+    },
+    "de_inferno": {
+      "wins": 33,
+      "draws": 0,
+      "losses": 17,
+      "winRate": 66,
+      "totalRounds": 1080,
+      "roundWinPAfterFirstKill": 73.5,
+      "roundWinPAfterFirstDeath": 33.5
+    },
+    "de_ancient": {
+      "wins": 21,
+      "draws": 0,
+      "losses": 24,
+      "winRate": 46.7,
+      "totalRounds": 998,
+      "roundWinPAfterFirstKill": 68.8,
+      "roundWinPAfterFirstDeath": 28.2
+    },
+    "de_nuke": {
+      "wins": 18,
+      "draws": 0,
+      "losses": 22,
+      "winRate": 45,
+      "totalRounds": 887,
+      "roundWinPAfterFirstKill": 68.5,
+      "roundWinPAfterFirstDeath": 28.5
+    },
+    "de_dust2": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 12,
+      "winRate": 58.6,
+      "totalRounds": 641,
+      "roundWinPAfterFirstKill": 75.7,
+      "roundWinPAfterFirstDeath": 29.6
+    },
+    "de_vertigo": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 50,
+      "totalRounds": 344,
+      "roundWinPAfterFirstKill": 73.4,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 33.3,
+      "totalRounds": 73,
+      "roundWinPAfterFirstKill": 70.2,
+      "roundWinPAfterFirstDeath": 11.5
+    },
+    "de_mirage": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 0,
+      "totalRounds": 47,
+      "roundWinPAfterFirstKill": 59.1,
+      "roundWinPAfterFirstDeath": 32
+    }
+  }
+}

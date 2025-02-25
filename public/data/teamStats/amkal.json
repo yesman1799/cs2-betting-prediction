@@ -1,0 +1,5208 @@
+{
+  "id": 12586,
+  "name": "AMKAL",
+  "overview": {
+    "mapsPlayed": 228,
+    "totalKills": 17065,
+    "totalDeaths": 17143,
+    "roundsPlayed": 5133,
+    "kdRatio": 1,
+    "wins": 124,
+    "draws": 0,
+    "losses": 104
+  },
+  "matches": [
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193319,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193156,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739746800000,
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 13169,
+        "name": "WeLoveUSmooya"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192872,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192040,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192030,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191834,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191826,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191822,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_train",
+      "mapStatsId": 191478,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738364400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191471,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_train",
+      "mapStatsId": 191320,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738105200000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191314,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 13128,
+        "name": "moneyF"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191196,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 13128,
+        "name": "moneyF"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191189,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 13128,
+        "name": "moneyF"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191178,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191169,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_train",
+      "mapStatsId": 191166,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737932400000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191164,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191126,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191122,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737846000000,
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191119,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191084,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191080,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737759600000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191078,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190894,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190891,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190720,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190709,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190604,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190601,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190595,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190527,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190518,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190440,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11718,
+        "name": "BIG EQUIPA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190436,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190383,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736982000000,
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190380,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189930,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1734735600000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189923,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734649200000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12857,
+        "name": "FORZE Reload"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189903,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1734649200000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12857,
+        "name": "FORZE Reload"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 189900,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734649200000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12857,
+        "name": "FORZE Reload"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189897,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 189856,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1734562800000,
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189853,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189668,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189662,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734130800000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 189650,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 189584,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1734044400000,
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 189579,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187701,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187696,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187693,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187644,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730934000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187640,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730761200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187530,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730761200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187528,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730761200000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187526,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187410,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187408,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187128,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730156400000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187121,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184816,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184808,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184800,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184708,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184701,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727042400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184697,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184318,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184313,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726610400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184307,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183810,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183806,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726092000000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183801,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183067,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183063,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182968,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182962,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182955,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182762,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182749,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182738,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182649,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12471,
+        "name": "GUN5"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182642,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182149,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182148,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182145,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182057,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182050,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182042,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181975,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181971,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181968,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181948,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181895,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724018400000,
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181767,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181601,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181598,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181593,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180954,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180944,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180573,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180571,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 180567,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180348,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180339,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180219,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180209,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180201,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179845,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722031200000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179841,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179773,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179717,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721772000000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179661,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1721772000000,
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179644,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7845,
+        "name": "RES European Masters 2 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177684,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7845,
+        "name": "RES European Masters 2 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177674,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7845,
+        "name": "RES European Masters 2 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177626,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7845,
+        "name": "RES European Masters 2 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177616,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717884000000,
+      "event": {
+        "id": 7845,
+        "name": "RES European Masters 2 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177610,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7845,
+        "name": "RES European Masters 2 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 177441,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7845,
+        "name": "RES European Masters 2 Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177433,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176697,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176693,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176690,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176657,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1717106400000,
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176650,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176065,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176056,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176047,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175895,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175889,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175878,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716069600000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175873,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175814,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175808,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174874,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174873,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174847,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174843,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174825,
+      "result": {
+        "team1": 25,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174818,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174815,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174780,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714600800000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174775,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174703,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174701,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174688,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174644,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174638,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174577,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174571,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1714341600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174568,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174253,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174245,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174243,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174125,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174122,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713650400000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174120,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173909,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173897,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7758,
+        "name": "Esports World Cup 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173797,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173781,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173771,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173767,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713218400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173605,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1713218400000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173601,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712872800000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 173458,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1712872800000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173454,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173365,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173357,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173353,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173307,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173306,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173291,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173259,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173257,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172827,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172818,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172803,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172798,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172792,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172781,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172777,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712095200000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172772,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172711,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172707,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172700,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172682,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712008800000,
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172680,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1710716400000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172209,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710716400000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172206,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1710716400000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172201,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710630000000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172163,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1710630000000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172149,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171381,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171373,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171164,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171162,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171161,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171115,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171112,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708124400000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170558,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1708124400000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170555,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1708124400000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170553,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708038000000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170492,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708038000000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170488,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1708038000000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170482,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707951600000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170434,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707865200000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170380,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1707865200000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170376,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707519600000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170239,
+      "result": {
+        "team1": 25,
+        "team2": 28
+      }
+    },
+    {
+      "date": 1707519600000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170236,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1707519600000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170233,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707433200000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170217,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707433200000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170215,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170177,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170173,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170167,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170159,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7619,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169211,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7619,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169200,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7619,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169188,
+      "result": {
+        "team1": 25,
+        "team2": 21
+      }
+    },
+    {
+      "date": 1705532400000,
+      "event": {
+        "id": 7619,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12591,
+        "name": "KOI"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169112,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1705532400000,
+      "event": {
+        "id": 7619,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12107,
+        "name": "sYnck"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169090,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1705532400000,
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169085,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705532400000,
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169081,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705446000000,
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12509,
+        "name": "FreeESPI"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169052,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1705446000000,
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "team2": {
+        "id": 12666,
+        "name": "PIXEL"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169043,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 20600,
+      "name": "sm3t"
+    },
+    {
+      "id": 21692,
+      "name": "kAlash"
+    },
+    {
+      "id": 22075,
+      "name": "sFade8"
+    },
+    {
+      "id": 22076,
+      "name": "AW"
+    },
+    {
+      "id": 24144,
+      "name": "molodoy"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 23047,
+      "name": "Sdaim"
+    },
+    {
+      "id": 11498,
+      "name": "NickelBack"
+    },
+    {
+      "id": 21439,
+      "name": "ICY"
+    },
+    {
+      "id": 13982,
+      "name": "Forester"
+    },
+    {
+      "id": 24326,
+      "name": "topo"
+    },
+    {
+      "id": 12016,
+      "name": "svyat"
+    },
+    {
+      "id": 12027,
+      "name": "Krad"
+    },
+    {
+      "id": 16948,
+      "name": "TRAVIS"
+    },
+    {
+      "id": 22929,
+      "name": "nota"
+    }
+  ],
+  "standins": [
+    {
+      "id": 21392,
+      "name": "shady"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8369,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 3"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8368,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8344,
+        "name": "CCT Season 2 Europe Series 18 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8289,
+        "name": "CCT Season 2 Europe Series 16"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8312,
+        "name": "CCT Season 2 Europe Series 17 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8288,
+        "name": "CCT Season 2 Europe Series 16 Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8228,
+        "name": "Exort Series 6"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8172,
+        "name": "CCT Season 2 Europe Series 15"
+      }
+    },
+    {
+      "place": "13-15th",
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7990,
+        "name": "YaLLa Compass Summer 2024"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7555,
+        "name": "BLAST Premier Fall Showdown 2024"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7975,
+        "name": "IEM Rio 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7986,
+        "name": "Hellcase Cup 10"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7956,
+        "name": "CCT Season 2 Europe Series 7"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7992,
+        "name": "BetBoom Dacha Belgrade Season 2 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7847,
+        "name": "Skyesports Championship 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7845,
+        "name": "RES European Masters 2 Fall 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7837,
+        "name": "CCT Season 2 Europe Series 4"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7749,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 1"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7758,
+        "name": "Esports World Cup 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "15-16th",
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7653,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "6-8th",
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7619,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier B"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7604,
+        "name": "IEM Chengdu 2024 Europe Open Qualifier 1"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_vertigo": {
+      "wins": 24,
+      "draws": 0,
+      "losses": 15,
+      "winRate": 61.5,
+      "totalRounds": 828,
+      "roundWinPAfterFirstKill": 75.5,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_ancient": {
+      "wins": 18,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 50,
+      "totalRounds": 800,
+      "roundWinPAfterFirstKill": 70.5,
+      "roundWinPAfterFirstDeath": 29.3
+    },
+    "de_dust2": {
+      "wins": 15,
+      "draws": 0,
+      "losses": 17,
+      "winRate": 46.9,
+      "totalRounds": 716,
+      "roundWinPAfterFirstKill": 68.4,
+      "roundWinPAfterFirstDeath": 31.2
+    },
+    "de_mirage": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 14,
+      "winRate": 54.8,
+      "totalRounds": 762,
+      "roundWinPAfterFirstKill": 72.5,
+      "roundWinPAfterFirstDeath": 27.4
+    },
+    "de_inferno": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 56.7,
+      "totalRounds": 640,
+      "roundWinPAfterFirstKill": 74,
+      "roundWinPAfterFirstDeath": 25.8
+    },
+    "de_nuke": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 56.7,
+      "totalRounds": 674,
+      "roundWinPAfterFirstKill": 67.4,
+      "roundWinPAfterFirstDeath": 34.2
+    },
+    "de_overpass": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 7,
+      "winRate": 65,
+      "totalRounds": 504,
+      "roundWinPAfterFirstKill": 76.7,
+      "roundWinPAfterFirstDeath": 28.2
+    },
+    "de_anubis": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 42.9,
+      "totalRounds": 154,
+      "roundWinPAfterFirstKill": 74.3,
+      "roundWinPAfterFirstDeath": 26.2
+    },
+    "de_train": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 0,
+      "totalRounds": 55,
+      "roundWinPAfterFirstKill": 52.2,
+      "roundWinPAfterFirstDeath": 12.5
+    }
+  }
+}

@@ -1,0 +1,7533 @@
+{
+  "id": 12394,
+  "name": "BetBoom",
+  "overview": {
+    "mapsPlayed": 336,
+    "totalKills": 24814,
+    "totalDeaths": 24766,
+    "roundsPlayed": 7365,
+    "kdRatio": 1,
+    "wins": 191,
+    "draws": 0,
+    "losses": 145
+  },
+  "matches": [
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192475,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192470,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192467,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192424,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192418,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 13153,
+        "name": "Hesta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192414,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192340,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192309,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192291,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192279,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_train",
+      "mapStatsId": 192267,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191919,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191912,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191904,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191830,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191819,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191801,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191737,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191729,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191717,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191700,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_train",
+      "mapStatsId": 191691,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 7909,
+        "name": "BLAST Bounty 2025 Season 1 Finals"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190897,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 7909,
+        "name": "BLAST Bounty 2025 Season 1 Finals"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190895,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190616,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190608,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737241200000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190603,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190479,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190476,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190471,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188374,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188372,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188370,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188356,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1732057200000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 188355,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1731970800000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188333,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731970800000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188331,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1731884400000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188299,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188256,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731798000000,
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12267,
+        "name": "UNiTY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188245,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187968,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187965,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187957,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187951,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187869,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187864,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731279600000,
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187861,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187607,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187604,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186176,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186174,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 186172,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185841,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185840,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185836,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185813,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185805,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185711,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185230,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185225,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185194,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185191,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185178,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185128,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185119,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184985,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12520,
+        "name": "Monte Gen"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184978,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183372,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183364,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183359,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183337,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183334,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725573600000,
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183332,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183264,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11571,
+        "name": "Gaimin Gladiators"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183258,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183041,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183037,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 183032,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12670,
+        "name": "LEON"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182365,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12670,
+        "name": "LEON"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182358,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724536800000,
+      "event": {
+        "id": 8005,
+        "name": "BetBoom Dacha Belgrade Season 2 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182219,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724536800000,
+      "event": {
+        "id": 8005,
+        "name": "BetBoom Dacha Belgrade Season 2 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182217,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8005,
+        "name": "BetBoom Dacha Belgrade Season 2 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182187,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8005,
+        "name": "BetBoom Dacha Belgrade Season 2 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 182182,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 8005,
+        "name": "BetBoom Dacha Belgrade Season 2 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182179,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181700,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181698,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181693,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181686,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181684,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181657,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181653,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10960,
+        "name": "Young Ninjas"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 181647,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181585,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1723759200000,
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181584,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177330,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177320,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177314,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177193,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177164,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177081,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177056,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177029,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176296,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176290,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1716588000000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176286,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176224,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1716501600000,
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176222,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176040,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176037,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176033,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175988,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175986,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175979,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175969,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 6665,
+        "name": "Astralis"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175963,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175935,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175928,
+      "result": {
+        "team1": 0,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175924,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7755,
+        "name": "BetBoom Dacha Belgrade 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175528,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7755,
+        "name": "BetBoom Dacha Belgrade 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175523,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7755,
+        "name": "BetBoom Dacha Belgrade 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175512,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7755,
+        "name": "BetBoom Dacha Belgrade 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175380,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7755,
+        "name": "BetBoom Dacha Belgrade 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 175376,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175268,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175262,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175257,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175253,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175244,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175170,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175166,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175162,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1715292000000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175123,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715292000000,
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175121,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175000,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174995,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715032800000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12774,
+        "name": "FlyQuest"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174987,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174874,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174873,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174859,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1714773600000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174856,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174794,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174790,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174695,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714514400000,
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174689,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174607,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714428000000,
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174602,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174401,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174399,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174397,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174363,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 174357,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174317,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713996000000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174313,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174237,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174235,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713823200000,
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174232,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7759,
+        "name": "Esports World Cup 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173955,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7759,
+        "name": "Esports World Cup 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173944,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7759,
+        "name": "Esports World Cup 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173927,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7759,
+        "name": "Esports World Cup 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173910,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7759,
+        "name": "Esports World Cup 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173899,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7759,
+        "name": "Esports World Cup 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173891,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7758,
+        "name": "Esports World Cup 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173826,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7758,
+        "name": "Esports World Cup 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173820,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7758,
+        "name": "Esports World Cup 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12745,
+        "name": "brazylijski luz"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173812,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7758,
+        "name": "Esports World Cup 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11987,
+        "name": "Aloha"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173803,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1713045600000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173528,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1713045600000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173524,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713045600000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4914,
+        "name": "3DMAX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173522,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173509,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173508,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173504,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173496,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173493,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173477,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712959200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173470,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173399,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173397,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173394,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173379,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173372,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173365,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173357,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12586,
+        "name": "AMKAL"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173353,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173279,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1712700000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173274,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173171,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 173166,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712613600000,
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173161,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172993,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712354400000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172984,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1712268000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172960,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1712268000000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172958,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172897,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172896,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172866,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12772,
+        "name": "Blessed"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172488,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711234800000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172431,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1711234800000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172428,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711234800000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172427,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1711234800000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172424,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1711234800000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172422,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1711148400000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172387,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1711148400000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172384,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1711148400000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172383,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710975600000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172303,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1710975600000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 172300,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1710975600000,
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 172297,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171358,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171355,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12543,
+        "name": "BLEED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171353,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171312,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171308,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171305,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171272,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171267,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171180,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171179,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171106,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171099,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709074800000,
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171095,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1708642800000,
+      "event": {
+        "id": 7578,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe Last Chance Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170849,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708642800000,
+      "event": {
+        "id": 7578,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe Last Chance Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12527,
+        "name": "Guild Eagles"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170848,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708124400000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170574,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708124400000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170571,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708038000000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170526,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708038000000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170519,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1708038000000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170512,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707951600000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170435,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1707865200000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170382,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1707865200000,
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170377,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170185,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 170180,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170175,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170170,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707346800000,
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170165,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706742000000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169861,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706742000000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169859,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706742000000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169851,
+      "result": {
+        "team1": 25,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1706655600000,
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11251,
+        "name": "Eternal Fire"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169809,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7392,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169315,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7392,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169308,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7392,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169193,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7392,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169187,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705532400000,
+      "event": {
+        "id": 7392,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7532,
+        "name": "BIG"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169110,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705532400000,
+      "event": {
+        "id": 7392,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier A"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169100,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1702422000000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168111,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702422000000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168109,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1702422000000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168107,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1702335600000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 168086,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1702335600000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168085,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702335600000,
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168084,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1702076400000,
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167928,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702076400000,
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167925,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701990000000,
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167886,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1701990000000,
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167883,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167768,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1701817200000,
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167757,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167655,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701730800000,
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167653,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700953200000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167308,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700953200000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167307,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700866800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 167236,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1700866800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167235,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166933,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166924,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166902,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166895,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166817,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166812,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7718,
+        "name": "Movistar Riders"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166809,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166747,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166738,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166301,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166300,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166295,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166290,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166289,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166216,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166215,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166212,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166119,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166117,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166115,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165066,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165061,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698184800000,
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11283,
+        "name": "Falcons"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165055,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1697752800000,
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164731,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697752800000,
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164730,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164604,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164602,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1697580000000,
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164597,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1697407200000,
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164508,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1697407200000,
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164503,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1697407200000,
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164488,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1695765600000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12260,
+        "name": "Looking4Org"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163542,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695765600000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12260,
+        "name": "Looking4Org"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 163535,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1695765600000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12260,
+        "name": "Looking4Org"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 163531,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694988000000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163070,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1694988000000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163064,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1694988000000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163060,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694728800000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162839,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1694728800000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10973,
+        "name": "Anonymo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 162832,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1694642400000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 162723,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694642400000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162718,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694383200000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12227,
+        "name": "SHAPITO"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 162518,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1694383200000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12227,
+        "name": "SHAPITO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162515,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1692914400000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 161749,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1692914400000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161743,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1692914400000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161737,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692914400000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161726,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692914400000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161723,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161698,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 4411,
+        "name": "Ninjas in Pyjamas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161691,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12315,
+        "name": "Victory Zigzag"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161669,
+      "result": {
+        "team1": 16,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1692828000000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12315,
+        "name": "Victory Zigzag"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161661,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692741600000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161623,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692741600000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161618,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692741600000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161609,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1692741600000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 161595,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1692741600000,
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161586,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1692568800000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161511,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1692568800000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161507,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1692396000000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161421,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1692396000000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11827,
+        "name": "JANO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161416,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161311,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161303,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161301,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692050400000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 161257,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692050400000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161253,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7272,
+        "name": "IEM Sydney 2023 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 160915,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7272,
+        "name": "IEM Sydney 2023 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 160908,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7272,
+        "name": "IEM Sydney 2023 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 160901,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7272,
+        "name": "IEM Sydney 2023 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 160894,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7272,
+        "name": "IEM Sydney 2023 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "team2": {
+        "id": 7441,
+        "name": "ECLOT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 160879,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 11840,
+      "name": "Boombl4"
+    },
+    {
+      "id": 15662,
+      "name": "zorte"
+    },
+    {
+      "id": 16555,
+      "name": "Ax1Le"
+    },
+    {
+      "id": 18506,
+      "name": "S1ren"
+    },
+    {
+      "id": 21667,
+      "name": "Magnojez"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 21533,
+      "name": "innersh1ne"
+    },
+    {
+      "id": 16921,
+      "name": "nafany"
+    },
+    {
+      "id": 19920,
+      "name": "KaiR0N-"
+    },
+    {
+      "id": 22039,
+      "name": "danistzz"
+    }
+  ],
+  "standins": [
+    {
+      "id": 18670,
+      "name": "SELLTER"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8273,
+        "name": "IEM Dallas 2025 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8346,
+        "name": "RES Showdown 1 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7909,
+        "name": "BLAST Bounty 2025 Season 1 Finals"
+      }
+    },
+    {
+      "place": "1-8th",
+      "event": {
+        "id": 7903,
+        "name": "BLAST Bounty 2025 Season 1"
+      }
+    },
+    {
+      "place": "8th",
+      "event": {
+        "id": 7864,
+        "name": "Perfect World Shanghai Major 2024 Europe RMR A"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8108,
+        "name": "YaLLa Compass Fall 2024"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8105,
+        "name": "CCT Season 2 Europe Series 14"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7602,
+        "name": "ESL Challenger Atlanta 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8074,
+        "name": "CCT Season 2 Europe Series 12"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 8020,
+        "name": "CCT Season 2 Europe Series 10"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8028,
+        "name": "Thunderpick World Championship 2024 EU Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8005,
+        "name": "BetBoom Dacha Belgrade Season 2 Play-in"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7999,
+        "name": "CCT Season 2 Europe Series 8"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7475,
+        "name": "YaLLa Compass 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7816,
+        "name": "CCT Season 2 Europe Series 3"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7517,
+        "name": "CCT Global Finals 2024"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7755,
+        "name": "BetBoom Dacha Belgrade 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7795,
+        "name": "CCT Season 2 Europe Series 2 "
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7440,
+        "name": "ESL Pro League Season 19"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7781,
+        "name": "CCT Season 2 Europe Series 1"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7642,
+        "name": "YaLLa Compass Spring 2024"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7759,
+        "name": "Esports World Cup 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7758,
+        "name": "Esports World Cup 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7711,
+        "name": "Skyesports Masters 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7757,
+        "name": "BetBoom Dacha Belgrade 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7723,
+        "name": "ESL Challenger Jönköping 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7733,
+        "name": "Skyesports Masters 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7709,
+        "name": "RES Regional Series 1 Europe"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7652,
+        "name": "IEM Dallas 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "4-6th",
+      "event": {
+        "id": 7578,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe Last Chance Qualifier"
+      }
+    },
+    {
+      "place": "9-11th",
+      "event": {
+        "id": 7259,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR A"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 7606,
+        "name": "IEM Chengdu 2024 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7551,
+        "name": "IEM Katowice 2024 Play-in"
+      }
+    },
+    {
+      "place": "5th",
+      "event": {
+        "id": 7392,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Closed Qualifier A"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7479,
+        "name": "YaLLa Compass Fall 2023"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7499,
+        "name": "BetBoom Dacha 2023"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7527,
+        "name": "PARI Please 2023"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7451,
+        "name": "CCT East Europe Series 3"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 6865,
+        "name": "IEM Sydney 2023"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7274,
+        "name": "IEM Sydney 2023 Europe Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7272,
+        "name": "IEM Sydney 2023 Europe Open Qualifier 1"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_mirage": {
+      "wins": 46,
+      "draws": 0,
+      "losses": 23,
+      "winRate": 66.7,
+      "totalRounds": 1551,
+      "roundWinPAfterFirstKill": 75.5,
+      "roundWinPAfterFirstDeath": 32
+    },
+    "de_ancient": {
+      "wins": 36,
+      "draws": 0,
+      "losses": 30,
+      "winRate": 54.5,
+      "totalRounds": 1437,
+      "roundWinPAfterFirstKill": 73.5,
+      "roundWinPAfterFirstDeath": 29.5
+    },
+    "de_anubis": {
+      "wins": 33,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 55.9,
+      "totalRounds": 1271,
+      "roundWinPAfterFirstKill": 72.4,
+      "roundWinPAfterFirstDeath": 30.8
+    },
+    "de_nuke": {
+      "wins": 30,
+      "draws": 0,
+      "losses": 25,
+      "winRate": 54.5,
+      "totalRounds": 1164,
+      "roundWinPAfterFirstKill": 70.3,
+      "roundWinPAfterFirstDeath": 29.4
+    },
+    "de_overpass": {
+      "wins": 26,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 66.7,
+      "totalRounds": 921,
+      "roundWinPAfterFirstKill": 73.9,
+      "roundWinPAfterFirstDeath": 32
+    },
+    "de_vertigo": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 33.3,
+      "totalRounds": 590,
+      "roundWinPAfterFirstKill": 65.6,
+      "roundWinPAfterFirstDeath": 25.2
+    },
+    "de_dust2": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 47.1,
+      "totalRounds": 343,
+      "roundWinPAfterFirstKill": 77.2,
+      "roundWinPAfterFirstDeath": 23.3
+    },
+    "de_inferno": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 37,
+      "roundWinPAfterFirstKill": 68.4,
+      "roundWinPAfterFirstDeath": 33.3
+    },
+    "de_train": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 51,
+      "roundWinPAfterFirstKill": 82.8,
+      "roundWinPAfterFirstDeath": 22.7
+    }
+  }
+}

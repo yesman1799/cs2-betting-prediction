@@ -1,0 +1,6487 @@
+{
+  "id": 12468,
+  "name": "Legacy",
+  "overview": {
+    "mapsPlayed": 287,
+    "totalKills": 21347,
+    "totalDeaths": 20009,
+    "roundsPlayed": 6233,
+    "kdRatio": 1.07,
+    "wins": 170,
+    "draws": 0,
+    "losses": 117
+  },
+  "matches": [
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193207,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740178800000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193206,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11555,
+        "name": "UNO MILLE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193119,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740092400000,
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11555,
+        "name": "UNO MILLE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193117,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8277,
+        "name": "IEM Dallas 2025 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11837,
+        "name": "Fluxo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192564,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8277,
+        "name": "IEM Dallas 2025 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11837,
+        "name": "Fluxo"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192562,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8277,
+        "name": "IEM Dallas 2025 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11837,
+        "name": "Fluxo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192486,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8277,
+        "name": "IEM Dallas 2025 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11837,
+        "name": "Fluxo"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192481,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8277,
+        "name": "IEM Dallas 2025 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192476,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8277,
+        "name": "IEM Dallas 2025 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192472,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8276,
+        "name": "IEM Dallas 2025 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192110,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8276,
+        "name": "IEM Dallas 2025 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192100,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8276,
+        "name": "IEM Dallas 2025 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12789,
+        "name": "LaChampionsLiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192090,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8349,
+        "name": "ACE South American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192067,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8349,
+        "name": "ACE South American Masters Spring 2025 - BLAST Premier Rising Event"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192066,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8276,
+        "name": "IEM Dallas 2025 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11555,
+        "name": "UNO MILLE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191952,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191950,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191946,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191941,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191779,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191774,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 13137,
+        "name": "Familia Maquininha"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191756,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 13137,
+        "name": "Familia Maquininha"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191747,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738278000000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191455,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738278000000,
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191450,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736636400000,
+      "event": {
+        "id": 8220,
+        "name": "Frost and Fire South America Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190223,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1736636400000,
+      "event": {
+        "id": 8220,
+        "name": "Frost and Fire South America Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190222,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736636400000,
+      "event": {
+        "id": 8220,
+        "name": "Frost and Fire South America Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190221,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736550000000,
+      "event": {
+        "id": 8220,
+        "name": "Frost and Fire South America Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12548,
+        "name": "Dusty Roots"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190215,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736550000000,
+      "event": {
+        "id": 8220,
+        "name": "Frost and Fire South America Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12548,
+        "name": "Dusty Roots"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190214,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8220,
+        "name": "Frost and Fire South America Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12959,
+        "name": "ShindeN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190188,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1736463600000,
+      "event": {
+        "id": 8220,
+        "name": "Frost and Fire South America Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12959,
+        "name": "ShindeN"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190187,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188069,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188063,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187981,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187929,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731366000000,
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187902,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 7603,
+        "name": "ESL Challenger Katowice 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186947,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 7603,
+        "name": "ESL Challenger Katowice 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186943,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1729893600000,
+      "event": {
+        "id": 7603,
+        "name": "ESL Challenger Katowice 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186934,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 7603,
+        "name": "ESL Challenger Katowice 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186891,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729807200000,
+      "event": {
+        "id": 7603,
+        "name": "ESL Challenger Katowice 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186883,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186825,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186824,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186823,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186811,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186805,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729634400000,
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186802,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186657,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186653,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729375200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186648,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186519,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186517,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729202400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 186515,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186441,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186433,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186428,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186115,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1728511200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186111,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1728424800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186061,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728424800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186054,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8075,
+        "name": "CCT Season 2 North America Series 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185843,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8075,
+        "name": "CCT Season 2 North America Series 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185842,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8075,
+        "name": "CCT Season 2 North America Series 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185749,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8075,
+        "name": "CCT Season 2 North America Series 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185748,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185674,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727992800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185667,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185508,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727820000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185502,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185351,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185350,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727647200000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185346,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185338,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185336,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185271,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185266,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727560800000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185265,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 185260,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 185257,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8093,
+        "name": "ESL Challenger Katowice 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185156,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8093,
+        "name": "ESL Challenger Katowice 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185152,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8093,
+        "name": "ESL Challenger Katowice 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185141,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184936,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184929,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12762,
+        "name": "Revenge Nation"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184843,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1727215200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12762,
+        "name": "Revenge Nation"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184840,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184754,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1727128800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184752,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8100,
+        "name": "PrizePicks NA Revival Series 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 184602,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726869600000,
+      "event": {
+        "id": 8100,
+        "name": "PrizePicks NA Revival Series 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 184596,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184475,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1726783200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184473,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184381,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726696800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184375,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10464,
+        "name": "timbermen"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183224,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725487200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10464,
+        "name": "timbermen"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183219,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 183061,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1725314400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 183059,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183005,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725228000000,
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183004,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182952,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182951,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725141600000,
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182949,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182947,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182945,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182943,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182706,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724882400000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182705,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182693,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182689,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182553,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182421,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182376,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182066,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182065,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181990,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181988,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180543,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180538,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180500,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180491,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11837,
+        "name": "Fluxo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180452,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11837,
+        "name": "Fluxo"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180448,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7948,
+        "name": "CCT Season 2 South America Series 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180440,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 7948,
+        "name": "CCT Season 2 South America Series 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180434,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7948,
+        "name": "CCT Season 2 South America Series 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12318,
+        "name": "Intense"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180369,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7948,
+        "name": "CCT Season 2 South America Series 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12318,
+        "name": "Intense"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180361,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7948,
+        "name": "CCT Season 2 South America Series 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180258,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7948,
+        "name": "CCT Season 2 South America Series 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180255,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1722376800000,
+      "event": {
+        "id": 7948,
+        "name": "CCT Season 2 South America Series 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180250,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 180044,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180042,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12872,
+        "name": "Smoke"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179928,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12872,
+        "name": "Smoke"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179924,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722117600000,
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12872,
+        "name": "Smoke"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179917,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178779,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178772,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178766,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178764,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1720908000000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178762,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720821600000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178745,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720821600000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178741,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1720735200000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12776,
+        "name": "Bounty Hunters"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178714,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720735200000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12776,
+        "name": "Bounty Hunters"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178712,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720735200000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12776,
+        "name": "Bounty Hunters"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178710,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1720648800000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178689,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720648800000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178686,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178638,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178634,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1720562400000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178629,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12755,
+        "name": "Vikings KR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178565,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1720476000000,
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12755,
+        "name": "Vikings KR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178560,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718575200000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178285,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1718575200000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178283,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178277,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178275,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12357,
+        "name": "OMiT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178196,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12357,
+        "name": "OMiT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178194,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178104,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178103,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7799,
+        "name": "ESEA Advanced Season 49 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12357,
+        "name": "OMiT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177789,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1718056800000,
+      "event": {
+        "id": 7799,
+        "name": "ESEA Advanced Season 49 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12357,
+        "name": "OMiT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177788,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177714,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177708,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177707,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177546,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177538,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717797600000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177531,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177381,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177359,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177267,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177266,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7799,
+        "name": "ESEA Advanced Season 49 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12357,
+        "name": "OMiT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 177257,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7799,
+        "name": "ESEA Advanced Season 49 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12357,
+        "name": "OMiT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177251,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12835,
+        "name": "Vibe"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177121,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12835,
+        "name": "Vibe"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177117,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7799,
+        "name": "ESEA Advanced Season 49 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177004,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7799,
+        "name": "ESEA Advanced Season 49 North America"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176998,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176128,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176120,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716242400000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11521,
+        "name": "Carpe Diem"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176073,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175731,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175726,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173982,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173976,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173972,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173854,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173845,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173843,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173837,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173834,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710889200000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172261,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710889200000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172259,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710802800000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 172232,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710802800000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9806,
+        "name": "Apeks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172230,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710716400000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9928,
+        "name": "GamerLegion"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172199,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710630000000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172171,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710630000000,
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172152,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171339,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171335,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1709506800000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171334,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171301,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709420400000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171297,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171235,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171233,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171232,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171184,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7628,
+        "name": "ESL Pro League Season 19 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169491,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169346,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169344,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169337,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 169228,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 169220,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168989,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168986,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 168975,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8574,
+        "name": "W7M"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168968,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9455,
+        "name": "Imperial"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168957,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12393,
+        "name": "Filhos de D10S"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168906,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1705186800000,
+      "event": {
+        "id": 7610,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168833,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705100400000,
+      "event": {
+        "id": 7610,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 2516,
+        "name": "inSanitY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168789,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1704841200000,
+      "event": {
+        "id": 7413,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12065,
+        "name": "Flamengo"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168592,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1704754800000,
+      "event": {
+        "id": 7413,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8574,
+        "name": "W7M"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168586,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1704754800000,
+      "event": {
+        "id": 7413,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12602,
+        "name": "blockkstar"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168571,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1704754800000,
+      "event": {
+        "id": 7413,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12602,
+        "name": "blockkstar"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 168562,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1704754800000,
+      "event": {
+        "id": 7413,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12544,
+        "name": "adalYamigos"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168555,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7543,
+        "name": "CCT 2023 Online Finals 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167517,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7543,
+        "name": "CCT 2023 Online Finals 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167510,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7544,
+        "name": "European Pro League Season 12"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167449,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701385200000,
+      "event": {
+        "id": 7544,
+        "name": "European Pro League Season 12"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 5996,
+        "name": "TSM"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167448,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701298800000,
+      "event": {
+        "id": 7543,
+        "name": "CCT 2023 Online Finals 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 167431,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701298800000,
+      "event": {
+        "id": 7543,
+        "name": "CCT 2023 Online Finals 5"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167429,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701039600000,
+      "event": {
+        "id": 7544,
+        "name": "European Pro League Season 12"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167343,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701039600000,
+      "event": {
+        "id": 7544,
+        "name": "European Pro League Season 12"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11523,
+        "name": "Zero Tenacity"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167338,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700953200000,
+      "event": {
+        "id": 7535,
+        "name": "AOC XL Clash 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167317,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700953200000,
+      "event": {
+        "id": 7535,
+        "name": "AOC XL Clash 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167309,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166767,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166760,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7516,
+        "name": "CCT 2023 Online Finals 4"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166724,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7516,
+        "name": "CCT 2023 Online Finals 4"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166715,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699916400000,
+      "event": {
+        "id": 7516,
+        "name": "CCT 2023 Online Finals 4"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166608,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1699916400000,
+      "event": {
+        "id": 7516,
+        "name": "CCT 2023 Online Finals 4"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166607,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1699830000000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166552,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699830000000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166550,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166469,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7516,
+        "name": "CCT 2023 Online Finals 4"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166452,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1699743600000,
+      "event": {
+        "id": 7516,
+        "name": "CCT 2023 Online Finals 4"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166447,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166009,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166005,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 165994,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8113,
+        "name": "Sharks"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165988,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698879600000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165879,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1698879600000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12144,
+        "name": "BESTIA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165876,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7443,
+        "name": "Game Arena Cup Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165752,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7443,
+        "name": "Game Arena Cup Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165748,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7443,
+        "name": "Game Arena Cup Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165745,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165646,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7443,
+        "name": "Game Arena Cup Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 3044,
+        "name": "MIBR Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165634,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1698620400000,
+      "event": {
+        "id": 7443,
+        "name": "Game Arena Cup Season 1"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 3044,
+        "name": "MIBR Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165627,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165546,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4773,
+        "name": "paiN"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165540,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698357600000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165317,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1698357600000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165315,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1698357600000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12233,
+        "name": "Solid"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165312,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698357600000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12065,
+        "name": "Flamengo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 165295,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698357600000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12065,
+        "name": "Flamengo"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165286,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1698357600000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12065,
+        "name": "Flamengo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165280,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698271200000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10994,
+        "name": "O PLANO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165211,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1698271200000,
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10994,
+        "name": "O PLANO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 165205,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164924,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164915,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698012000000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10894,
+        "name": "Case"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164907,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7462,
+        "name": "ESL Challenger Atlanta 2023 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164879,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7462,
+        "name": "ESL Challenger Atlanta 2023 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164878,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7462,
+        "name": "ESL Challenger Atlanta 2023 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164876,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7462,
+        "name": "ESL Challenger Atlanta 2023 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 10994,
+        "name": "O PLANO"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164810,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697839200000,
+      "event": {
+        "id": 7462,
+        "name": "ESL Challenger Atlanta 2023 South America Open Qualifier"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12491,
+        "name": "2GAME"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164803,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1697839200000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12065,
+        "name": "Flamengo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164794,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1697839200000,
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 12065,
+        "name": "Flamengo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164792,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1696543200000,
+      "event": {
+        "id": 7368,
+        "name": "BLAST Premier Fall Showdown 2023 Americas"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164020,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1696543200000,
+      "event": {
+        "id": 7368,
+        "name": "BLAST Premier Fall Showdown 2023 Americas"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164019,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1696543200000,
+      "event": {
+        "id": 7368,
+        "name": "BLAST Premier Fall Showdown 2023 Americas"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 8297,
+        "name": "FURIA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 164016,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695506400000,
+      "event": {
+        "id": 7424,
+        "name": "CCT 2023 Online Finals 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163400,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695506400000,
+      "event": {
+        "id": 7424,
+        "name": "CCT 2023 Online Finals 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 163395,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1695506400000,
+      "event": {
+        "id": 7424,
+        "name": "CCT 2023 Online Finals 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 163388,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7424,
+        "name": "CCT 2023 Online Finals 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163373,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695420000000,
+      "event": {
+        "id": 7424,
+        "name": "CCT 2023 Online Finals 3"
+      },
+      "team1": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "team2": {
+        "id": 9215,
+        "name": "MIBR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 163366,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 15698,
+      "name": "dumau"
+    },
+    {
+      "id": 19045,
+      "name": "latto"
+    },
+    {
+      "id": 19686,
+      "name": "n1ssim"
+    },
+    {
+      "id": 20563,
+      "name": "lux"
+    },
+    {
+      "id": 22965,
+      "name": "saadzin"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 19694,
+      "name": "nqz"
+    },
+    {
+      "id": 9216,
+      "name": "coldzera"
+    },
+    {
+      "id": 8797,
+      "name": "Stewie2K"
+    },
+    {
+      "id": 17585,
+      "name": "b4rtiN"
+    },
+    {
+      "id": 9482,
+      "name": "NEKIZ"
+    }
+  ],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8354,
+        "name": "CCT Season 2 South America Series 7"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8277,
+        "name": "IEM Dallas 2025 South America Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8349,
+        "name": "ACE South American Masters Spring 2025 - BLAST Premier Rising Event"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8276,
+        "name": "IEM Dallas 2025 South America Open Qualifier"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8290,
+        "name": "CCT Season 2 South America Series 6"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8220,
+        "name": "Frost and Fire South America Season 1"
+      }
+    },
+    {
+      "place": "12-14th",
+      "event": {
+        "id": 7863,
+        "name": "Perfect World Shanghai Major 2024 Americas RMR"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7603,
+        "name": "ESL Challenger Katowice 2024"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7791,
+        "name": "Thunderpick World Championship 2024"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8075,
+        "name": "CCT Season 2 North America Series 3"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8094,
+        "name": "ESL Challenger Katowice 2024 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8093,
+        "name": "ESL Challenger Katowice 2024 North America Open Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8100,
+        "name": "PrizePicks NA Revival Series 3"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7982,
+        "name": "IEM Rio 2024 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7994,
+        "name": "BetBoom Dacha Belgrade Season 2 South America Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7948,
+        "name": "CCT Season 2 South America Series 2"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7923,
+        "name": "CBCS Season 5"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7799,
+        "name": "ESEA Advanced Season 49 North America"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7830,
+        "name": "NA Revival Cup 2024"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "9-11th",
+      "event": {
+        "id": 7258,
+        "name": "PGL CS2 Major Copenhagen 2024 Opening Stage"
+      }
+    },
+    {
+      "place": "3-5th",
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7628,
+        "name": "ESL Pro League Season 19 South America Open Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7410,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7611,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7610,
+        "name": "IEM Chengdu 2024 South America Open Qualifier 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7413,
+        "name": "PGL CS2 Major Copenhagen 2024 SA RMR Open Qualifier 1"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7544,
+        "name": "European Pro League Season 12"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7543,
+        "name": "CCT 2023 Online Finals 5"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7535,
+        "name": "AOC XL Clash 2023"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7516,
+        "name": "CCT 2023 Online Finals 4"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7495,
+        "name": "CCT East Europe Series 4"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 7487,
+        "name": "Copa BetBoom 2023"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7492,
+        "name": "CBCS Season 3"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7443,
+        "name": "Game Arena Cup Season 1"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7462,
+        "name": "ESL Challenger Atlanta 2023 South America Open Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7368,
+        "name": "BLAST Premier Fall Showdown 2023 Americas"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7424,
+        "name": "CCT 2023 Online Finals 3"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 40,
+      "draws": 0,
+      "losses": 24,
+      "winRate": 62.5,
+      "totalRounds": 1379,
+      "roundWinPAfterFirstKill": 75.4,
+      "roundWinPAfterFirstDeath": 29.8
+    },
+    "de_anubis": {
+      "wins": 26,
+      "draws": 0,
+      "losses": 23,
+      "winRate": 53.1,
+      "totalRounds": 1072,
+      "roundWinPAfterFirstKill": 71.8,
+      "roundWinPAfterFirstDeath": 30.4
+    },
+    "de_mirage": {
+      "wins": 28,
+      "draws": 0,
+      "losses": 18,
+      "winRate": 60.9,
+      "totalRounds": 1009,
+      "roundWinPAfterFirstKill": 77.2,
+      "roundWinPAfterFirstDeath": 27.4
+    },
+    "de_inferno": {
+      "wins": 29,
+      "draws": 0,
+      "losses": 17,
+      "winRate": 63,
+      "totalRounds": 955,
+      "roundWinPAfterFirstKill": 72.6,
+      "roundWinPAfterFirstDeath": 30.6
+    },
+    "de_nuke": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 14,
+      "winRate": 54.8,
+      "totalRounds": 701,
+      "roundWinPAfterFirstKill": 75.1,
+      "roundWinPAfterFirstDeath": 30.2
+    },
+    "de_overpass": {
+      "wins": 12,
+      "draws": 0,
+      "losses": 12,
+      "winRate": 50,
+      "totalRounds": 532,
+      "roundWinPAfterFirstKill": 75,
+      "roundWinPAfterFirstDeath": 25.7
+    },
+    "de_dust2": {
+      "wins": 15,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 75,
+      "totalRounds": 431,
+      "roundWinPAfterFirstKill": 72.7,
+      "roundWinPAfterFirstDeath": 35.2
+    },
+    "de_vertigo": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 42.9,
+      "totalRounds": 154,
+      "roundWinPAfterFirstKill": 63.2,
+      "roundWinPAfterFirstDeath": 33.7
+    }
+  }
+}

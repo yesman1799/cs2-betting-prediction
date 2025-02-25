@@ -1,0 +1,5737 @@
+{
+  "id": 5775,
+  "name": "Elevate",
+  "overview": {
+    "mapsPlayed": 246,
+    "totalKills": 20035,
+    "totalDeaths": 20369,
+    "roundsPlayed": 5922,
+    "kdRatio": 0.98,
+    "wins": 122,
+    "draws": 0,
+    "losses": 124
+  },
+  "matches": [
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191951,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191947,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1738882800000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191938,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191877,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191876,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 9996,
+        "name": "9z"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191869,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 13138,
+        "name": "Tropa do VSM"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191862,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 13138,
+        "name": "Tropa do VSM"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191854,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738796400000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 13138,
+        "name": "Tropa do VSM"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191845,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191772,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191769,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1738710000000,
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191748,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190926,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7176,
+        "name": "RED Canids"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190918,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11933,
+        "name": "Yawara"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190750,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11933,
+        "name": "Yawara"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190746,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182697,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182694,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182686,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182562,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724796000000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 182560,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1724709600000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182427,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724623200000,
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182405,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181717,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723932000000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181714,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7961,
+        "name": "ESL Challenger Atlanta 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181668,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7961,
+        "name": "ESL Challenger Atlanta 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181665,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7961,
+        "name": "ESL Challenger Atlanta 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12928,
+        "name": "Bluekillers"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181659,
+      "result": {
+        "team1": 13,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181608,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1723845600000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181607,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7980,
+        "name": "IEM Rio 2024 North America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181558,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7980,
+        "name": "IEM Rio 2024 North America Open Qualifier 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12567,
+        "name": "Akimbo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181550,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1723586400000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181426,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1723586400000,
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12722,
+        "name": "E-Xolos LAZER"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 181423,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180926,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723068000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180925,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180646,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180645,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180641,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180636,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180632,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180630,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 180555,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180550,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1722722400000,
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180545,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180265,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722463200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180257,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 179700,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721858400000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179695,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721512800000,
+      "event": {
+        "id": 7965,
+        "name": "PrizePicks NA Revival Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179501,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1721512800000,
+      "event": {
+        "id": 7965,
+        "name": "PrizePicks NA Revival Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 179496,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1721512800000,
+      "event": {
+        "id": 7965,
+        "name": "PrizePicks NA Revival Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 179492,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7965,
+        "name": "PrizePicks NA Revival Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12844,
+        "name": "Perseverance"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179426,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1721426400000,
+      "event": {
+        "id": 7965,
+        "name": "PrizePicks NA Revival Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12844,
+        "name": "Perseverance"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 179420,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179229,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721340000000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 179227,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12844,
+        "name": "Perseverance"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179103,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721253600000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12844,
+        "name": "Perseverance"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 179100,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178972,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1721167200000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178966,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178873,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178868,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1719180000000,
+      "event": {
+        "id": 7922,
+        "name": "Fragadelphia Kansas City 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12869,
+        "name": "Locke's Kittens"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178342,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1719180000000,
+      "event": {
+        "id": 7922,
+        "name": "Fragadelphia Kansas City 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12869,
+        "name": "Locke's Kittens"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178341,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1719180000000,
+      "event": {
+        "id": 7922,
+        "name": "Fragadelphia Kansas City 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12869,
+        "name": "Locke's Kittens"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178340,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1719093600000,
+      "event": {
+        "id": 7922,
+        "name": "Fragadelphia Kansas City 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12610,
+        "name": "WICKED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178333,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1719093600000,
+      "event": {
+        "id": 7922,
+        "name": "Fragadelphia Kansas City 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12610,
+        "name": "WICKED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178332,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1719093600000,
+      "event": {
+        "id": 7922,
+        "name": "Fragadelphia Kansas City 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12875,
+        "name": "LOCK IN"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178321,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1719093600000,
+      "event": {
+        "id": 7922,
+        "name": "Fragadelphia Kansas City 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12875,
+        "name": "LOCK IN"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178318,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178277,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178275,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178216,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178215,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178210,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178117,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178116,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177384,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177382,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177376,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177359,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177280,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177275,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717711200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177272,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12301,
+        "name": "FlyQuest RED"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177250,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12301,
+        "name": "FlyQuest RED"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177245,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 177127,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177124,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717624800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177119,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177008,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177003,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176996,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176172,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1716415200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176165,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12706,
+        "name": "One More"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 176080,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716328800000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12706,
+        "name": "One More"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 176076,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 176003,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175998,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1716156000000,
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175995,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175737,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1715983200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12245,
+        "name": "FLUFFY AIMERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175735,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175559,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1715810400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11388,
+        "name": "Limitless"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175553,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175456,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715724000000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175448,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175437,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1715637600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11660,
+        "name": "Take Flyte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175432,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7825,
+        "name": "David's Cup 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175288,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7825,
+        "name": "David's Cup 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 175285,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7825,
+        "name": "David's Cup 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6673,
+        "name": "NRG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 175280,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1715464800000,
+      "event": {
+        "id": 7825,
+        "name": "David's Cup 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175232,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7825,
+        "name": "David's Cup 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175231,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1715378400000,
+      "event": {
+        "id": 7825,
+        "name": "David's Cup 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175229,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715205600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12483,
+        "name": "MIGHT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175066,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1715205600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12483,
+        "name": "MIGHT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175063,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1715119200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175018,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1715119200000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 175017,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174240,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713909600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174238,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173854,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173845,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1713477600000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173843,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 173835,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713391200000,
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12376,
+        "name": "M80"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173832,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7760,
+        "name": "Esports World Cup 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173737,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7760,
+        "name": "Esports World Cup 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173733,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7760,
+        "name": "Esports World Cup 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173732,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7760,
+        "name": "Esports World Cup 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12257,
+        "name": "Wildcard"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 173721,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 173342,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712786400000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 173337,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 172855,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1712181600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11955,
+        "name": "LAG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172851,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172475,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1711494000000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 12534,
+        "name": "BOSS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 172468,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1710543600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11521,
+        "name": "Carpe Diem"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 172098,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1710543600000,
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11521,
+        "name": "Carpe Diem"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 172095,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7717,
+        "name": "ESL Challenger Jönköping 2024 North America Open Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8038,
+        "name": "Party Astronauts"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171861,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171580,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 7020,
+        "name": "Spirit"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171577,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 171236,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171234,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1709334000000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11768,
+        "name": "ODDIK"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171231,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709247600000,
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5005,
+        "name": "Complexity"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171175,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1642201200000,
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 10709,
+        "name": "SWS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 132730,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1642201200000,
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 10709,
+        "name": "SWS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 132727,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1642201200000,
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 10709,
+        "name": "SWS"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 132725,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1642201200000,
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11412,
+        "name": "Stars Horizon"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 132711,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1642201200000,
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11412,
+        "name": "Stars Horizon"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 132710,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1642201200000,
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11412,
+        "name": "Stars Horizon"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 132708,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1642028400000,
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11015,
+        "name": "Redragon"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 132695,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1642028400000,
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 11015,
+        "name": "Redragon"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 132694,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1623448800000,
+      "event": {
+        "id": 5958,
+        "name": "CBCS Retake Series 2021 Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6619,
+        "name": "INTZ"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 121943,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1623448800000,
+      "event": {
+        "id": 5958,
+        "name": "CBCS Retake Series 2021 Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6619,
+        "name": "INTZ"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 121938,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1623448800000,
+      "event": {
+        "id": 5958,
+        "name": "CBCS Retake Series 2021 Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6619,
+        "name": "INTZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 121935,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1623362400000,
+      "event": {
+        "id": 5958,
+        "name": "CBCS Retake Series 2021 Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8885,
+        "name": "FURIA Academy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 121886,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1623362400000,
+      "event": {
+        "id": 5958,
+        "name": "CBCS Retake Series 2021 Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6619,
+        "name": "INTZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 121880,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1622584800000,
+      "event": {
+        "id": 5926,
+        "name": "Aorus League 2021 Season 2 Brazil"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6619,
+        "name": "INTZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 121440,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1622498400000,
+      "event": {
+        "id": 5926,
+        "name": "Aorus League 2021 Season 2 Brazil"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 10669,
+        "name": "Paquetá"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 121382,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1620165600000,
+      "event": {
+        "id": 5912,
+        "name": "RedZone PRO League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 9213,
+        "name": "Santos"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 119634,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1620165600000,
+      "event": {
+        "id": 5912,
+        "name": "RedZone PRO League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 9213,
+        "name": "Santos"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 119632,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1620165600000,
+      "event": {
+        "id": 5912,
+        "name": "RedZone PRO League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 9213,
+        "name": "Santos"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 119631,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1620165600000,
+      "event": {
+        "id": 5912,
+        "name": "RedZone PRO League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8885,
+        "name": "FURIA Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 119570,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1620165600000,
+      "event": {
+        "id": 5912,
+        "name": "RedZone PRO League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8885,
+        "name": "FURIA Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 119569,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1620165600000,
+      "event": {
+        "id": 5912,
+        "name": "RedZone PRO League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 8885,
+        "name": "FURIA Academy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 119563,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1439330400000,
+      "event": {
+        "id": 1849,
+        "name": "CEVO Professional Season 8 Placement NA"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6132,
+        "name": "Method"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 23224,
+      "result": {
+        "team1": 31,
+        "team2": 27
+      }
+    },
+    {
+      "date": 1439330400000,
+      "event": {
+        "id": 1849,
+        "name": "CEVO Professional Season 8 Placement NA"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6132,
+        "name": "Method"
+      },
+      "map": "de_cache",
+      "mapStatsId": 23222,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1439330400000,
+      "event": {
+        "id": 1849,
+        "name": "CEVO Professional Season 8 Placement NA"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6132,
+        "name": "Method"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 23221,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1438466400000,
+      "event": {
+        "id": 1809,
+        "name": "ESL One Cologne 2015 NA Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_cache",
+      "mapStatsId": 22144,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1438466400000,
+      "event": {
+        "id": 1809,
+        "name": "ESL One Cologne 2015 NA Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 22143,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1438466400000,
+      "event": {
+        "id": 1809,
+        "name": "ESL One Cologne 2015 NA Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5479,
+        "name": "Mythic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 22140,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1438466400000,
+      "event": {
+        "id": 1809,
+        "name": "ESL One Cologne 2015 NA Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6262,
+        "name": "Maximum Effort"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 22110,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1438380000000,
+      "event": {
+        "id": 1809,
+        "name": "ESL One Cologne 2015 NA Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 22105,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1435183200000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_train",
+      "mapStatsId": 21690,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1435183200000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 21689,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1435183200000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5998,
+        "name": "affNity"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 21718,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1435183200000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5998,
+        "name": "affNity"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 21717,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1435096800000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5700,
+        "name": "LunatiK"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 21648,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1435096800000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5700,
+        "name": "LunatiK"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 21647,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1435010400000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6033,
+        "name": "Keyd"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 21756,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1434924000000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6021,
+        "name": "Luminosity"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 21749,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1434578400000,
+      "event": {
+        "id": 1789,
+        "name": "FACEIT League 2015 Stage 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 21761,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1434492000000,
+      "event": {
+        "id": 1789,
+        "name": "FACEIT League 2015 Stage 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_train",
+      "mapStatsId": 21547,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1434492000000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4645,
+        "name": "mouseSpaz"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 21543,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1433973600000,
+      "event": {
+        "id": 1789,
+        "name": "FACEIT League 2015 Stage 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6021,
+        "name": "Luminosity"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 21514,
+      "result": {
+        "team1": 22,
+        "team2": 26
+      }
+    },
+    {
+      "date": 1433887200000,
+      "event": {
+        "id": 1789,
+        "name": "FACEIT League 2015 Stage 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_train",
+      "mapStatsId": 21433,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1433887200000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6118,
+        "name": "Tempo Storm"
+      },
+      "map": "de_train",
+      "mapStatsId": 21435,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1433887200000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 21434,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1433800800000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5454,
+        "name": "SKDC"
+      },
+      "map": "de_cache",
+      "mapStatsId": 21430,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1433800800000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5454,
+        "name": "SKDC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 21429,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1433800800000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 21395,
+      "result": {
+        "team1": 21,
+        "team2": 25
+      }
+    },
+    {
+      "date": 1433800800000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6098,
+        "name": "Nihilum"
+      },
+      "map": "de_cache",
+      "mapStatsId": 21393,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1433714400000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6021,
+        "name": "Luminosity"
+      },
+      "map": "de_cache",
+      "mapStatsId": 21423,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1433714400000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6021,
+        "name": "Luminosity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 21422,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1433541600000,
+      "event": {
+        "id": 1795,
+        "name": "HTC Reborn Invitational"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_train",
+      "mapStatsId": 21385,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1433541600000,
+      "event": {
+        "id": 1795,
+        "name": "HTC Reborn Invitational"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 21384,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1433368800000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6132,
+        "name": "Method"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 21334,
+      "result": {
+        "team1": 16,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1433368800000,
+      "event": {
+        "id": 1789,
+        "name": "FACEIT League 2015 Stage 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_train",
+      "mapStatsId": 21332,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1433282400000,
+      "event": {
+        "id": 1789,
+        "name": "FACEIT League 2015 Stage 2"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_cache",
+      "mapStatsId": 21270,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1433196000000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 21160,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1433109600000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5998,
+        "name": "affNity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 21136,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1433109600000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6033,
+        "name": "Keyd"
+      },
+      "map": "de_cache",
+      "mapStatsId": 21135,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1432850400000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6117,
+        "name": "ACE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 21065,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1432677600000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5998,
+        "name": "affNity"
+      },
+      "map": "de_train",
+      "mapStatsId": 20997,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1432418400000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 20869,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1432418400000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 20867,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1432245600000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 20914,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1432159200000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6101,
+        "name": "vVv"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 20819,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1432159200000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6101,
+        "name": "vVv"
+      },
+      "map": "de_cache",
+      "mapStatsId": 20817,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1431986400000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 20729,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1431986400000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6098,
+        "name": "Nihilum"
+      },
+      "map": "de_train",
+      "mapStatsId": 20720,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1431986400000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6098,
+        "name": "Nihilum"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 20719,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1431640800000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6118,
+        "name": "Tempo Storm"
+      },
+      "map": "de_cache",
+      "mapStatsId": 20587,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1431554400000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6021,
+        "name": "Luminosity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 20527,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1431468000000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6117,
+        "name": "ACE"
+      },
+      "map": "de_train",
+      "mapStatsId": 20487,
+      "result": {
+        "team1": 16,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1431381600000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6098,
+        "name": "Nihilum"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 20450,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1431381600000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6132,
+        "name": "Method"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 20453,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1431381600000,
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6132,
+        "name": "Method"
+      },
+      "map": "de_cache",
+      "mapStatsId": 20451,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1431036000000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4645,
+        "name": "mouseSpaz"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 20312,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1430949600000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6118,
+        "name": "Tempo Storm"
+      },
+      "map": "de_cache",
+      "mapStatsId": 20307,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1430949600000,
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5972,
+        "name": "Paradox"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 20306,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1430431200000,
+      "event": {
+        "id": 1606,
+        "name": "FACEIT League 2015 Stage 1 Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 20125,
+      "result": {
+        "team1": 1,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1430431200000,
+      "event": {
+        "id": 1606,
+        "name": "FACEIT League 2015 Stage 1 Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4608,
+        "name": "Natus Vincere"
+      },
+      "map": "de_cache",
+      "mapStatsId": 20124,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1430431200000,
+      "event": {
+        "id": 1606,
+        "name": "FACEIT League 2015 Stage 1 Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 20123,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1430431200000,
+      "event": {
+        "id": 1606,
+        "name": "FACEIT League 2015 Stage 1 Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5378,
+        "name": "Virtus.pro"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 20122,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1429135200000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 19802,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1429135200000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 19801,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1429135200000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_cache",
+      "mapStatsId": 19800,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1429048800000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6098,
+        "name": "Nihilum"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 19799,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1429048800000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6098,
+        "name": "Nihilum"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 19798,
+      "result": {
+        "team1": 16,
+        "team2": 0
+      }
+    },
+    {
+      "date": 1429048800000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6021,
+        "name": "Luminosity"
+      },
+      "map": "de_cache",
+      "mapStatsId": 19797,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1429048800000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 6021,
+        "name": "Luminosity"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 19796,
+      "result": {
+        "team1": 16,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1428962400000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 19662,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1428962400000,
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_cache",
+      "mapStatsId": 19661,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1428012000000,
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 19422,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1427839200000,
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 19408,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1427410800000,
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5454,
+        "name": "SKDC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 19364,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1427238000000,
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 19349,
+      "result": {
+        "team1": 21,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1426806000000,
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5454,
+        "name": "SKDC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 19293,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1424818800000,
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5974,
+        "name": "CLG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 19183,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1424386800000,
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5752,
+        "name": "Cloud9"
+      },
+      "map": "de_cbble",
+      "mapStatsId": 19158,
+      "result": {
+        "team1": 26,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1424300400000,
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5973,
+        "name": "Liquid"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 19150,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1417820400000,
+      "event": {
+        "id": 1563,
+        "name": "ESEA Invite Season 17 Global Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4643,
+        "name": "Denial"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 18760,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1417820400000,
+      "event": {
+        "id": 1563,
+        "name": "ESEA Invite Season 17 Global Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4643,
+        "name": "Denial"
+      },
+      "map": "de_cache",
+      "mapStatsId": 18758,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1417820400000,
+      "event": {
+        "id": 1563,
+        "name": "ESEA Invite Season 17 Global Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4643,
+        "name": "Denial"
+      },
+      "map": "default",
+      "mapStatsId": 18757,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1417820400000,
+      "event": {
+        "id": 1563,
+        "name": "ESEA Invite Season 17 Global Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_cache",
+      "mapStatsId": 18743,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1417820400000,
+      "event": {
+        "id": 1563,
+        "name": "ESEA Invite Season 17 Global Finals"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 4991,
+        "name": "fnatic"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 18742,
+      "result": {
+        "team1": 0,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1413842400000,
+      "event": {
+        "id": 1522,
+        "name": "DreamHack Winter 2014 NA Closed Qualifier"
+      },
+      "team1": {
+        "id": 5775,
+        "name": "Elevate"
+      },
+      "team2": {
+        "id": 5231,
+        "name": "iBUYPOWER"
+      },
+      "map": "de_cache",
+      "mapStatsId": 18647,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 20278,
+      "name": "short"
+    },
+    {
+      "id": 21100,
+      "name": "zede"
+    },
+    {
+      "id": 22777,
+      "name": "diozera"
+    },
+    {
+      "id": 22956,
+      "name": "lash"
+    },
+    {
+      "id": 24289,
+      "name": "skr"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 9195,
+      "name": "aKis"
+    },
+    {
+      "id": 17522,
+      "name": "bruno"
+    },
+    {
+      "id": 8521,
+      "name": "daps"
+    },
+    {
+      "id": 13290,
+      "name": "Demonos"
+    },
+    {
+      "id": 8350,
+      "name": "desi"
+    },
+    {
+      "id": 8738,
+      "name": "EliGE"
+    },
+    {
+      "id": 2644,
+      "name": "Hiko"
+    },
+    {
+      "id": 20939,
+      "name": "history"
+    },
+    {
+      "id": 20184,
+      "name": "HPS"
+    },
+    {
+      "id": 21170,
+      "name": "koala"
+    },
+    {
+      "id": 8520,
+      "name": "NAF"
+    },
+    {
+      "id": 17181,
+      "name": "naitte"
+    },
+    {
+      "id": 19150,
+      "name": "paiva"
+    },
+    {
+      "id": 22135,
+      "name": "Peeping"
+    },
+    {
+      "id": 8912,
+      "name": "Professor_Chaos"
+    },
+    {
+      "id": 7935,
+      "name": "roca"
+    },
+    {
+      "id": 7805,
+      "name": "RUSH"
+    },
+    {
+      "id": 11342,
+      "name": "SKip"
+    },
+    {
+      "id": 200,
+      "name": "Storm"
+    },
+    {
+      "id": 18963,
+      "name": "supLexN1"
+    },
+    {
+      "id": 18894,
+      "name": "t9rnay"
+    },
+    {
+      "id": 216,
+      "name": "Volcano"
+    },
+    {
+      "id": 1331,
+      "name": "Xp3"
+    },
+    {
+      "id": 18891,
+      "name": "CutzMeretz"
+    },
+    {
+      "id": 20692,
+      "name": "dea"
+    },
+    {
+      "id": 19709,
+      "name": "shane"
+    },
+    {
+      "id": 19710,
+      "name": "dare"
+    },
+    {
+      "id": 201,
+      "name": "Warden"
+    },
+    {
+      "id": 19711,
+      "name": "snav"
+    }
+  ],
+  "standins": [
+    {
+      "id": 21058,
+      "name": "Fr3nk1e"
+    },
+    {
+      "id": 8136,
+      "name": "Lucky"
+    },
+    {
+      "id": 18895,
+      "name": "ricdicGREAT"
+    },
+    {
+      "id": 7440,
+      "name": "Skadoodle"
+    },
+    {
+      "id": 9044,
+      "name": "sluG"
+    },
+    {
+      "id": 20885,
+      "name": "fREQ"
+    },
+    {
+      "id": 21099,
+      "name": "bsd"
+    },
+    {
+      "id": 17133,
+      "name": "desh"
+    },
+    {
+      "id": 20213,
+      "name": "intra"
+    },
+    {
+      "id": 20983,
+      "name": "MRC9"
+    },
+    {
+      "id": 21882,
+      "name": "nbgee12"
+    },
+    {
+      "id": 7804,
+      "name": "applesauce"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8296,
+        "name": "ESL Challenger League Season 49 South America"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8348,
+        "name": "ACE South American Masters Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 7803,
+        "name": "ESL Challenger League Season 48 North America"
+      }
+    },
+    {
+      "place": "6-8th",
+      "event": {
+        "id": 7868,
+        "name": "Perfect World Shanghai Major 2024 NA RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7973,
+        "name": "CCT Season 2 North America Series 2"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7961,
+        "name": "ESL Challenger Atlanta 2024 North America Open Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7980,
+        "name": "IEM Rio 2024 North America Open Qualifier 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8001,
+        "name": "PrizePicks NA Revival Series 2"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7965,
+        "name": "PrizePicks NA Revival Series 1"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7922,
+        "name": "Fragadelphia Kansas City 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7885,
+        "name": "CCT Season 2 North America Series 1"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7621,
+        "name": "ESL Challenger League Season 47 North America"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7882,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 2"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 7787,
+        "name": "Ace North American Masters Fall 2024 - BLAST Premier Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7841,
+        "name": "Thunderpick World Championship 2024 NA Closed Qualifier 1"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7825,
+        "name": "David's Cup 2024"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7761,
+        "name": "Esports World Cup 2024 North America Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7760,
+        "name": "Esports World Cup 2024 North America Open Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7717,
+        "name": "ESL Challenger Jönköping 2024 North America Open Qualifier"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7553,
+        "name": "BLAST Premier Spring Showdown 2024"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7261,
+        "name": "PGL CS2 Major Copenhagen 2024 Americas RMR"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 6338,
+        "name": "Liga Gamers Club 2021 Serie A December Cup"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 5958,
+        "name": "CBCS Retake Series 2021 Season 1"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 5926,
+        "name": "Aorus League 2021 Season 2 Brazil"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 5912,
+        "name": "RedZone PRO League Season 1"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 1849,
+        "name": "CEVO Professional Season 8 Placement NA"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 1809,
+        "name": "ESL One Cologne 2015 NA Qualifier"
+      }
+    },
+    {
+      "place": "16-18th",
+      "event": {
+        "id": 1789,
+        "name": "FACEIT League 2015 Stage 2"
+      }
+    },
+    {
+      "place": "19-20th",
+      "event": {
+        "id": 1733,
+        "name": "CEVO Professional Season 7"
+      }
+    },
+    {
+      "place": "13-14th",
+      "event": {
+        "id": 1742,
+        "name": "ESL ESEA Pro League Season 1"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 1795,
+        "name": "HTC Reborn Invitational"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 1606,
+        "name": "FACEIT League 2015 Stage 1 Finals"
+      }
+    },
+    {
+      "place": "4-6th",
+      "event": {
+        "id": 1662,
+        "name": "FACEIT League 2015 Stage 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 1670,
+        "name": "CEVO Professional Season 6 LAN Finals"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 1563,
+        "name": "ESEA Invite Season 17 Global Finals"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 1522,
+        "name": "DreamHack Winter 2014 NA Closed Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_mirage": {
+      "wins": 29,
+      "draws": 0,
+      "losses": 21,
+      "winRate": 58,
+      "totalRounds": 1080,
+      "roundWinPAfterFirstKill": 72.4,
+      "roundWinPAfterFirstDeath": 31.5
+    },
+    "de_ancient": {
+      "wins": 22,
+      "draws": 0,
+      "losses": 19,
+      "winRate": 53.7,
+      "totalRounds": 874,
+      "roundWinPAfterFirstKill": 72.1,
+      "roundWinPAfterFirstDeath": 32.3
+    },
+    "de_dust2": {
+      "wins": 17,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 51.5,
+      "totalRounds": 863,
+      "roundWinPAfterFirstKill": 70.6,
+      "roundWinPAfterFirstDeath": 30.9
+    },
+    "de_nuke": {
+      "wins": 12,
+      "draws": 0,
+      "losses": 11,
+      "winRate": 52.2,
+      "totalRounds": 564,
+      "roundWinPAfterFirstKill": 74.8,
+      "roundWinPAfterFirstDeath": 26.9
+    },
+    "de_cache": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 13,
+      "winRate": 27.8,
+      "totalRounds": 487,
+      "roundWinPAfterFirstKill": 69.9,
+      "roundWinPAfterFirstDeath": 24.6
+    },
+    "de_inferno": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 11,
+      "winRate": 35.3,
+      "totalRounds": 476,
+      "roundWinPAfterFirstKill": 68.4,
+      "roundWinPAfterFirstDeath": 23.6
+    },
+    "de_vertigo": {
+      "wins": 11,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 68.8,
+      "totalRounds": 379,
+      "roundWinPAfterFirstKill": 77.1,
+      "roundWinPAfterFirstDeath": 27.3
+    },
+    "de_anubis": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 40,
+      "totalRounds": 324,
+      "roundWinPAfterFirstKill": 70.8,
+      "roundWinPAfterFirstDeath": 25
+    },
+    "de_overpass": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 38.5,
+      "totalRounds": 318,
+      "roundWinPAfterFirstKill": 66.5,
+      "roundWinPAfterFirstDeath": 23.9
+    },
+    "de_cbble": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "winRate": 40,
+      "totalRounds": 302,
+      "roundWinPAfterFirstKill": 72.8,
+      "roundWinPAfterFirstDeath": 27.1
+    },
+    "de_train": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 44.4,
+      "totalRounds": 226,
+      "roundWinPAfterFirstKill": 77.1,
+      "roundWinPAfterFirstDeath": 27.3
+    },
+    "default": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 29,
+      "roundWinPAfterFirstKill": 82.4,
+      "roundWinPAfterFirstDeath": 16.7
+    }
+  }
+}

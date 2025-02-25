@@ -1,0 +1,1084 @@
+{
+  "id": 12901,
+  "name": "SemperFi",
+  "overview": {
+    "mapsPlayed": 45,
+    "totalKills": 3386,
+    "totalDeaths": 3040,
+    "roundsPlayed": 947,
+    "kdRatio": 1.11,
+    "wins": 31,
+    "draws": 0,
+    "losses": 14
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8381,
+        "name": "MESA Asian Masters 2025 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12152,
+        "name": "KZG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193487,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8381,
+        "name": "MESA Asian Masters 2025 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12152,
+        "name": "KZG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193480,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8381,
+        "name": "MESA Asian Masters 2025 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12152,
+        "name": "KZG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193472,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8381,
+        "name": "MESA Asian Masters 2025 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11263,
+        "name": "Only One Word"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193381,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8381,
+        "name": "MESA Asian Masters 2025 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11263,
+        "name": "Only One Word"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193373,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12921,
+        "name": "Housebets"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193076,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740006000000,
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12921,
+        "name": "Housebets"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193075,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8351,
+        "name": "DFRAG Invitational 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 13113,
+        "name": "Justice For Tomorrow"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192712,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8351,
+        "name": "DFRAG Invitational 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 13113,
+        "name": "Justice For Tomorrow"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192709,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8351,
+        "name": "DFRAG Invitational 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12276,
+        "name": "DXA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192704,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739574000000,
+      "event": {
+        "id": 8351,
+        "name": "DFRAG Invitational 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12276,
+        "name": "DXA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192699,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192519,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192516,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12921,
+        "name": "Housebets"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192393,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12921,
+        "name": "Housebets"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192385,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192264,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192259,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739142000000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192253,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192153,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192149,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739055600000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 192138,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192009,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191998,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 9881,
+        "name": "Rooster"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191992,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12707,
+        "name": "Underground"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191973,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12707,
+        "name": "Underground"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 191972,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190519,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737154800000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 10245,
+        "name": "JiJieHao"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190510,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190435,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190431,
+      "result": {
+        "team1": 22,
+        "team2": 18
+      }
+    },
+    {
+      "date": 1737068400000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190430,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12952,
+        "name": "ONi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190314,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12952,
+        "name": "ONi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190313,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1736895600000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12952,
+        "name": "ONi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190309,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1736809200000,
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 190244,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12884,
+        "name": "The Art of War"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185855,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12884,
+        "name": "The Art of War"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185853,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1728165600000,
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12884,
+        "name": "The Art of War"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185852,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185765,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185757,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 11668,
+        "name": "Mindfreak"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185755,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12455,
+        "name": "Vantage"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185752,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 12455,
+        "name": "Vantage"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185750,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 7878,
+        "name": "Perfect World Shanghai Major 2024 OCE RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182160,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724450400000,
+      "event": {
+        "id": 7878,
+        "name": "Perfect World Shanghai Major 2024 OCE RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12901,
+        "name": "SemperFi"
+      },
+      "team2": {
+        "id": 8210,
+        "name": "TALON"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182155,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 14990,
+      "name": "keen"
+    },
+    {
+      "id": 16323,
+      "name": "Valiance"
+    },
+    {
+      "id": 20003,
+      "name": "shadiy"
+    },
+    {
+      "id": 20244,
+      "name": "SaVage"
+    },
+    {
+      "id": 23346,
+      "name": "vision "
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8381,
+        "name": "MESA Asian Masters 2025 Oceania Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8350,
+        "name": "EPL World Series Oceania Season 1"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8351,
+        "name": "DFRAG Invitational 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8352,
+        "name": "BLAST Rising Asia Spring 2025 Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8120,
+        "name": "ZOWIE eXTREMESLAND Asia Open 2024"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8119,
+        "name": "eXTREMESLAND 2024 Oceania Closed Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7878,
+        "name": "Perfect World Shanghai Major 2024 OCE RMR Open Qualifier"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_mirage": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 81.8,
+      "totalRounds": 237,
+      "roundWinPAfterFirstKill": 76.5,
+      "roundWinPAfterFirstDeath": 36.6
+    },
+    "de_nuke": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 60,
+      "totalRounds": 206,
+      "roundWinPAfterFirstKill": 71.3,
+      "roundWinPAfterFirstDeath": 32.4
+    },
+    "de_inferno": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "winRate": 44.4,
+      "totalRounds": 189,
+      "roundWinPAfterFirstKill": 62.4,
+      "roundWinPAfterFirstDeath": 35.4
+    },
+    "de_anubis": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 75,
+      "totalRounds": 155,
+      "roundWinPAfterFirstKill": 79.3,
+      "roundWinPAfterFirstDeath": 32.9
+    },
+    "de_ancient": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 85.7,
+      "totalRounds": 160,
+      "roundWinPAfterFirstKill": 73.2,
+      "roundWinPAfterFirstDeath": 36.5
+    }
+  }
+}

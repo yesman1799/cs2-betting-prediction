@@ -1,0 +1,2793 @@
+{
+  "id": 12510,
+  "name": "The Huns",
+  "overview": {
+    "mapsPlayed": 118,
+    "totalKills": 8772,
+    "totalDeaths": 8716,
+    "roundsPlayed": 2566,
+    "kdRatio": 1.01,
+    "wins": 57,
+    "draws": 0,
+    "losses": 61
+  },
+  "matches": [
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193496,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193492,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740438000000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193488,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 193374,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193372,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 193019,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739919600000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193009,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192593,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192590,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192583,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192578,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739401200000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192573,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192517,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192513,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192500,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192498,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739314800000,
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192496,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 192455,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192429,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 192420,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192410,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 192399,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1739228400000,
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192389,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8278,
+        "name": "IEM Dallas 2025 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 192018,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8278,
+        "name": "IEM Dallas 2025 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 192011,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8278,
+        "name": "IEM Dallas 2025 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 191999,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1738969200000,
+      "event": {
+        "id": 8278,
+        "name": "IEM Dallas 2025 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 13150,
+        "name": "VIZORA"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191990,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191251,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 191245,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190974,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12955,
+        "name": "THE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190963,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 13115,
+        "name": "harizma"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190887,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737586800000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 13115,
+        "name": "harizma"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190878,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190798,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12546,
+        "name": "-72c"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190785,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190726,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1737414000000,
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190711,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190040,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 190039,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190035,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1735340400000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 190034,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 190021,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 190020,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11514,
+        "name": "Rare Atom"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190017,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1735254000000,
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12646,
+        "name": "Chinggis Warriors"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190012,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188460,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 188454,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1732230000000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188450,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188399,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1732143600000,
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 13053,
+        "name": "Just Swing"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 188395,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 188207,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731711600000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188200,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 5117,
+        "name": "Czech Republic"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188164,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1731625200000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12684,
+        "name": "Kitsune"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 188148,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1731538800000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 6208,
+        "name": "Argentina"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188125,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 5111,
+        "name": "Serbia"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 188040,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731452400000,
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 5141,
+        "name": "Slovakia"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 188036,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187666,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1731020400000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187665,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12658,
+        "name": "Dewa United"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187573,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1730847600000,
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12415,
+        "name": "Gods Reign"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187571,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186479,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186475,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186468,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12689,
+        "name": "SGGT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186381,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12689,
+        "name": "SGGT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 186373,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729029600000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12689,
+        "name": "SGGT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186367,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12898,
+        "name": "Bromo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186321,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12898,
+        "name": "Bromo"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186317,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1728943200000,
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12898,
+        "name": "Bromo"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186312,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185047,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727388000000,
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185046,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721944800000,
+      "event": {
+        "id": 7983,
+        "name": "IEM Rio 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12898,
+        "name": "Bromo"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 179793,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 175666,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 175663,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1715896800000,
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 175654,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174795,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 174791,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1714687200000,
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11585,
+        "name": "IHC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174789,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1713304800000,
+      "event": {
+        "id": 7764,
+        "name": "Esports World Cup 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 173672,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710284400000,
+      "event": {
+        "id": 7721,
+        "name": "ESL Challenger Jönköping 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12709,
+        "name": "LYG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171875,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707951600000,
+      "event": {
+        "id": 7658,
+        "name": "ESL Challenger Melbourne 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170433,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707951600000,
+      "event": {
+        "id": 7658,
+        "name": "ESL Challenger Melbourne 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170429,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707951600000,
+      "event": {
+        "id": 7658,
+        "name": "ESL Challenger Melbourne 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170423,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1707865200000,
+      "event": {
+        "id": 7658,
+        "name": "ESL Challenger Melbourne 2024 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12717,
+        "name": "TyPuCTbl"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170372,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1706310000000,
+      "event": {
+        "id": 7618,
+        "name": "IEM Chengdu 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 169686,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706310000000,
+      "event": {
+        "id": 7618,
+        "name": "IEM Chengdu 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 4863,
+        "name": "TYLOO"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169683,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706223600000,
+      "event": {
+        "id": 7618,
+        "name": "IEM Chengdu 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169657,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1706223600000,
+      "event": {
+        "id": 7618,
+        "name": "IEM Chengdu 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169655,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1706223600000,
+      "event": {
+        "id": 7618,
+        "name": "IEM Chengdu 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169643,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1706223600000,
+      "event": {
+        "id": 7618,
+        "name": "IEM Chengdu 2024 Asia Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 6248,
+        "name": "The MongolZ"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169639,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169515,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11273,
+        "name": "Steel Helmet"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169513,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1705964400000,
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169506,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1705878000000,
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 10851,
+        "name": "Wings Up"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169475,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 169396,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169392,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169387,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705791600000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169380,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169304,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12088,
+        "name": "GR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169298,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 169282,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169278,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705705200000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 169262,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705618800000,
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12648,
+        "name": "MungYu"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 169164,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12648,
+        "name": "MungYu"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168894,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12649,
+        "name": "Fort Arena"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168889,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168883,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1705273200000,
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 11135,
+        "name": "NKT"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168874,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7568,
+        "name": "MESA Pro Series Winter 2023"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 167489,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7568,
+        "name": "MESA Pro Series Winter 2023"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 167484,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1701471600000,
+      "event": {
+        "id": 7568,
+        "name": "MESA Pro Series Winter 2023"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12312,
+        "name": "ATOX"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 167479,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166734,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166729,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 10839,
+        "name": "Newhappy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166722,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 8840,
+        "name": "Lynn Vision"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166713,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1698966000000,
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165895,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698966000000,
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      },
+      "team1": {
+        "id": 12510,
+        "name": "The Huns"
+      },
+      "team2": {
+        "id": 12097,
+        "name": "Eruption"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165893,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 15072,
+      "name": "nin9"
+    },
+    {
+      "id": 19957,
+      "name": "Bart4k"
+    },
+    {
+      "id": 20703,
+      "name": "xerolte"
+    },
+    {
+      "id": 22179,
+      "name": "Veccil"
+    },
+    {
+      "id": 23402,
+      "name": "cobra"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 18638,
+      "name": "sk0R"
+    },
+    {
+      "id": 9519,
+      "name": "tamir"
+    },
+    {
+      "id": 9245,
+      "name": "Tsogoo"
+    },
+    {
+      "id": 22908,
+      "name": "Wonderzce"
+    },
+    {
+      "id": 19536,
+      "name": "yAmi"
+    }
+  ],
+  "standins": [
+    {
+      "id": 13924,
+      "name": "H4wK"
+    },
+    {
+      "id": 9736,
+      "name": "ncl"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8305,
+        "name": "ESL Challenger League Season 49 Asia-Pacific"
+      }
+    },
+    {
+      "place": "-",
+      "event": {
+        "id": 8380,
+        "name": "MESA Asian Masters 2025 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8353,
+        "name": "BLAST Rising Asia Spring 2025"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 8279,
+        "name": "IEM Dallas 2025 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 8278,
+        "name": "IEM Dallas 2025 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8256,
+        "name": "1xBet MESA Asia Series 2024 Finals"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8191,
+        "name": "1xBet MESA Asia Series 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7779,
+        "name": "IESF World Championship 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8165,
+        "name": "1xBet MESA Asia Series 1"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8006,
+        "name": "ESL Challenger League Season 48 Asia-Pacific"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8106,
+        "name": "MESA Pro Series Fall 2024 Stage 1"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7983,
+        "name": "IEM Rio 2024 Asia Open Qualifier 1"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7821,
+        "name": "MESA Pro Series Finals 2024"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7811,
+        "name": "MESA Pro Series Spring 2024"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7764,
+        "name": "Esports World Cup 2024 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7721,
+        "name": "ESL Challenger Jönköping 2024 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7658,
+        "name": "ESL Challenger Melbourne 2024 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7618,
+        "name": "IEM Chengdu 2024 Asia Closed Qualifier"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7616,
+        "name": "IEM Chengdu 2024 Asia Open Qualifier 1"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 7399,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Closed Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7407,
+        "name": "PGL CS2 Major Copenhagen 2024 East Asia RMR Open Qualifier"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7568,
+        "name": "MESA Pro Series Winter 2023"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7468,
+        "name": "ESL Challenger Atlanta 2023 Asia Open Qualifier"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7503,
+        "name": "MESA Pro Series Fall 2023"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_inferno": {
+      "wins": 15,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 48.4,
+      "totalRounds": 678,
+      "roundWinPAfterFirstKill": 72.3,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_nuke": {
+      "wins": 13,
+      "draws": 0,
+      "losses": 11,
+      "winRate": 54.2,
+      "totalRounds": 526,
+      "roundWinPAfterFirstKill": 71,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_ancient": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 15.8,
+      "totalRounds": 419,
+      "roundWinPAfterFirstKill": 60.2,
+      "roundWinPAfterFirstDeath": 24.5
+    },
+    "de_mirage": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 10,
+      "winRate": 41.2,
+      "totalRounds": 370,
+      "roundWinPAfterFirstKill": 65.1,
+      "roundWinPAfterFirstDeath": 30.3
+    },
+    "de_dust2": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 66.7,
+      "totalRounds": 252,
+      "roundWinPAfterFirstKill": 74.8,
+      "roundWinPAfterFirstDeath": 31.6
+    },
+    "de_anubis": {
+      "wins": 10,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 83.3,
+      "totalRounds": 255,
+      "roundWinPAfterFirstKill": 79.3,
+      "roundWinPAfterFirstDeath": 31.7
+    },
+    "de_vertigo": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 50,
+      "totalRounds": 42,
+      "roundWinPAfterFirstKill": 73.7,
+      "roundWinPAfterFirstDeath": 30.4
+    },
+    "de_overpass": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 0,
+      "totalRounds": 24,
+      "roundWinPAfterFirstKill": 55.6,
+      "roundWinPAfterFirstDeath": 40
+    }
+  }
+}

@@ -1,0 +1,7669 @@
+{
+  "id": 10459,
+  "name": "ARCRED",
+  "overview": {
+    "mapsPlayed": 341,
+    "totalKills": 27344,
+    "totalDeaths": 27914,
+    "roundsPlayed": 8093,
+    "kdRatio": 0.98,
+    "wins": 163,
+    "draws": 0,
+    "losses": 178
+  },
+  "matches": [
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193435,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740351600000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_train",
+      "mapStatsId": 193430,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 13192,
+        "name": "Roler Coaster"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193355,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193353,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193349,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 193347,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 193332,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 4548,
+        "name": "CPH Wolves"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 193325,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1740265200000,
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 193315,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_train",
+      "mapStatsId": 191272,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 191268,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1738018800000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 13104,
+        "name": "Iberian Soul"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191259,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 191021,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 191012,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1737673200000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190997,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 190807,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1737500400000,
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_train",
+      "mapStatsId": 190805,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187488,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730674800000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187483,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 187467,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187463,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187457,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187422,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187418,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1730588400000,
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 187414,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187370,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 187363,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1730502000000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 6668,
+        "name": "FLuffy Gangsters"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187358,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730415600000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10235,
+        "name": "NewBALLS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187286,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730415600000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10235,
+        "name": "NewBALLS"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 187283,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1730415600000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10235,
+        "name": "NewBALLS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187280,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12670,
+        "name": "LEON"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 187235,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1730329200000,
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12670,
+        "name": "LEON"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 187231,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186482,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1729116000000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12960,
+        "name": "Fire Flux"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 186478,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 186198,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728684000000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10371,
+        "name": "NAVI Junior"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186196,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 186178,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728597600000,
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7234,
+        "name": "Endpoint"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 186175,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185791,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 185782,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1728079200000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 185776,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 185224,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727474400000,
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 185218,
+      "result": {
+        "team1": 19,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 185008,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12916,
+        "name": "Apogee"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184997,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1727301600000,
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184983,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184647,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184643,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1726956000000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11581,
+        "name": "HOTU"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184640,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184134,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726351200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184126,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 184071,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 184066,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184062,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 184046,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 184035,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 184028,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183995,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1726264800000,
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 183989,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 183544,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 183539,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1725746400000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 183533,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 182928,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1725055200000,
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12418,
+        "name": "Revenant"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 182923,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 182086,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 182075,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724364000000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 182071,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1724277600000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181999,
+      "result": {
+        "team1": 17,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12604,
+        "name": "Johnny Speeds"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181930,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1724191200000,
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181874,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181841,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1724104800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181836,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723672800000,
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 181516,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 181393,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 181381,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723500000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181376,
+      "result": {
+        "team1": 25,
+        "team2": 23
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 181271,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1723413600000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12559,
+        "name": "RUSH B"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 181261,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180770,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722895200000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180763,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180698,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180696,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722808800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180693,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180498,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722636000000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12878,
+        "name": "BC.Game"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180493,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180393,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 180384,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1722549600000,
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 180381,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180116,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722290400000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180110,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 180036,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1722204000000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12524,
+        "name": "PERA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 180033,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178939,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178933,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1721080800000,
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178929,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 178245,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178243,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 178239,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178234,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1718488800000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178230,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178185,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11737,
+        "name": "EYEBALLERS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178168,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 178134,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1718402400000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10864,
+        "name": "VP.Prodigy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178132,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 178085,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 178074,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1718316000000,
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 178063,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1718229600000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177932,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1718229600000,
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12380,
+        "name": "CYBERSHOKE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177931,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177781,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 177776,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717970400000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 177770,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 177054,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1717538400000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 177044,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176855,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717365600000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12747,
+        "name": "DMS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176852,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 176724,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1717192800000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10873,
+        "name": "Enterprise"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 176709,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_dust2",
+      "mapStatsId": 176586,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1717020000000,
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12818,
+        "name": "FAVBET"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 176577,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1714860000000,
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 174882,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714860000000,
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174881,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174386,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174380,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 174375,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 174358,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 174353,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1714082400000,
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12009,
+        "name": "Permitta"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 174349,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 171843,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171840,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1710198000000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171835,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12753,
+        "name": "FORZE YNG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171655,
+      "result": {
+        "team1": 31,
+        "team2": 29
+      }
+    },
+    {
+      "date": 1709938800000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12753,
+        "name": "FORZE YNG"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171648,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 171597,
+      "result": {
+        "team1": 1,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 171593,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1709852400000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12694,
+        "name": "RUBY"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 171589,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 171390,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1709593200000,
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10621,
+        "name": "1WIN"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171387,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1708988400000,
+      "event": {
+        "id": 7664,
+        "name": "ESL Challenger Melbourne 2024 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 171054,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 170632,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170628,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1708210800000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8813,
+        "name": "Illuminar"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170623,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 170265,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170263,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707606000000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 170260,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 170035,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 170027,
+      "result": {
+        "team1": 19,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1707001200000,
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 170022,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705359600000,
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168923,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1705014000000,
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168722,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703026800000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 168421,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1703026800000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168418,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702854000000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12575,
+        "name": "showmakerz"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 168378,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1702854000000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12575,
+        "name": "showmakerz"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168375,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1702854000000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12575,
+        "name": "showmakerz"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 168372,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1702854000000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168370,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702854000000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 168367,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1702854000000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8637,
+        "name": "Sprout"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 168365,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1702854000000,
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11712,
+        "name": "Sashi"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 168363,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7574,
+        "name": "ESEA Autumn 2023 Cash Cup 6 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 167586,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1701558000000,
+      "event": {
+        "id": 7574,
+        "name": "ESEA Autumn 2023 Cash Cup 6 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 167584,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166970,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700348400000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12289,
+        "name": "Espionage"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166967,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166935,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166927,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700262000000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166921,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 166859,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1700175600000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11948,
+        "name": "Nouns"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166853,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1700089200000,
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166736,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7464,
+        "name": "ESL Challenger Atlanta 2023 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8209,
+        "name": "Pompa"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166686,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7464,
+        "name": "ESL Challenger Atlanta 2023 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8209,
+        "name": "Pompa"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166674,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1700002800000,
+      "event": {
+        "id": 7464,
+        "name": "ESL Challenger Atlanta 2023 Europe Open Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11419,
+        "name": "ECSTATIC"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166663,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166417,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166414,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699657200000,
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12366,
+        "name": "Aurora Young Blud"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166410,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166290,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699484400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 166289,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 166244,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166237,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1699398000000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11518,
+        "name": "Bad News Eagles"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 166226,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 166125,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699311600000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 166122,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 166001,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 165997,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12041,
+        "name": "The Chosen Few"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165992,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165968,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 165962,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1699052400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10333,
+        "name": "Sangal"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165958,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698879600000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165843,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1698879600000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 165841,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1698879600000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165839,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165700,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165696,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1698706800000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165691,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165518,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 165511,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1698530400000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12487,
+        "name": "Gucci Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 165505,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 165349,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1698444000000,
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 165340,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 164857,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697925600000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11641,
+        "name": "Metizport"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164849,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12494,
+        "name": "FatherS And Sons"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164467,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12494,
+        "name": "FatherS And Sons"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 164465,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164427,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1697320800000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12474,
+        "name": "Alliance"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164425,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 164385,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 164373,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1697234400000,
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 164359,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12390,
+        "name": "Los Alpacas"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 164108,
+      "result": {
+        "team1": 13,
+        "team2": 2
+      }
+    },
+    {
+      "date": 1696716000000,
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12390,
+        "name": "Los Alpacas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 164105,
+      "result": {
+        "team1": 13,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1695074400000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8209,
+        "name": "Pompa"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163098,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1695074400000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8209,
+        "name": "Pompa"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 163095,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694988000000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 163070,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694988000000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 163064,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694988000000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12394,
+        "name": "BetBoom"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 163060,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1694815200000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162866,
+      "result": {
+        "team1": 22,
+        "team2": 20
+      }
+    },
+    {
+      "date": 1694815200000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8135,
+        "name": "FORZE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162864,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1694642400000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162744,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694642400000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162736,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162644,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 162636,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162633,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 162595,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1694556000000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 162589,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1694469600000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10854,
+        "name": "los kogutos"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162545,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694469600000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10854,
+        "name": "los kogutos"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 162541,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694469600000,
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10854,
+        "name": "los kogutos"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 162535,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1694296800000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 162453,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1694296800000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 162451,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1694296800000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12000,
+        "name": "500"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162448,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1694210400000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12285,
+        "name": "knasigT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162401,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1694210400000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12285,
+        "name": "knasigT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162397,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1694124000000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162314,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1694124000000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162309,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1694124000000,
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162305,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1693864800000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 162199,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1693864800000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 162196,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1693864800000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12227,
+        "name": "SHAPITO"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 162177,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1693864800000,
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12227,
+        "name": "SHAPITO"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 162175,
+      "result": {
+        "team1": 16,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1692309600000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161379,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1692309600000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12388,
+        "name": "Space"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161375,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161294,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161287,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161282,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692136800000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161275,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692050400000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161250,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1692050400000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 161247,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691964000000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 161208,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691964000000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161204,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1691964000000,
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7187,
+        "name": "Nexus"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161200,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691877600000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 161116,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1691877600000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12334,
+        "name": "Preasy"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 161113,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1691791200000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 161084,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1691791200000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 161075,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1691791200000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11790,
+        "name": "ENCE Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 161070,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691704800000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 160979,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691704800000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12124,
+        "name": "Insilio"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 160974,
+      "result": {
+        "team1": 2,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 160830,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691618400000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10695,
+        "name": "Sampi"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 160828,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691532000000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12371,
+        "name": "ORKS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 160815,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691532000000,
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12371,
+        "name": "ORKS"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 160813,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691532000000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 160803,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1691532000000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10831,
+        "name": "Entropiq"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 160800,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1691359200000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 160683,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691359200000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 160680,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1691359200000,
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 160674,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1690581600000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 160183,
+      "result": {
+        "team1": 2,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1690581600000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 160180,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1690581600000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10399,
+        "name": "Evil Geniuses"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 160178,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1690236000000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 160084,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1690236000000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 160083,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1690063200000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 160043,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1690063200000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 10577,
+        "name": "SINNERS"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 160040,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1689890400000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12117,
+        "name": "Let us cook"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 159937,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1689890400000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12117,
+        "name": "Let us cook"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 159934,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1689631200000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12365,
+        "name": "ex-HYDRA"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 159824,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1689631200000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12365,
+        "name": "ex-HYDRA"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159820,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1689631200000,
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12365,
+        "name": "ex-HYDRA"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 159818,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1689458400000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 6978,
+        "name": "Singularity"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 159733,
+      "result": {
+        "team1": 16,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1689458400000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 6978,
+        "name": "Singularity"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159731,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1689458400000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 6978,
+        "name": "Singularity"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 159723,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1689199200000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8120,
+        "name": "AVANGAR"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159585,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1689199200000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8120,
+        "name": "AVANGAR"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 159582,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1689112800000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 159544,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1689112800000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11628,
+        "name": "ThunderFlash"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 159538,
+      "result": {
+        "team1": 16,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1689112800000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12368,
+        "name": "Papa YAda"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 159511,
+      "result": {
+        "team1": 16,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1689112800000,
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12368,
+        "name": "Papa YAda"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 159504,
+      "result": {
+        "team1": 19,
+        "team2": 17
+      }
+    },
+    {
+      "date": 1686175200000,
+      "event": {
+        "id": 7193,
+        "name": "ESL Challenger League Season 45 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 158657,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1686175200000,
+      "event": {
+        "id": 7193,
+        "name": "ESL Challenger League Season 45 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11883,
+        "name": "9 Pandas"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 158639,
+      "result": {
+        "team1": 20,
+        "team2": 22
+      }
+    },
+    {
+      "date": 1686175200000,
+      "event": {
+        "id": 7193,
+        "name": "ESL Challenger League Season 45 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 158611,
+      "result": {
+        "team1": 7,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1686175200000,
+      "event": {
+        "id": 7193,
+        "name": "ESL Challenger League Season 45 Europe Relegation"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 158599,
+      "result": {
+        "team1": 6,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1685916000000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 158405,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1685916000000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 158398,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1685829600000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 158360,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1685829600000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11176,
+        "name": "MOUZ NXT"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 158351,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1685743200000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11425,
+        "name": "PROSPECTS"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 158241,
+      "result": {
+        "team1": 16,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1685743200000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11425,
+        "name": "PROSPECTS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 158236,
+      "result": {
+        "team1": 16,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1685656800000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 158210,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1685656800000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11982,
+        "name": "IKLA"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 158194,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1685570400000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 158101,
+      "result": {
+        "team1": 16,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1685570400000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 9506,
+        "name": "Viperio"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 158089,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1685484000000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12293,
+        "name": "NF0"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 158016,
+      "result": {
+        "team1": 16,
+        "team2": 3
+      }
+    },
+    {
+      "date": 1685484000000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12293,
+        "name": "NF0"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 158004,
+      "result": {
+        "team1": 12,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1685484000000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12293,
+        "name": "NF0"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 157990,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1685397600000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 157894,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1685397600000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11861,
+        "name": "Aurora"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 157884,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1685311200000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11331,
+        "name": "Websterz"
+      },
+      "map": "de_anubis",
+      "mapStatsId": 157797,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1685311200000,
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11331,
+        "name": "Websterz"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 157784,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6966,
+        "name": "FASTCUP Grand Tour Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11699,
+        "name": "BAKS"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 149156,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6966,
+        "name": "FASTCUP Grand Tour Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11699,
+        "name": "BAKS"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149154,
+      "result": {
+        "team1": 2,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6966,
+        "name": "FASTCUP Grand Tour Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12044,
+        "name": "Boston crab"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 149152,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6966,
+        "name": "FASTCUP Grand Tour Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12044,
+        "name": "Boston crab"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 149149,
+      "result": {
+        "team1": 15,
+        "team2": 19
+      }
+    },
+    {
+      "date": 1671922800000,
+      "event": {
+        "id": 6966,
+        "name": "FASTCUP Grand Tour Season 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 12044,
+        "name": "Boston crab"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 149146,
+      "result": {
+        "team1": 16,
+        "team2": 14
+      }
+    },
+    {
+      "date": 1670454000000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 4602,
+        "name": "Tricked"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 148330,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670454000000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 4602,
+        "name": "Tricked"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148327,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670367600000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 148198,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670367600000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 4501,
+        "name": "ALTERNATE aTTaX"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 148191,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1670281200000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 148135,
+      "result": {
+        "team1": 16,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1670281200000,
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11609,
+        "name": "GenOne"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 148116,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1669590000000,
+      "event": {
+        "id": 6901,
+        "name": "SCL Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 147474,
+      "result": {
+        "team1": 5,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1669590000000,
+      "event": {
+        "id": 6901,
+        "name": "SCL Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7900,
+        "name": "Spirit Academy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 147468,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1669330800000,
+      "event": {
+        "id": 6901,
+        "name": "SCL Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11525,
+        "name": "KTRL"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 147211,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1669330800000,
+      "event": {
+        "id": 6901,
+        "name": "SCL Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11525,
+        "name": "KTRL"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 147205,
+      "result": {
+        "team1": 16,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1663970400000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_vertigo",
+      "mapStatsId": 144211,
+      "result": {
+        "team1": 10,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1663970400000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 144204,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1663884000000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11800,
+        "name": "NeedDOCTOR"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 144109,
+      "result": {
+        "team1": 16,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1663884000000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11800,
+        "name": "NeedDOCTOR"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 144099,
+      "result": {
+        "team1": 19,
+        "team2": 15
+      }
+    },
+    {
+      "date": 1663711200000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11195,
+        "name": "fnatic Rising"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 143900,
+      "result": {
+        "team1": 8,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1663711200000,
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11195,
+        "name": "fnatic Rising"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 143891,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1644706800000,
+      "event": {
+        "id": 6407,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8362,
+        "name": "MAD Lions"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 133835,
+      "result": {
+        "team1": 3,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1644706800000,
+      "event": {
+        "id": 6407,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 2"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 8362,
+        "name": "MAD Lions"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 133829,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1644361200000,
+      "event": {
+        "id": 6378,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 133650,
+      "result": {
+        "team1": 14,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1644361200000,
+      "event": {
+        "id": 6378,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 133644,
+      "result": {
+        "team1": 4,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1644361200000,
+      "event": {
+        "id": 6378,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 11164,
+        "name": "Into the Breach"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 133643,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1644361200000,
+      "event": {
+        "id": 6378,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 133631,
+      "result": {
+        "team1": 16,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1644361200000,
+      "event": {
+        "id": 6378,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 133625,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1644361200000,
+      "event": {
+        "id": 6378,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 1"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7379,
+        "name": "FTW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 133620,
+      "result": {
+        "team1": 9,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1637449200000,
+      "event": {
+        "id": 6267,
+        "name": "SteelSeries FRAG Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 9287,
+        "name": "Unique"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 130612,
+      "result": {
+        "team1": 11,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1637449200000,
+      "event": {
+        "id": 6267,
+        "name": "SteelSeries FRAG Season 7"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 9287,
+        "name": "Unique"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 130604,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    },
+    {
+      "date": 1573599600000,
+      "event": {
+        "id": 5026,
+        "name": "WESG 2019 Uzbekistan"
+      },
+      "team1": {
+        "id": 10459,
+        "name": "ARCRED"
+      },
+      "team2": {
+        "id": 7107,
+        "name": "Uzbekistan"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 94979,
+      "result": {
+        "team1": 13,
+        "team2": 16
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 18447,
+      "name": "DSSj"
+    },
+    {
+      "id": 18671,
+      "name": "Get_Jeka"
+    },
+    {
+      "id": 19703,
+      "name": "Ryujin"
+    },
+    {
+      "id": 21363,
+      "name": "shg"
+    },
+    {
+      "id": 21369,
+      "name": "1NVISIBLEE"
+    }
+  ],
+  "historicPlayers": [
+    {
+      "id": 21613,
+      "name": "eN0o"
+    },
+    {
+      "id": 21361,
+      "name": "hurtslxrd"
+    },
+    {
+      "id": 20600,
+      "name": "sm3t"
+    },
+    {
+      "id": 20199,
+      "name": "SoLb"
+    },
+    {
+      "id": 20073,
+      "name": "T4RG3T"
+    },
+    {
+      "id": 20402,
+      "name": "synyx"
+    },
+    {
+      "id": 17316,
+      "name": "Vert"
+    }
+  ],
+  "standins": [
+    {
+      "id": 19210,
+      "name": "ISFANXGOD"
+    },
+    {
+      "id": 24171,
+      "name": "Djon8"
+    },
+    {
+      "id": 18448,
+      "name": "d0Za_L"
+    },
+    {
+      "id": 18449,
+      "name": "ALIK"
+    }
+  ],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8294,
+        "name": "ESL Challenger League Season 49 Europe"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8370,
+        "name": "PGL Bucharest 2025 Europe Open Qualifier 4"
+      }
+    },
+    {
+      "place": "19-20th",
+      "event": {
+        "id": 8111,
+        "name": "A1 Gaming League Season 9"
+      }
+    },
+    {
+      "place": "12-14th",
+      "event": {
+        "id": 8129,
+        "name": "Winline Insight Season 6"
+      }
+    },
+    {
+      "place": "21-24th",
+      "event": {
+        "id": 8146,
+        "name": "Hellcase Cup 11"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 8147,
+        "name": "Winline Pro League Season 2"
+      }
+    },
+    {
+      "place": "13-14th",
+      "event": {
+        "id": 7800,
+        "name": "ESL Challenger League Season 48 Europe"
+      }
+    },
+    {
+      "place": "9-11th",
+      "event": {
+        "id": 8053,
+        "name": "Winline Insight Season 5"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 8091,
+        "name": "ESL Challenger Katowice 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "9-12th",
+      "event": {
+        "id": 8087,
+        "name": "FASTCUP CSGORUN Cup Season 1"
+      }
+    },
+    {
+      "place": "12-14th",
+      "event": {
+        "id": 7867,
+        "name": "Perfect World Shanghai Major 2024 EU RMR Closed Qualifier B"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7974,
+        "name": "IEM Rio 2024 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 8000,
+        "name": "Betera Vibe City 2024"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7897,
+        "name": "Regional Clash Arena CIS 2024"
+      }
+    },
+    {
+      "place": "1-2nd",
+      "event": {
+        "id": 7801,
+        "name": "ESL Challenger League Season 47 Europe Relegation"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7798,
+        "name": "ESEA Advanced Season 49 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7796,
+        "name": "Hellcase Cup 9"
+      }
+    },
+    {
+      "place": "19-20th",
+      "event": {
+        "id": 7672,
+        "name": "A1 Gaming League Season 8"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7730,
+        "name": "ESEA Advanced Season 48 Europe"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7664,
+        "name": "ESL Challenger Melbourne 2024 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7396,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 4"
+      }
+    },
+    {
+      "place": "17-32nd",
+      "event": {
+        "id": 7395,
+        "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 3"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7592,
+        "name": "22BET Christmas Cup 2023"
+      }
+    },
+    {
+      "place": "1st",
+      "event": {
+        "id": 7574,
+        "name": "ESEA Autumn 2023 Cash Cup 6 Europe"
+      }
+    },
+    {
+      "place": "13-15th",
+      "event": {
+        "id": 7459,
+        "name": "A1 Gaming League Season 7"
+      }
+    },
+    {
+      "place": "8th",
+      "event": {
+        "id": 7519,
+        "name": "LEON TEAMPLAY Season 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7464,
+        "name": "ESL Challenger Atlanta 2023 Europe Open Qualifier"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7522,
+        "name": "HardPlay Cup 8"
+      }
+    },
+    {
+      "place": "3-4th",
+      "event": {
+        "id": 7357,
+        "name": "CCT Central Europe Series 8"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 7470,
+        "name": "Buster CS2 League 2023"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 7377,
+        "name": "CCT East Europe Series 2"
+      }
+    },
+    {
+      "place": "5-8th",
+      "event": {
+        "id": 7333,
+        "name": "Thunderpick World Championship 2023 Europe Series 2"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7378,
+        "name": "CCT East Europe Series 2 Closed Qualifier"
+      }
+    },
+    {
+      "place": "23-24th",
+      "event": {
+        "id": 7342,
+        "name": "CCT North Europe Series 7"
+      }
+    },
+    {
+      "place": "13-15th",
+      "event": {
+        "id": 7331,
+        "name": "Pinnacle Cup V"
+      }
+    },
+    {
+      "place": "17-19th",
+      "event": {
+        "id": 7329,
+        "name": "CCT East Europe Series 1"
+      }
+    },
+    {
+      "place": "9-16th",
+      "event": {
+        "id": 7305,
+        "name": "CCT North Europe Series 6"
+      }
+    },
+    {
+      "place": "1-4th",
+      "event": {
+        "id": 7309,
+        "name": "CCT North Europe Series 6 Closed Qualifier"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 7193,
+        "name": "ESL Challenger League Season 45 Europe Relegation"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 7194,
+        "name": "ESEA Advanced Season 45 Europe"
+      }
+    },
+    {
+      "place": "3rd",
+      "event": {
+        "id": 6966,
+        "name": "FASTCUP Grand Tour Season 2"
+      }
+    },
+    {
+      "place": "17-24th",
+      "event": {
+        "id": 6920,
+        "name": "ESEA Advanced Season 43 Europe"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 6901,
+        "name": "SCL Season 7"
+      }
+    },
+    {
+      "place": "17-24th",
+      "event": {
+        "id": 6775,
+        "name": "ESEA Advanced Season 42 Europe"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 6407,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 2"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 6378,
+        "name": "REPUBLEAGUE Season 3 Europe Open Qualifier 1"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 6267,
+        "name": "SteelSeries FRAG Season 7"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 5026,
+        "name": "WESG 2019 Uzbekistan"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 31,
+      "draws": 0,
+      "losses": 38,
+      "winRate": 44.9,
+      "totalRounds": 1668,
+      "roundWinPAfterFirstKill": 71.3,
+      "roundWinPAfterFirstDeath": 26.6
+    },
+    "de_mirage": {
+      "wins": 31,
+      "draws": 0,
+      "losses": 30,
+      "winRate": 50.8,
+      "totalRounds": 1501,
+      "roundWinPAfterFirstKill": 73.3,
+      "roundWinPAfterFirstDeath": 25.1
+    },
+    "de_anubis": {
+      "wins": 30,
+      "draws": 0,
+      "losses": 27,
+      "winRate": 52.6,
+      "totalRounds": 1380,
+      "roundWinPAfterFirstKill": 71.5,
+      "roundWinPAfterFirstDeath": 29.2
+    },
+    "de_inferno": {
+      "wins": 22,
+      "draws": 0,
+      "losses": 26,
+      "winRate": 45.8,
+      "totalRounds": 1115,
+      "roundWinPAfterFirstKill": 66.5,
+      "roundWinPAfterFirstDeath": 30.9
+    },
+    "de_nuke": {
+      "wins": 24,
+      "draws": 0,
+      "losses": 24,
+      "winRate": 50,
+      "totalRounds": 1103,
+      "roundWinPAfterFirstKill": 70.6,
+      "roundWinPAfterFirstDeath": 28.8
+    },
+    "de_overpass": {
+      "wins": 12,
+      "draws": 0,
+      "losses": 16,
+      "winRate": 42.9,
+      "totalRounds": 665,
+      "roundWinPAfterFirstKill": 68.3,
+      "roundWinPAfterFirstDeath": 24
+    },
+    "de_vertigo": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 9,
+      "winRate": 50,
+      "totalRounds": 419,
+      "roundWinPAfterFirstKill": 72.9,
+      "roundWinPAfterFirstDeath": 25
+    },
+    "de_dust2": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 7,
+      "winRate": 22.2,
+      "totalRounds": 182,
+      "roundWinPAfterFirstKill": 63,
+      "roundWinPAfterFirstDeath": 28.7
+    },
+    "de_train": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "winRate": 66.7,
+      "totalRounds": 60,
+      "roundWinPAfterFirstKill": 75.8,
+      "roundWinPAfterFirstDeath": 44.4
+    }
+  }
+}
